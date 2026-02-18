@@ -1,0 +1,542 @@
+<!DOCTYPE html>
+<html lang="en-US" class="h-100">
+
+<head>
+	<!-- Google tag (gtag.js) 
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-W4PL6WLNS3"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'G-W4PL6WLNS3');
+	</script>
+-->
+	<!-- Google Tag Manager 
+	<script>
+		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})
+		(window,document,'script','dataLayer','GTM-TX5KR6W');
+	</script>
+	End Google Tag Manager -->
+
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="url" content="https://peraturan.go.id/common/dokumen/ln/2023/ps04-2023bt.pdf">
+	<meta name="google-site-verification" content="SoJW4gQPDHuCZhyxtz8qAeDk6XP-_6r5tHLsGn4f2hc" />
+		<title></title>
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<meta name="twitter:image" content="https://peraturan.go.id/peraturan.png">
+<meta name="twitter:site" content="Database Peraturan Perundang-undangan Indonesia - [PERATURAN.GO.ID]">
+<meta name="twitter:url" content="https://peraturan.go.id/common/dokumen/ln/2023/ps04-2023bt.pdf">
+<meta property="og:image" content="https://peraturan.go.id/peraturan.png">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Database Peraturan Perundang-undangan Indonesia - [PERATURAN.GO.ID]">
+<meta property="og:updated_time" content="Feb 18, 2026, 1:22:14 PM">
+<meta property="og:url" content="https://peraturan.go.id/common/dokumen/ln/2023/ps04-2023bt.pdf">
+<link href="https://peraturan.go.id/common/dokumen/ln/2023/ps04-2023bt.pdf" rel="canonical">
+<link href="/3c7db221/dist/css/bootstrap.css?v=1686540021" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet">
+<link href="/css/bootstrap.min.css?v=1667836296" rel="stylesheet">
+<link href="/css/style.css?v=1757829126" rel="stylesheet">
+<link href="/css/mymodif.css?v=1681003042" rel="stylesheet">
+<link href="/css/vendors.css?v=1599037246" rel="stylesheet">
+<link href="/css/custom.css?v=1483526540" rel="stylesheet">
+<link href="/css/blog.css?v=1557171550" rel="stylesheet">
+<script src="/ccf50ceb/jquery.js?v=1686540021"></script>	
+</head>
+
+
+<body>
+	<!-- Google Tag Manager (noscript) 
+	<noscript>
+		<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TX5KR6W" height="0" width="0" style="display:none;visibility:hidden">
+		</iframe>
+	</noscript>
+	End Google Tag Manager (noscript) -->
+	
+	<div id="page">
+
+		<header class="header menu_fixed">
+    <div id="logo">
+        <!-- <a href="index.html" title="Sparker - Directory and listings template"> -->
+            <!-- <img src="img/logo.svg" width="165" height="35" alt="" class="logo_normal"> -->
+
+
+
+            <a href=" /" title="Database Peraturan">
+
+                <img class="logo_normal" src="/img/master-baru-putih.png" width="228" height="35" alt="logo header">                <img class="logo_sticky" src="/img/master-baru2.png" width="228" height="35" alt="logo header">
+            </a>
+        </div>
+    <!-- <ul id="top_menu">
+        <li><a href="account.html" class="btn_add">Add Listing</a></li>
+        <li><a href="#sign-in-dialog" id="sign-in" class="login" title="Sign In">Sign In</a></li>
+        <li><a href="wishlist.html" class="wishlist_bt_top" title="Your wishlist">Your wishlist</a></li>
+    </ul> -->
+
+    <ul id="top_menu">
+
+        <div id="google_translate_element" class="mt-2"></div>
+        <script type="text/javascript">
+            function googleTranslateElementInit() {
+                new google.translate.TranslateElement({
+                    pageLanguage: 'id',
+                    // includedLanguages: 'en, ja,ko,fr,de,nl,ar',
+                    layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+                }, 'google_translate_element');
+            }
+        </script>
+        <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        <li></li>
+        <li></li>
+    </ul>
+    <!-- /top_menu -->
+    <a href="#menu" class="btn_mobile">
+        <div class="hamburger hamburger--spin" id="hamburger">
+            <div class="hamburger-box">
+                <div class="hamburger-inner"></div>
+            </div>
+        </div>
+    </a>
+    <nav id="menu" class="main-menu">
+        
+<ul><li> <span><a href="/"> <span>Beranda</span></a></span></li>
+<li> <span><a href="/progsun">Progsun</a></span></li>
+<li><span><a href="#">NA</a></span>
+<ul>
+<li><a href="/napenyelarasan">penyelarasan</a></li>
+<li><a href="/napenyusunan">Penyusunan</a></li>
+</ul>
+</li>
+<li><span><a href="#">Peraturan</a></span>
+<ul>
+<li><a href="/tapmpr">TAP MPR</a></li>
+<li><a href="/uu">UU</a></li>
+<li><a href="/perppu">PERPPU</a></li>
+<li><a href="/pp">PP</a></li>
+<li><a href="/perpres">PERPRES</a></li>
+<li><a href="/permen">PERMEN</a></li>
+<li><a href="/permenkumham">PERMENKUMHAM</a></li>
+<li><a href="/permenkum">PERMENKUM</a></li>
+<li><a href="/perban">PERBAN</a></li>
+<li><a href="/perda">PERDA</a></li>
+</ul>
+</li>
+<li><span><a href="#">E-Harmonisasi</a></span>
+<ul>
+<li><a href="/harmonpusat">Peraturan Pusat</a></li>
+<li><a href="/harmonperda">Peraturan Daerah</a></li>
+<li><a href="/harmonperkada">Peraturan Kepala Daerah</a></li>
+</ul>
+</li>
+<li> <span><a href="/kategori">Kategori</a></span></li>
+<li><span><a href="#">Penerjemahan</a></span>
+<ul>
+<li><a href="https://e-penerjemahan.peraturan.go.id">Permohonan Online</a></li>
+<li><a href="/terjemahresmi">Data Penerjemahan</a></li>
+<li><a href="/glossary">Glosarium</a></li>
+</ul>
+</li>
+<li><span><a href="#">Layanan</a></span>
+<ul>
+<li><a href="https://e-pengundangan.peraturan.go.id">Pengundangan Online</a></li>
+<li><a href="/putusan">Penerbitan Putusan MK</a></li>
+<li><a href="https://e-partisipasi.peraturan.go.id">Partisipasi Masyarakat</a></li>
+<li><a href="/pembentukan">Pembentukan Peraturan</a></li>
+</ul>
+</li>
+<li><span><a href="/login">Login</a></span></li></ul>
+    </nav>
+</header>
+		<main class="pattern">
+			<main>
+    <div id="error_page">
+        <div class="wrapper">
+            <div class="container">
+                <div class="row justify-content-center text-center">
+                    <div class="col-xl-7 col-lg-9">
+                        <h2>404 <i class="icon_error-triangle_alt"></i></h2>
+                        <p>Halaman Tidak Ditemukan, silahkan hubungi admin website</p>
+
+                        <form action="/cariglobal" method="get">
+                            <div class="search_bar_error">
+
+                                <input type="text" id="peraturansearch-idglobal" class="form-control" name="PeraturanSearch[idglobal]" placeholder="Cari peraturan lainnya....">
+                                <input type="submit" value="Search">
+                            </div>
+                        </form>
+
+                    </div>
+                </div>
+                <!-- /row -->
+            </div>
+            <!-- /container -->
+        </div>
+        <!-- /wrapper -->
+    </div>
+
+
+
+    <div class="bg_color_1">
+        <div class="container margin_80_55" style="padding-bottom: 40px;">
+            <div class="row justify-content-center">
+                                                            <div class="col-lg-3 col-md-6 ">
+                            <a href="/uu" class="box_cat_home">
+                                <!-- <i class="icon_menu-circle_alt"></i> -->
+
+                                <img src="/img/header/uu.png" width="65" height="65" alt="">                                <h6>Undang-Undang</h6>
+                                <ul>
+                                    <li><strong>1926</strong>Peraturan</li>
+                                </ul>
+                            </a>
+                        </div>
+                                            <div class="col-lg-3 col-md-6 ">
+                            <a href="/perppu" class="box_cat_home">
+                                <!-- <i class="icon_menu-circle_alt"></i> -->
+
+                                <img src="/img/header/perppu.png" width="65" height="65" alt="">                                <h6>Peraturan Pemerintah Pengganti Undang-undang</h6>
+                                <ul>
+                                    <li><strong>218</strong>Peraturan</li>
+                                </ul>
+                            </a>
+                        </div>
+                                            <div class="col-lg-3 col-md-6 ">
+                            <a href="/pp" class="box_cat_home">
+                                <!-- <i class="icon_menu-circle_alt"></i> -->
+
+                                <img src="/img/header/pp.png" width="65" height="65" alt="">                                <h6>Peraturan Pemerintah</h6>
+                                <ul>
+                                    <li><strong>4989</strong>Peraturan</li>
+                                </ul>
+                            </a>
+                        </div>
+                                            <div class="col-lg-3 col-md-6 ">
+                            <a href="/perpres" class="box_cat_home">
+                                <!-- <i class="icon_menu-circle_alt"></i> -->
+
+                                <img src="/img/header/perpres.png" width="65" height="65" alt="">                                <h6>Peraturan Presiden</h6>
+                                <ul>
+                                    <li><strong>2640</strong>Peraturan</li>
+                                </ul>
+                            </a>
+                        </div>
+                                            <div class="col-lg-3 col-md-6 ">
+                            <a href="/permen" class="box_cat_home">
+                                <!-- <i class="icon_menu-circle_alt"></i> -->
+
+                                <img src="/img/header/permen.png" width="65" height="65" alt="">                                <h6>Peraturan Menteri</h6>
+                                <ul>
+                                    <li><strong>19967</strong>Peraturan</li>
+                                </ul>
+                            </a>
+                        </div>
+                                            <div class="col-lg-3 col-md-6 ">
+                            <a href="/perban" class="box_cat_home">
+                                <!-- <i class="icon_menu-circle_alt"></i> -->
+
+                                <img src="/img/header/perban.png" width="65" height="65" alt="">                                <h6>Peraturan Badan/Lembaga</h6>
+                                <ul>
+                                    <li><strong>6723</strong>Peraturan</li>
+                                </ul>
+                            </a>
+                        </div>
+                                            <div class="col-lg-3 col-md-6 ">
+                            <a href="/perda" class="box_cat_home">
+                                <!-- <i class="icon_menu-circle_alt"></i> -->
+
+                                <img src="/img/header/perda.png" width="65" height="65" alt="">                                <h6>Peraturan Daerah</h6>
+                                <ul>
+                                    <li><strong>19732</strong>Peraturan</li>
+                                </ul>
+                            </a>
+                        </div>
+                                    
+                <div class="col-lg-3 col-md-6">
+                    <a href="/all" class="box_cat_home">
+                        <!-- <i class="icon_menu-circle_alt"></i> -->
+
+                        <img src="/img/header/lainnya.png" width="65" height="65" alt="">                        <h6>Peraturan Lainnya</h6>
+                        <ul>
+                            <li><strong>Lihat Semua Peraturan</li>
+                            </ul>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <!-- /container -->
+        </div>
+
+        <div class="call_section">
+            <div class="wrapper">
+                <div class="container margin_80_55">
+                    <div class="main_title_2">
+                        <span><em></em></span>
+                        <h2>SEPUTAR WEBSITE</h2>
+                        <p>Menampilkan informasi menengenai peraturan perundang-undangan tingkat pusat dan Daerah </p>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <div class="box_how">
+                                <i class="pe-7s-search"></i>
+                                <h3>Cari Peraturan</h3>
+                                <p>Silahkan cari informasi peraturan melalui menu pencarian</p>
+                                <span></span>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="box_how">
+                                <i class="pe-7s-info"></i>
+                                <h3>Rekapitulasi</h3>
+                                <p>Kami menampilkan mengenai jumlah peraturan perundang-undangan</p>
+                                <span></span>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="box_how">
+                                <i class="pe-7s-like2"></i>
+                                <h3>Relasi</h3>
+                                <p>Kami menampilkan hubungan antar peraturan perundang-undangan</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /row -->
+                </div>
+                <canvas id="hero-canvas" width="1920" height="1080"></canvas>
+            </div>
+            <!-- /wrapper -->
+        </div>
+
+
+        <!-- /error_page -->
+    </main>		</main>
+		
+
+
+<footer class="plus_border">
+    <div class="container margin_60_35">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-6">
+
+                <div class="widget-title">
+                    <h3>Tentang Website</h3>
+                </div>
+                <div class="collapse dont-collapse-sm" id="collapse_ft_1">
+                    <br>
+                    <p>
+                        <img src="/img/master-baru2.png" width="228" height="35" alt="logo header">                    </p>
+                    <p>Website Direktorat Jenderal Peraturan Perundang-undangan yang menampilkan Database Peraturan Perundang-undangan yang memuat informasi mengenai jenis, status, hubungan antar peraturan, dan statistik peraturan perundang-undangan
+                    </p>
+                </div>
+
+                <div class="follow_us">
+                    <h3>Ikuti Kami</h3>
+                    <ul>
+                        <li><a href="#"><i class="ti-facebook"></i></a></li>
+                        <li><a href="#"><i class="ti-twitter-alt"></i></a></li>
+                        <li><a href="#"><i class="ti-google"></i></a></li>
+                        <li><a href="#"><i class="ti-pinterest"></i></a></li>
+                        <li><a href="#"><i class="ti-instagram"></i></a></li>
+                    </ul>
+                </div>
+
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-6">
+                <!-- <h3 data-bs-target="#collapse_ft_2">Link Terkait</h3> -->
+                <div class="widget-title">
+                    <h3>Kontak Kami</h3>
+                </div>
+
+                <div class="collapse dont-collapse-sm" id="collapse_ft_3">
+                    <ul class="contacts">
+                        <li><i class="ti-home"></i>Jl.HR. Rasuna Said Kav 6-7<br>Jakarta, Indonesia</li>
+                        <li><i class="ti-headphone-alt"></i>0215264516</li>
+                        <li><i class="ti-email"></i><a href="#0">admin@peraturan.go.id</a></li>
+                        <!-- <li><i class="ti-whatsapp"></i><a href="#0">Wahhatssada</a></li> -->
+                        <!-- <li><i class="ti-instagram"></i><a href="#0"></a></li> -->
+                    </ul>
+                </div>
+
+                <!-- <div class="collapse dont-collapse-sm" id="collapse_ft_2">
+                    <ul class="links">
+                        <li><a href="https://ditjenpp.kemenkumham.go.id" target="_blank">Ditjen PP </a></li>
+                        <li><a href="https://e-partisipasi.peraturan.go.id" target="_blank">Partisipasi Publik</a></li>
+                        <li><a href="https://jdih.peraturan.go.id" target="_blank">JDIH Ditjen PP</a></li>
+
+                    </ul>
+                </div> -->
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-6">
+                <div class="widget-title">
+                    <h3>Statistik Pengunjung</h3>
+                </div>
+
+                <div class="filter_type">
+
+                    <ul>
+                        <li>
+                            <label class="container_check" style="padding-left: 0px;">
+                                online
+                                <small>
+                                    1.132                                </small>
+
+                            </label>
+                        </li>
+                        <li>
+                            <label class="container_check" style="padding-left: 0px;">
+                                Hari ini
+                                <small>
+                                    20.768                                </small>
+
+                            </label>
+                        </li>
+                        <li>
+                            <label class="container_check" style="padding-left: 0px;">
+
+                                Kemarin
+                                <small>
+                                    18.484                                </small>
+
+                            </label>
+                        </li>
+
+                        <li>
+                            <label class="container_check" style="padding-left: 0px;">
+
+                                Minggu Ini
+                                <small>
+                                    64.194                                </small>
+
+                            </label>
+                        </li>
+
+                        <li>
+                            <label class="container_check" style="padding-left: 0px;">
+
+                                Minggu Lalu
+                                <small>
+                                    117.010                                </small>
+
+                            </label>
+                        </li>
+
+                        <li>
+                            <label class="container_check" style="padding-left: 0px;">
+
+                                Bulan Ini
+                                <small>
+                                    295.181                                </small>
+
+                            </label>
+                        </li>
+
+                        <li>
+                            <label class="container_check" style="padding-left: 0px;">
+
+                                Bulan Lalu
+                                <small>
+                                    483.227                                </small>
+
+                            </label>
+                        </li>
+
+                        <li>
+                            <label class="container_check" style="padding-left: 0px;">
+
+                                <strong>Total Pengunjung</strong>
+                                <small>
+                                    22.930.054
+                                    <!--     <script type="text/javascript">
+                                                var sc_project=11984837; 
+                                                var sc_invisible=0; 
+                                                var sc_security="2739d543"; 
+                                                var scJsHost = "https://";
+                                                document.write("<sc"+"ript type='text/javascript' src='" +
+                                                    scJsHost+
+                                                    "statcounter.com/counter/counter.js'></"+"script>");
+                                                </script> -->
+                                </small>
+
+                            </label>
+                        </li>
+                    </ul>
+                    <center>
+                        <a href="https://statcounter.com/p11984837/?guest=1">Detail
+                            Pengunjung</a>
+                    </center>
+                </div>
+
+            </div>
+        </div>
+        <!-- /row-->
+        <hr>
+        <div class="row">
+            <div class="col-lg-6" style="display: none;">
+
+                <script>
+                    var sc_project = 11984837;
+                    var sc_invisible = 0;
+                    var sc_security = "2739d543";
+                    var scJsHost = "https://";
+                    document.write("<sc" + "ript type='text/javascript' src='" +
+                        scJsHost +
+                        "statcounter.com/counter/counter.js'></" + "script>");
+                </script>
+
+                <noscript>
+                    <div class="statcounter"><a title="Web Analytics" href="https://statcounter.com/" target="_blank"><img class="statcounter" src="https://c.statcounter.com/11984837/0/2739d543/0/" alt="Web Analytics" referrerPolicy="no-referrer-when-downgrade"></a></div>
+                </noscript>
+                <!-- End of Statcounter Code -->
+
+                <a href="https://statcounter.com/p11984837/?guest=1">Detail
+                    Pengunjung</a>
+            </div>
+
+            <ul id="additional_links">
+
+                <li><span>© 2023 Sisinfo - Ditjen PP</span></li>
+                <li><span>IP Anda : 112.78.157.175</span></li>
+                  <li><span>
+                        <div id="server-time"></div>
+                    </span>
+                </li> 
+
+            </ul>
+
+        </div>
+</footer>	</div>
+	<div id="toTop"></div>
+
+
+	<script src="https://website-widgets.pages.dev/dist/sienna.min.js" defer></script>
+<script src="/fe9cc840/yii.js?v=1686540021"></script>
+<script src="/js/page.js?v=1679284253"></script>
+<script src="/js/masonry.pkgd.min.js?v=1679059591"></script>
+<script src="/js/common_scripts.js?v=1675068897"></script>
+<script src="/js/functions.js?v=1629210684"></script>
+<script>jQuery(function ($) {
+
+    function updateServerTime() {
+        var serverTime = new Date();
+        var options = {
+            year: 'numeric',
+            month: 'long',
+            day: 'numeric',
+            hour: 'numeric',
+            minute: 'numeric',
+            second: 'numeric',
+            timeZone: 'Asia/Jakarta'
+        };
+        var formattedTime = serverTime.toLocaleString('id-ID', options);
+        $('#server-time').text(formattedTime);
+    }
+
+    setInterval(updateServerTime, 1000);
+    
+});</script>
+</body>
+
+</html>
