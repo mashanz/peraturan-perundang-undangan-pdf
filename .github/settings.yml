@@ -1,0 +1,17 @@
+repository:
+  name: peraturan-perundang-undangan
+  description: "Indonesian Legal System Conversion - Complete hierarchy from UUD 1945 to Village Regulations"
+  default_branch: master
+  has_issues: true
+  has_projects: true
+  has_wiki: true
+
+branches:
+  - name: master
+    protection:
+      required_status_checks:
+        strict: false
+      enforce_admins: false
+      required_pull_request_reviews:
+        required_approving_review_count: 0
+      restrictions: null
