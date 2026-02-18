@@ -102,11 +102,6 @@ TAP MPR adalah **keputusan MPR** yang bersifat mengatur (regeling) dan mengikat 
 }
 ```
 
-### Analysis Questions
-1. Apakah peraturan baru sesuai dengan TAP MPR yang masih berlaku?
-2. Apakah implementasi HAM mengikuti TAP V/MPR/1999?
-3. Apakah kebijakan ekonomi selaras dengan TAP XVI/MPR/1998?
-
 ## 🔍 Implementasi dalam Praktik
 
 ### Dalam UU

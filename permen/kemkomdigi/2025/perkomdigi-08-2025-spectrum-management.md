@@ -373,9 +373,6 @@ Peraturan Menteri ini mulai berlaku pada tanggal **1 Juni 2025**.
 
 ## 🎯 AI Analysis Summary
 
-### Strategic Significance
-**📡 SPECTRUM SOVEREIGNTY** - This regulation positions Indonesia at the forefront of spectrum management for the 5G era and beyond, ensuring optimal utilization of this scarce national resource while preparing for 6G and future wireless technologies.
-
 ### Comprehensive Spectrum Framework
 1. **Three-tier 5G spectrum** allocation (Low/Mid/High band) with specific frequency assignments
 2. **Dynamic Spectrum Access** with real-time database and cognitive radio support

@@ -390,11 +390,6 @@ Peraturan Menteri ini mulai berlaku pada tanggal **17 Desember 2024**.
 3. **Privacy by design** - Data minimization and irreversible biometric templates
 4. **International standards** - SAML 2.0, OpenID Connect, OAuth 2.0, FIDO2
 
-### Implementation Roadmap
-- **2025 Foundation:** Core system, government services, LoA-1/2
-- **2026 Expansion:** Commercial integration, banking, mobile app, LoA-3
-- **2027 Maturation:** Critical services, international federation, LoA-4
-
 ### Business Opportunities
 - **Digital transformation acceleration** - Universal authentication infrastructure
 - **Service innovation** - New services enabled by trusted identity

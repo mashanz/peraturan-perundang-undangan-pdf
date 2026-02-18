@@ -383,9 +383,6 @@ Peraturan Menteri ini mulai berlaku pada tanggal **1 Agustus 2025**.
 
 ## 🎯 AI Analysis Summary
 
-### Strategic Significance
-**🛒 DIGITAL ECONOMY FOUNDATION** - This regulation establishes the comprehensive framework for Indonesia's e-commerce ecosystem, balancing innovation and consumer protection while positioning Indonesia as a leading digital economy in Southeast Asia.
-
 ### Comprehensive E-Commerce Framework
 1. **3-tier platform classification** (Large/Medium/Small) with scaled compliance requirements
 2. **Advanced seller verification** with automated identity and business registration checks

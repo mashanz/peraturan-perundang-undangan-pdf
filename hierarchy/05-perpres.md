@@ -202,11 +202,6 @@
 - **Setneg.go.id** - Portal Sekretariat Negara
 - **Setkab.go.id** - Informasi kebijakan
 
-### Analysis Tools
-- **Legal Hierarchy Check** - Validasi hierarki
-- **Cross-Reference System** - Rujukan silang
-- **Implementation Tracking** - Status pelaksanaan
-
 ## 📚 References
 
 - UUD 1945 Pasal 4 ayat (1) dan Pasal 5

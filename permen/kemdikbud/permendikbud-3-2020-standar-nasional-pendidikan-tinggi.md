@@ -106,7 +106,6 @@ Dalam Peraturan Menteri ini yang dimaksud dengan:
 ### PRACTICAL APPLICATION GUIDELINES
 
 #### Bagi Rektor/Pimpinan Perguruan Tinggi
-1. **Strategic Planning**: Menyusun rencana strategis berbasis standar nasional
 2. **Resource Allocation**: Mengalokasikan sumber daya secara optimal
 3. **Quality Management**: Implementasi sistem manajemen mutu
 4. **Stakeholder Engagement**: Membangun relasi dengan stakeholders
@@ -151,4 +150,3 @@ Peraturan ini berlaku sejak tanggal ditetapkan dan merupakan landasan implementa
 **Sumber:** JDIH Kemdikbud - https://jdih.kemdikbud.go.id/  
 **Status:** Berlaku  
 **Kategori:** Higher Education Regulations  
-**Target:** Perguruan Tinggi, Program Studi

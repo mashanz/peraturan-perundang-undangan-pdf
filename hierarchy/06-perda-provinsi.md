@@ -222,11 +222,6 @@
 - **Kemendagri** - Database evaluasi Perda
 - **Bappenas** - Database perencanaan daerah
 
-### Analysis Tools
-- **Regulatory Mapping** - Pemetaan regulasi daerah  
-- **Conflict Detection** - Deteksi konflik peraturan
-- **Performance Dashboard** - Dashboard kinerja Perda
-
 ---
 
 **Previous Level**: [Perpres](05-perpres.md) - Peraturan Presiden  

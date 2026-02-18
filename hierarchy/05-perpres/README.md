@@ -11,10 +11,6 @@ Presidential Regulations are issued by the President to regulate matters under e
 
 ## Key Presidential Regulations
 
-### Strategic National Development
-- **[Perpres No. 18 Tahun 2020](perpres-18-2020.md)** - Rencana Pembangunan Jangka Menengah Nasional (RPJMN) 2020-2024
-- **[Perpres No. 95 Tahun 2018](perpres-95-2018.md)** - Sistem Pemerintahan Berbasis Elektronik
-
 ### Investment and Economic Development
 - **[Perpres No. 10 Tahun 2021](perpres-10-2021.md)** - Bidang Investasi
 - **[Perpres No. 44 Tahun 2020](perpres-44-2020.md)** - Pengadaan Barang/Jasa Pemerintah

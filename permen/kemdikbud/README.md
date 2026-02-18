@@ -37,7 +37,6 @@ This directory contains individual Permendikbud (Ministry of Education, Culture,
 
 Each regulation file contains:
 - ✅ Complete legal text in clean markdown
-- ✅ Implementation framework
 - ✅ Educational impact analysis
 - ✅ Practical application guidelines
 
@@ -48,5 +47,4 @@ Alternative source: BPK Database Peraturan: https://peraturan.bpk.go.id/
 
 ## Status
 
-Target: 25-35 individual regulation files
 Progress: In development

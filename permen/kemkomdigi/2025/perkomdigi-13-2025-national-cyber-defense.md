@@ -361,9 +361,6 @@ Peraturan Menteri ini mulai berlaku pada tanggal **1 Juli 2025**.
 
 ## 🎯 AI Analysis Summary
 
-### Strategic Significance
-**🛡️ NATIONAL SECURITY CRITICAL** - This regulation establishes Indonesia's comprehensive cyber defense posture, creating the framework for protecting national digital sovereignty and critical infrastructure against increasingly sophisticated cyber threats.
-
 ### National Cyber Defense Architecture
 1. **6-tier organizational structure** from National Cyber Security Council to Private Sector CSIRTs
 2. **24x7x365 National SOC** with 3-tier support structure  
