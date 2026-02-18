@@ -1,7 +1,5 @@
 # PP LEVEL 4 CONVERSION: ENVIRONMENTAL GOVERNANCE AND CLIMATE CHANGE ADAPTATION
 
-## **PP No. 22/2021 + Updates - Environmental Protection and Climate Change Management Framework**
-
 ### **COMPLETE PP TEXT ANALYSIS**
 
 **Official Title:** Peraturan Pemerintah tentang Penyelenggaraan Perlindungan dan Pengelolaan Lingkungan Hidup serta Adaptasi dan Mitigasi Perubahan Iklim
@@ -12,18 +10,8 @@
 
 #### **Integrated Environmental Governance (Pasal 1-40)**
 
-1. **Climate Change Mitigation and Adaptation Framework**
-   - National greenhouse gas emission reduction targets (29% unconditional, 41% conditional by 2030)
-   - Regional climate adaptation planning integration with development planning
-   - Carbon pricing mechanism implementation and monitoring
-   - Renewable energy transition mandatory targets by sector and region
-
 2. **Environmental Impact Assessment Integration**
    - **Streamlined EIA Process:** Risk-based environmental assessment
-   - **Strategic Environmental Assessment (SEA):** Mandatory for regional development plans
-   - **Digital Environmental Monitoring:** Real-time air, water, and soil quality tracking
-   - **Community-based Monitoring:** Citizen participation in environmental surveillance
-
 3. **Circular Economy Implementation**
    - Waste management hierarchy enforcement (reduce, reuse, recycle)
    - Extended producer responsibility for packaging and electronics
@@ -47,8 +35,6 @@
 - **Community-Based Adaptation:** Local knowledge integration in climate response
 
 ### **IMPLEMENTATION ANALYSIS**
-
-#### **Ministry Coordination Framework**
 
 **COORDINATING MINISTRY:**
 - **Kemenko Maritim dan Investasi** (Coordinating Ministry for Maritime Affairs and Investment)
@@ -110,8 +96,6 @@
    - **Environmental Performance Dashboard:** Public transparency and accountability portal
 
 ### **SECTORAL INTEGRATION REQUIREMENTS**
-
-#### **Green Economy Transition Framework**
 
 **ENERGY SECTOR TRANSFORMATION:**
 - **Renewable Energy Targets:** 23% by 2025, 31% by 2050

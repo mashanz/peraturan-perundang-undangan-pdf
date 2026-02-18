@@ -119,8 +119,6 @@
 4. **Sosial** - Social programs (10%)
 5. **Lainnya** - Various sectors (38%)
 
-## 🎯 AI Analysis Framework
-
 ### Compliance Matrix
 ```json
 {

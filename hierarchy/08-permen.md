@@ -160,8 +160,6 @@ UU → PP → Perpres → PERMEN
 4. **Kementerian ESDM** - Standar energi dan minerba
 5. **Kemenkumham** - Prosedur hukum dan HAM
 
-## 🎯 AI Analysis Framework
-
 ### Validity Check Matrix
 ```json
 {
@@ -218,8 +216,6 @@ UU → PP → Perpres → PERMEN
 - **Permen Kemendikbud tentang Standar Nasional** - Standar pendidikan yang jelas
 - **Permen Kemenkeu tentang Perpajakan** - Implementasi UU Pajak yang aplikatif
 
-## ⚠️ AI Analysis Red Flags
-
 ### Invalid Permen Indicators
 1. **No Clear Delegation** - Tidak ada perintah dari peraturan lebih tinggi
 2. **Creates New Legal Obligation** - Menciptakan kewajiban hukum baru
@@ -274,8 +270,6 @@ UU → PP → Perpres → PERMEN
 - ✅ **Tetap memiliki kekuatan hukum mengikat**
 - 🔄 **Posisi relatif tergantung basis delegasi**
 - ⚖️ **Harus selalu ada kewenangan yang jelas**
-
-**Untuk AI Analysis:** Selalu periksa basis kewenangan Permen sebelum menilai validitas dan kekuatan mengikatnya.
 
 ---
 

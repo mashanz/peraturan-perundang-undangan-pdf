@@ -37,11 +37,6 @@
 - **Reduced Penalties**: For victims defending against systematic abuse
 
 ### C. Negligent Homicide (Pembunuhan Karena Kelalaian)
-**Enhanced Framework:**
-- **Professional Negligence**: Special provisions for medical, transportation, workplace deaths
-- **Corporate Criminal Liability**: Companies can now be held criminally liable
-- **Victim Impact Consideration**: Mandatory victim impact statements
-
 ---
 
 ## II. ASSAULT & BATTERY (COMPREHENSIVE REFORM)
@@ -81,17 +76,12 @@
 
 ### A. **COLONIAL LAW ELIMINATION**
 **Historic Change**: Complete removal of "rape only applies outside marriage" concept
-**New Framework**: Sexual consent applies UNIVERSALLY regardless of marital status
-
 ### B. Rape and Sexual Violence (Perkosaan dan Kekerasan Seksual)
 **Articles 560-580** (estimated range)
 
 **Revolutionary Definitions:**
 - **Expanded Rape Definition**: Beyond penetration to all non-consensual sexual acts
 - **Marital Rape Recognition**: Full criminalization of spousal rape
-- **Consent Framework**: Clear affirmative consent standard
-- **Digital Sexual Violence**: Online sexual harassment criminalized
-
 **Enhanced Penalties:**
 - **Marital Rape**: 5-15 years imprisonment
 - **Aggravated Rape**: Life imprisonment possible
@@ -99,12 +89,6 @@
 - **Child Sexual Abuse**: Minimum 15 years, maximum life
 
 ### C. Sexual Harassment (Pelecehan Seksual)
-**Comprehensive New Framework:**
-- **Workplace Sexual Harassment**: Specific criminalization
-- **Digital Sexual Harassment**: Online threats, non-consensual sharing
-- **Public Space Harassment**: Street harassment criminalized
-- **Power-Based Harassment**: Enhanced penalties for authority figures
-
 ### D. **CHILD SEXUAL ABUSE** (MAXIMUM PROTECTION)
 **Articles 581-590** (estimated)
 
@@ -146,23 +130,12 @@
 - **Digital Child Abuse**: Online exploitation specifically criminalized
 
 ### B. Child Exploitation
-**Comprehensive Framework:**
-- **Economic Exploitation**: Child labor criminalization
-- **Sexual Exploitation**: Maximum penalties, lifetime supervision
-- **Educational Neglect**: Criminalization of denying education
-
 ---
 
 ## VI. DIGITAL CRIMES AGAINST PERSONS (21ST CENTURY PROVISIONS)
 
 ### A. Cyber Harassment (Pelecehan Digital)
 **Articles 616-625** (estimated)
-
-**Revolutionary Digital Framework:**
-- **Online Stalking**: Persistent digital harassment
-- **Digital Sexual Violence**: Non-consensual intimate image sharing
-- **Doxxing**: Sharing private information for harassment
-- **Deep Fake Sexual Content**: Specific criminalization
 
 **Enhanced Enforcement:**
 - **Cross-Border Prosecution**: International cooperation protocols

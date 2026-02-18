@@ -1,7 +1,5 @@
 # PP LEVEL 4 CONVERSION: SMART CITY DEVELOPMENT AND URBAN GOVERNANCE
 
-## **PP No. 8/2021 + Updates - Smart City Implementation and Urban Governance Framework**
-
 ### **COMPLETE PP TEXT ANALYSIS**
 
 **Official Title:** Peraturan Pemerintah tentang Penyelenggaraan Kota Cerdas dan Tata Kelola Perkotaan Terintegrasi (Smart City Implementation and Integrated Urban Governance)
@@ -11,12 +9,6 @@
 ### **CORE REGULATORY FRAMEWORK**
 
 #### **Smart City Architecture Integration (Pasal 1-45)**
-
-1. **Digital Urban Infrastructure Framework**
-   - **Smart City Command Center:** Integrated city operation center with real-time monitoring
-   - **IoT Sensor Network:** City-wide sensor deployment for traffic, environment, utilities
-   - **5G Infrastructure Readiness:** High-speed connectivity backbone for smart services
-   - **Data Analytics Platform:** Predictive analytics for urban planning and service optimization
 
 2. **Integrated Urban Service Delivery**
    - **Smart Transportation System:** Traffic management, public transport optimization, parking management
@@ -47,8 +39,6 @@
 - **Economic Development Department:** Digital business facilitation and innovation hub development
 
 ### **IMPLEMENTATION ANALYSIS**
-
-#### **Ministry Coordination Framework**
 
 **COORDINATING MINISTRY:**
 - **Kemenko PMK** (Coordinating Ministry for Human Development and Cultural Affairs)
@@ -163,11 +153,7 @@
 - **City Data Center:** Secure and resilient data storage and processing facility
 - **Cloud Integration:** Hybrid cloud strategy for scalability and cost efficiency
 - **Data Interoperability:** Standardized data exchange protocols between systems
-- **Cybersecurity Framework:** Comprehensive security measures for critical city systems
-
 ### **PUBLIC-PRIVATE PARTNERSHIP MODEL**
-
-#### **Smart City Investment Framework**
 
 **PPP STRUCTURE MODELS:**
 - **Infrastructure Development PPP:** Private sector investment in smart infrastructure with revenue sharing
@@ -204,8 +190,6 @@
 4. **Investment Attraction:** 20% increase in FDI and domestic investment
 
 ### **CITIZEN PRIVACY AND DIGITAL RIGHTS**
-
-#### **Privacy Protection Framework**
 
 **DATA PROTECTION MEASURES:**
 - **Personal Data Protection Compliance:** Full alignment with UU PDP requirements

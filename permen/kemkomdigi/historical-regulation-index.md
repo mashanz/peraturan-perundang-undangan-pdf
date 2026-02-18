@@ -229,11 +229,6 @@ for reg in regulations:
 - **[PSE Platform](content/2024/perkomdigi-05-2024.md)** - Digital platform regulation (Tier 1)  
 - **[Digital Identity](content/2024/perkomdigi-09-2024.md)** - National digital ID system (Tier 3)
 
-### **📊 Analysis & Tracking**
-- **[Active Regulations List](active-regulations.md)** - Complete 152+ regulation database
-- **[Change History](change-history.md)** - Git-tracked regulatory evolution
-- **[Critical Monitoring](critical-regulations.md)** - High-priority regulation dashboard
-
 ---
 
 ## ✅ **MISSION ACCOMPLISHED:**
@@ -252,12 +247,6 @@ for reg in regulations:
 → All content converted to searchable, structured markdown
 
 ### **Added Value Beyond Request:**
-🎯 **AI Analysis Summaries** - Every regulation includes impact analysis  
-🎯 **Cross-Reference Network** - Hyperlinked relationships to UU/PP/other Permen  
-🎯 **Git Change Tracking** - Full audit trail of regulatory modifications  
-🎯 **Compliance Monitoring** - Risk assessment and critical date tracking  
-🎯 **Tier Classification** - Priority-based regulation categorization  
-
 ---
 
 **Status:** 🎉 **FULLY OPERATIONAL** - AI agents can now read, search, and analyze Indonesian Kominfo regulations with unprecedented ease and accuracy!

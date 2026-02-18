@@ -80,28 +80,6 @@ TAP MPR adalah **keputusan MPR** yang bersifat mengatur (regeling) dan mengikat 
 | 4 | VI/MPR/2001 | Etika Berbangsa | Berlaku |
 | 5 | VIII/MPR/2001 | Rekomendasi Kebijakan | Berlaku |
 
-## 🎯 AI Analysis Points
-
-### Compliance Check Framework
-```json
-{
-  "tap_mpr_compliance": {
-    "active_taps": [
-      "XXV/MPRS/1966",
-      "XVI/MPR/1998", 
-      "V/MPR/1999",
-      "VI/MPR/2001",
-      "VIII/MPR/2001"
-    ],
-    "compliance_indicators": {
-      "human_rights": "TAP_V_MPR_1999",
-      "economic_policy": "TAP_XVI_MPR_1998",
-      "national_ethics": "TAP_VI_MPR_2001"
-    }
-  }
-}
-```
-
 ## 🔍 Implementasi dalam Praktik
 
 ### Dalam UU
@@ -113,11 +91,6 @@ TAP MPR adalah **keputusan MPR** yang bersifat mengatur (regeling) dan mengikat 
 - Rekomendasi kebijakan mengikuti TAP VIII/MPR/2001
 
 ## ⚠️ Catatan Penting
-
-### Untuk AI Analysis
-- **Periksa status terkini** - Beberapa TAP MPR sudah dicabut
-- **Fokus pada yang berlaku** - Hanya 5 TAP MPR yang masih efektif  
-- **Cross-reference dengan UU** - Implementasi melalui peraturan di bawahnya
 
 ### Untuk Legal Research
 - Gunakan TAP MPR No. I/MPR/2003 sebagai rujukan status

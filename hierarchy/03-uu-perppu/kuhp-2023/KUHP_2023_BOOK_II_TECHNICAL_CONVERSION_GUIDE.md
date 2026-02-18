@@ -30,19 +30,9 @@ TECHNICAL SPECIFICATIONS:
 - Investigation Requirements: Specialized femicide protocols
 ```
 
-#### Article 537-540 - Domestic Homicide Framework
-**TECHNICAL ENHANCEMENT**:
-- Mandatory life imprisonment for intimate partner killing
-- Psychological evaluation requirements
-- Victim impact statement integration
-- Asset forfeiture provisions
-
 ---
 
 ### SECTION 2: ASSAULT & BATTERY (Articles 541-555)
-
-#### Article 545-555 - Domestic Violence Criminal Framework (BREAKTHROUGH)
-**REVOLUTIONARY NEW SECTION**
 
 ##### Article 545 - Household Violence Definition
 ```
@@ -85,12 +75,6 @@ CRIMINALIZED BEHAVIORS:
 ---
 
 ### SECTION 3: SEXUAL CRIMES (Articles 560-590) - REVOLUTIONARY EXPANSION
-
-#### Article 560 - Universal Sexual Consent Framework (COLONIAL LAW ELIMINATION)
-**TECHNICAL REVOLUTION**:
-```
-OLD KUHP Article 285: "Rape outside marriage"
-NEW KUHP Article 560: "Sexual violence regardless of marital status"
 
 TECHNICAL CONVERSION:
 - Remove: All marital exemptions
@@ -153,16 +137,6 @@ ADDITIONAL CONSEQUENCES:
 - Mandatory supervision upon release
 ```
 
-#### Article 601-605 - Mandatory Reporting Framework
-**REVOLUTIONARY ENFORCEMENT**
-```
-MANDATORY REPORTERS:
-- Healthcare professionals
-- Teachers and school staff
-- Religious leaders
-- Social workers
-- Law enforcement
-
 FAILURE TO REPORT PENALTIES:
 - First offense: 1-3 years imprisonment
 - Repeat offense: 3-7 years imprisonment
@@ -172,15 +146,6 @@ FAILURE TO REPORT PENALTIES:
 ---
 
 ### SECTION 5: HUMAN TRAFFICKING (Articles 616-635)
-
-#### Article 616-625 - Modern Slavery Framework
-**COMPREHENSIVE ANTI-TRAFFICKING**
-```
-TRAFFICKING CATEGORIES:
-1. Labor trafficking: 8-20 years imprisonment
-2. Sex trafficking: 10-25 years imprisonment
-3. Child trafficking: 15 years-life imprisonment
-4. Organ trafficking: 20 years-life imprisonment
 
 CORPORATE LIABILITY:
 - Company dissolution possible
@@ -201,15 +166,6 @@ DIGITAL CRIME DEFINITIONS:
 - Social media impersonation for harassment: 3-8 years
 - Coordinated online harassment campaigns: 5-12 years
 ```
-
-#### Article 641-645 - Platform Accountability Framework
-**REVOLUTIONARY CORPORATE RESPONSIBILITY**
-```
-PLATFORM OBLIGATIONS:
-- Rapid response to reports: 24-hour requirement
-- Victim support mechanisms: Mandatory implementation
-- Evidence preservation: 2-year minimum
-- Law enforcement cooperation: Full compliance required
 
 PENALTIES FOR NON-COMPLIANCE:
 - Warning and corrective action orders

@@ -377,8 +377,6 @@ Peraturan Menteri ini mulai berlaku pada tanggal **1 Juni 2024**.
 
 ---
 
-## 🎯 AI Analysis Summary
-
 ### Platform Registration Requirements
 1. **100K users threshold** - Platforms with >100K Indonesian users/month must register
 2. **3-month registration deadline** - After meeting user threshold

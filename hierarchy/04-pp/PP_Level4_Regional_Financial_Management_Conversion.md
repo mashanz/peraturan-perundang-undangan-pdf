@@ -1,7 +1,5 @@
 # PP LEVEL 4 CONVERSION: REGIONAL GOVERNMENT FINANCIAL MANAGEMENT
 
-## **PP No. 12/2019 + Updates - Regional Government Financial Management Framework**
-
 ### **COMPLETE PP TEXT ANALYSIS**
 
 **Official Title:** Peraturan Pemerintah tentang Pengelolaan Keuangan Daerah (Regional Financial Management Regulation)
@@ -39,11 +37,6 @@
 #### **Regional Autonomy Financial Authority**
 
 **PROVINCIAL LEVEL AUTHORITY:**
-- Strategic infrastructure investment coordination
-- Inter-regency development program oversight
-- Regional economic corridor development funding
-- Provincial special economic zone financial management
-
 **CITY/REGENCY LEVEL AUTHORITY:**
 - Local public service delivery financing
 - Community development program implementation
@@ -56,8 +49,6 @@
 - Local economic empowerment funding synchronization
 
 ### **IMPLEMENTATION ANALYSIS**
-
-#### **Ministry Coordination Framework**
 
 **LEAD COORDINATING MINISTRY:**
 - **Kemendagri** (Ministry of Home Affairs)
@@ -146,11 +137,6 @@
 - Sustainable development program coordination
 
 **EASTERN INDONESIA DEVELOPMENT CORRIDOR:**
-- **Eastern Indonesia Strategic Area**
-- Special autonomy fund integration and optimization
-- Remote area infrastructure development prioritization
-- Community-based development program enhancement
-
 ### **FISCAL DECENTRALIZATION MECHANISMS**
 
 #### **Revenue Sharing Formula Optimization**

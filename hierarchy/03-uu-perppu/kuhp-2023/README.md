@@ -24,9 +24,6 @@
 - 🔄 **State Security & Terrorism** - Awaiting slot
 - 🔄 **Public Order & Moral Crimes** - Awaiting slot
 - 🔄 **Religious & Cultural Protection** - Awaiting slot  
-- 🔄 **Administrative & Procedural Framework** - Awaiting slot
-- 🔄 **Comparative Analysis & Implementation** - Awaiting slot
-
 ---
 
 ## 🏛️ **REVOLUTIONARY CHANGES FROM COLONIAL KUHP**
@@ -36,10 +33,6 @@
 - **Gender Justice Revolution** with comprehensive sexual violence framework
 - **Corporate Criminal Liability** for companies and institutions
 - **Environmental & Climate Crimes** (first in Indonesian legal history)
-- **Comprehensive Cyber Crime Framework** for digital age
-- **Restorative Justice Integration** with traditional conflict resolution
-- **Enhanced Victim Protection** with victim impact consideration
-
 ### **⚡ CONTROVERSIAL BUT PROGRESSIVE ELEMENTS:**
 - **Adultery Laws** with reporting restrictions and family protection focus
 - **Blasphemy Updates** balancing religious protection with free expression

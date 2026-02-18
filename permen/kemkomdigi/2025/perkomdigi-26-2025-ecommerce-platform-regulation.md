@@ -381,16 +381,6 @@ Peraturan Menteri ini mulai berlaku pada tanggal **1 Agustus 2025**.
 
 ---
 
-## 🎯 AI Analysis Summary
-
-### Comprehensive E-Commerce Framework
-1. **3-tier platform classification** (Large/Medium/Small) with scaled compliance requirements
-2. **Advanced seller verification** with automated identity and business registration checks
-3. **Consumer protection fund** (0.1% of annual GMV) for buyer compensation
-4. **Digital escrow system** mandatory for transaction security
-5. **AI-powered content moderation** for prohibited and counterfeit goods
-6. **Cross-border trade facilitation** with customs integration
-
 ### Market Innovation and Competition
 - **51% local ownership** requirement for foreign platforms
 - **UMKM preferential treatment** with reduced fees and marketing support

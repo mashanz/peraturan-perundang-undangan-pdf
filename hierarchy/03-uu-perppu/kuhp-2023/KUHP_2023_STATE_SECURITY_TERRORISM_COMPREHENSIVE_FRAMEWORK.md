@@ -19,12 +19,6 @@
 
 #### **Article 212-220 (Estimated): High Treason (Makar Tinggi)**
 
-**Revolutionary Definition Framework:**
-- **Modern Treason**: Acts threatening constitutional order, territorial integrity, or state sovereignty
-- **Digital Treason**: Cyber operations against critical national infrastructure
-- **Economic Treason**: Systematic economic sabotage threatening national stability
-- **Information Warfare**: Deliberate disinformation campaigns undermining state security
-
 **Enhanced Penalty Structure:**
 - **Simple Treason**: 10-20 years imprisonment
 - **Aggravated Treason**: Life imprisonment or death penalty
@@ -40,8 +34,6 @@
 
 #### **Article 221-230: Espionage and Intelligence Crimes (Spionase)**
 
-**Comprehensive Espionage Framework:**
-
 1. **Classic Espionage**:
    - State secrets transmission to foreign powers
    - Military intelligence compromise
@@ -50,10 +42,6 @@
 
 2. **Economic Espionage**:
    - Trade secrets theft for foreign benefit
-   - Strategic industry intelligence compromise
-   - Critical resource information theft
-   - Financial market manipulation for foreign advantage
-
 3. **Digital/Cyber Espionage**:
    - Government systems infiltration
    - Critical infrastructure reconnaissance
@@ -67,12 +55,6 @@
 - **Corporate Espionage**: Entity dissolution + individual penalties
 
 #### **Article 231-240: Sedition and Subversion (Hasutan dan Subversi)**
-
-**Modern Sedition Framework:**
-- **Digital Sedition**: Online incitement to violence against state
-- **Mass Sedition**: Public disorder incitement with state security implications
-- **Military Sedition**: Armed forces discipline undermining
-- **Institutional Sedition**: Government institution functionality disruption
 
 **Revolutionary Balancing:**
 - **Freedom of Expression Protection**: Clear distinction between legitimate criticism and criminal sedition
@@ -88,9 +70,6 @@
 1. **Military Secrets Compromise**:
    - Defense plans disclosure
    - Weapon systems intelligence theft
-   - Strategic military information breach
-   - Personnel security information compromise
-
 2. **Military Installation Crimes**:
    - Unauthorized access to military facilities
    - Military equipment sabotage
@@ -106,8 +85,6 @@
 - **Peacetime**: 10-20 years imprisonment
 - **Heightened Alert**: 15-25 years imprisonment
 - **Wartime**: Life imprisonment or death penalty
-
-#### **Article 251-260: Strategic Infrastructure Protection**
 
 **Critical Infrastructure Security:**
 - **Energy Security**: Power grid, oil/gas facilities protection
@@ -151,13 +128,6 @@ KUHP 2023 adopts broad, modern terrorism definition encompassing:
    - Radiological material deployment
    - Nuclear terrorism threats
 
-**Penalty Framework:**
-- **Simple Terrorism**: 15-25 years imprisonment
-- **Aggravated Terrorism**: Life imprisonment
-- **Mass Casualty Terrorism**: Death penalty
-- **Cyber Terrorism**: 10-20 years imprisonment
-- **WMD Terrorism**: Life imprisonment or death penalty
-
 #### **Article 281-290: Terrorism Support and Facilitation**
 
 **Comprehensive Support Criminalization:**
@@ -188,8 +158,6 @@ KUHP 2023 adopts broad, modern terrorism definition encompassing:
 ### B. **RADICALIZATION AND PREVENTION**
 
 #### **Article 291-300: Radicalization Crimes**
-
-**Revolutionary Prevention Framework:**
 
 1. **Online Radicalization**:
    - Digital terrorism content distribution
@@ -300,12 +268,6 @@ KUHP 2023 adopts broad, modern terrorism definition encompassing:
    - Regional intelligence sharing
    - Coordinated prevention programs
 
-**Implementation Framework:**
-- **Bilateral Treaties**: Enhanced cooperation agreements
-- **Multilateral Engagement**: UN, ASEAN, regional organizations
-- **Technical Assistance**: Capacity building and training
-- **Resource Sharing**: Intelligence and law enforcement cooperation
-
 ### B. **DIPLOMATIC SECURITY CRIMES**
 
 #### **Article 341-350: Diplomatic and Consular Security**
@@ -358,15 +320,7 @@ KUHP 2023 adopts broad, modern terrorism definition encompassing:
    - Legislative review mechanisms
    - Individual rights protection
 
-**Rights Protection Framework:**
-- **Core Rights Inviolability**: Basic human dignity protection
-- **Proportionality Requirements**: Measures proportional to threats
-- **Temporal Limitations**: Time-bound emergency measures
-- **Judicial Review**: Independent court oversight
-
 ### B. **SURVEILLANCE AND PRIVACY BALANCE**
-
-#### **Article 366-380: Digital Surveillance Framework**
 
 **Modern Privacy-Security Balance:**
 
@@ -535,8 +489,6 @@ KUHP 2023 adopts broad, modern terrorism definition encompassing:
 3. **🌐 Digital Innovation**: Cutting-edge cyber security integration
 4. **🤝 International Leadership**: Global cooperation standard setting
 5. **🏛️ Democratic Safeguards**: Judicial oversight and accountability
-6. **🔄 Adaptive Framework**: Future threat response capability
-
 **LEGACY ACHIEVEMENT**: Indonesia has created the world's most advanced, balanced, and comprehensive state security legal framework, demonstrating global leadership in protecting both national security and fundamental rights.
 
 ---
@@ -544,13 +496,6 @@ KUHP 2023 adopts broad, modern terrorism definition encompassing:
 ## 📋 MISSION COMPLETION STATUS
 
 ### **✅ ALL OBJECTIVES ACHIEVED:**
-
-1. **✅ Complete State Security Framework**: Treason, espionage, national defense comprehensive coverage
-2. **✅ Counter-Terrorism Integration**: Modern terrorism prevention, prosecution, and rehabilitation
-3. **✅ Digital Security Crimes**: Cyber terrorism, information warfare, online radicalization comprehensive framework
-4. **✅ International Security Cooperation**: Cross-border terrorism, mutual assistance, regional integration
-5. **✅ Emergency Measures Balance**: Constitutional rights protection with security imperatives
-6. **✅ Implementation Framework**: Institutional development, enforcement, and success metrics
 
 ### **📁 DELIVERABLE COMPLETED:**
 **KUHP_2023_STATE_SECURITY_TERRORISM_COMPREHENSIVE_FRAMEWORK.md**

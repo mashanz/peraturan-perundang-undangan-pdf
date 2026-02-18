@@ -48,9 +48,6 @@ Each regulation has its own markdown file with:
 ├── 📖 Full Regulation Text  
 ├── 🔗 Cross-References
 ├── 📈 Impact Analysis
-└── 🤖 AI Analysis Tags
-```
-
 ### AI-Optimized Features
 - **Structured headers** for easy section navigation
 - **Searchable tags** for topic-based queries
@@ -67,8 +64,6 @@ Each regulation has its own markdown file with:
 | 2022 | 14 | 7 | ✅ 100% | ✅ Complete |
 | 2021 | 12 | 6 | ✅ 100% | ✅ Complete |
 | 2020 | 8 | 4 | ✅ 100% | ✅ Complete |
-
-## 🤖 AI Analysis Ready
 
 ### Search Examples
 ```bash

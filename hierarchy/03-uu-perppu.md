@@ -119,30 +119,6 @@
 4. **Hukum Ekonomi** (20%)
 5. **Hukum Lainnya** (30%)
 
-## 🎯 AI Analysis Points
-
-### Compliance Framework
-```json
-{
-  "uu_compliance": {
-    "constitutional_review": {
-      "mahkamah_konstitusi": "uji_materil_uu",
-      "mahkamah_agung": "uji_materil_peraturan_dibawah_uu"
-    },
-    "legislative_process": {
-      "prolegnas": "check_planning",
-      "dpr_approval": "check_joint_approval", 
-      "promulgation": "check_state_gazette"
-    },
-    "hierarchy_compliance": {
-      "above_pp": true,
-      "below_tap_mpr": true,
-      "below_uud": true
-    }
-  }
-}
-```
-
 ### Key Analysis Questions
 1. **Formal Validity** - Apakah proses pembentukan sesuai prosedur?
 2. **Material Validity** - Apakah substansi sesuai UUD dan TAP MPR?  

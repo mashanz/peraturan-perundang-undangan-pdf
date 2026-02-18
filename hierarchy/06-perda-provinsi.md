@@ -121,8 +121,6 @@
 4. **APBD** - Anggaran Pendapatan dan Belanja Daerah
 5. **Pajak dan Retribusi** - Sumber pendapatan daerah
 
-## 🎯 AI Analysis Framework
-
 ### Compliance Matrix
 ```json
 {
@@ -178,8 +176,6 @@
 - **Smart City** - Perda kota cerdas
 - **Green Economy** - Perda ekonomi hijau
 - **Creative Economy** - Perda ekonomi kreatif
-
-## ⚠️ Critical Points untuk AI Analysis
 
 ### Red Flags
 1. **Ultra Vires** - Melebihi kewenangan provinsi

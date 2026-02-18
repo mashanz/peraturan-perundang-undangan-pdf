@@ -158,16 +158,6 @@ e. **Academic research** dari universities dan think tanks;
 f. **Law enforcement** intelligence dari cyber crime investigations; dan
 g. **Attribution analysis** untuk state-sponsored attacks.
 
-### Pasal 8 - Intelligence Sharing Framework
-**(1)** Sharing threat intelligence dilakukan dengan:
-a. **Traffic Light Protocol (TLP)** untuk classification;
-b. **STIX/TAXII** standards untuk structured sharing;
-c. **Automated feeds** untuk real-time indicators;
-d. **Threat briefings** untuk strategic intelligence;
-e. **Joint assessments** dengan international partners;
-f. **Sector-specific** intelligence tailored to domains; dan
-g. **Attribution reports** untuk decision makers.
-
 ---
 
 ## BAB V - CYBER DEFENSE TECHNOLOGIES
@@ -292,16 +282,6 @@ f. **Academic partnerships** untuk cyber security education.
 
 ## BAB X - COMPLIANCE DAN AUDIT
 
-### Pasal 19 - Security Assessment Framework
-**(1)** Semua infrastruktur kritis wajib menjalani:
-a. **Annual security assessments** oleh certified assessors;
-b. **Penetration testing** setiap 6 bulan;
-c. **Vulnerability assessments** setiap bulan;  
-d. **Compliance audits** terhadap framework yang berlaku;
-e. **Tabletop exercises** untuk incident response testing;
-f. **Red team assessments** untuk advanced threat simulation; dan
-g. **Third-party security reviews** untuk supply chain.
-
 ### Pasal 20 - Mandatory Reporting
 **(1)** Organisasi wajib melaporkan:
 a. **Security incidents** dalam timeframe yang ditetapkan;
@@ -310,8 +290,6 @@ c. **Threat intelligence** yang memiliki national security implications;
 d. **Security metrics** monthly untuk trend analysis;
 e. **Compliance status** quarterly terhadap security frameworks;
 f. **Budget** dan resource allocation annually; dan
-g. **Strategic plans** for cybersecurity improvements.
-
 ---
 
 ## BAB XI - IMPLEMENTASI
@@ -359,8 +337,6 @@ Peraturan Menteri ini mulai berlaku pada tanggal **1 Juli 2025**.
 
 ---
 
-## 🎯 AI Analysis Summary
-
 ### National Cyber Defense Architecture
 1. **6-tier organizational structure** from National Cyber Security Council to Private Sector CSIRTs
 2. **24x7x365 National SOC** with 3-tier support structure  
@@ -393,8 +369,4 @@ Peraturan Menteri ini mulai berlaku pada tanggal **1 Juli 2025**.
 
 ### International Leadership
 - **Regional coordination** through ASEAN Cybersecurity Committee
-- **Strategic partnerships** with US-CERT, INTERPOL, ITU-T
-- **Research collaboration** with international cyber defense centers
-- **Standards development** participation in global cybersecurity frameworks
-
 **Status:** 🚀 MISSION CRITICAL - This regulation positions Indonesia as a regional cybersecurity leader and establishes the defense architecture essential for protecting national interests in an increasingly hostile cyber environment.
