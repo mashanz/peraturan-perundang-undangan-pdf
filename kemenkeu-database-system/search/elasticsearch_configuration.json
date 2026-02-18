@@ -1,0 +1,448 @@
+{
+  "index_name": "kemenkeu_regulations",
+  "settings": {
+    "number_of_shards": 3,
+    "number_of_replicas": 1,
+    "max_result_window": 50000,
+    "analysis": {
+      "analyzer": {
+        "indonesian_analyzer": {
+          "type": "custom",
+          "tokenizer": "standard",
+          "filter": [
+            "lowercase",
+            "indonesian_stop_filter",
+            "indonesian_stemmer",
+            "unique"
+          ]
+        },
+        "english_analyzer": {
+          "type": "custom",
+          "tokenizer": "standard",
+          "filter": [
+            "lowercase",
+            "english_stop_filter",
+            "english_stemmer",
+            "unique"
+          ]
+        },
+        "regulation_number_analyzer": {
+          "type": "custom",
+          "tokenizer": "keyword",
+          "filter": [
+            "uppercase",
+            "trim"
+          ]
+        },
+        "ngram_analyzer": {
+          "type": "custom",
+          "tokenizer": "standard",
+          "filter": [
+            "lowercase",
+            "ngram_filter"
+          ]
+        }
+      },
+      "filter": {
+        "indonesian_stop_filter": {
+          "type": "stop",
+          "stopwords": [
+            "yang", "dan", "di", "ke", "dari", "untuk", "pada", "dengan", "dalam", "oleh",
+            "adalah", "akan", "dapat", "telah", "atau", "juga", "tidak", "ini", "itu", "nya",
+            "sebagai", "antara", "melalui", "karena", "sehingga", "bahwa", "seperti", "atas",
+            "bagi", "terhadap", "tentang", "mengenai", "sesuai", "berdasarkan", "menurut"
+          ]
+        },
+        "english_stop_filter": {
+          "type": "stop",
+          "stopwords": "_english_"
+        },
+        "indonesian_stemmer": {
+          "type": "stemmer",
+          "language": "indonesian"
+        },
+        "english_stemmer": {
+          "type": "stemmer",
+          "language": "english"
+        },
+        "ngram_filter": {
+          "type": "ngram",
+          "min_gram": 3,
+          "max_gram": 20
+        }
+      }
+    }
+  },
+  "mappings": {
+    "properties": {
+      "id": {
+        "type": "long"
+      },
+      "regulation_number": {
+        "type": "text",
+        "analyzer": "regulation_number_analyzer",
+        "fields": {
+          "raw": {
+            "type": "keyword"
+          },
+          "suggest": {
+            "type": "completion",
+            "analyzer": "simple"
+          }
+        }
+      },
+      "title": {
+        "type": "text",
+        "analyzer": "indonesian_analyzer",
+        "fields": {
+          "raw": {
+            "type": "keyword"
+          },
+          "ngram": {
+            "type": "text",
+            "analyzer": "ngram_analyzer"
+          },
+          "suggest": {
+            "type": "completion",
+            "analyzer": "indonesian_analyzer"
+          }
+        },
+        "boost": 3.0
+      },
+      "title_en": {
+        "type": "text",
+        "analyzer": "english_analyzer",
+        "fields": {
+          "raw": {
+            "type": "keyword"
+          },
+          "suggest": {
+            "type": "completion",
+            "analyzer": "english_analyzer"
+          }
+        },
+        "boost": 2.5
+      },
+      "regulation_type": {
+        "type": "keyword",
+        "fields": {
+          "suggest": {
+            "type": "completion"
+          }
+        }
+      },
+      "issuing_directorate": {
+        "type": "text",
+        "analyzer": "indonesian_analyzer",
+        "fields": {
+          "raw": {
+            "type": "keyword"
+          },
+          "suggest": {
+            "type": "completion",
+            "analyzer": "indonesian_analyzer"
+          }
+        }
+      },
+      "issue_date": {
+        "type": "date",
+        "format": "yyyy-MM-dd||yyyy-MM-dd HH:mm:ss||epoch_millis"
+      },
+      "effective_date": {
+        "type": "date",
+        "format": "yyyy-MM-dd||yyyy-MM-dd HH:mm:ss||epoch_millis"
+      },
+      "expiry_date": {
+        "type": "date",
+        "format": "yyyy-MM-dd||yyyy-MM-dd HH:mm:ss||epoch_millis"
+      },
+      "status": {
+        "type": "keyword"
+      },
+      "classification_level": {
+        "type": "keyword"
+      },
+      "language": {
+        "type": "keyword"
+      },
+      "page_count": {
+        "type": "integer"
+      },
+      "article_count": {
+        "type": "integer"
+      },
+      "complexity_score": {
+        "type": "float"
+      },
+      "readability_score": {
+        "type": "float"
+      },
+      "conversion_quality_score": {
+        "type": "float"
+      },
+      "international_alignment": {
+        "type": "nested",
+        "properties": {
+          "standard": {
+            "type": "keyword"
+          },
+          "compliance_level": {
+            "type": "keyword"
+          },
+          "notes": {
+            "type": "text",
+            "analyzer": "english_analyzer"
+          }
+        }
+      },
+      "content": {
+        "type": "nested",
+        "properties": {
+          "id": {
+            "type": "long"
+          },
+          "content_type": {
+            "type": "keyword"
+          },
+          "title": {
+            "type": "text",
+            "analyzer": "indonesian_analyzer",
+            "boost": 2.0
+          },
+          "content": {
+            "type": "text",
+            "analyzer": "indonesian_analyzer",
+            "boost": 1.0
+          },
+          "content_en": {
+            "type": "text",
+            "analyzer": "english_analyzer",
+            "boost": 1.0
+          },
+          "sequence_number": {
+            "type": "integer"
+          },
+          "depth_level": {
+            "type": "integer"
+          },
+          "word_count": {
+            "type": "integer"
+          },
+          "has_tables": {
+            "type": "boolean"
+          },
+          "has_formulas": {
+            "type": "boolean"
+          },
+          "has_references": {
+            "type": "boolean"
+          }
+        }
+      },
+      "policy_areas": {
+        "type": "nested",
+        "properties": {
+          "id": {
+            "type": "integer"
+          },
+          "code": {
+            "type": "keyword"
+          },
+          "name": {
+            "type": "text",
+            "analyzer": "indonesian_analyzer",
+            "fields": {
+              "raw": {
+                "type": "keyword"
+              }
+            }
+          },
+          "name_en": {
+            "type": "text",
+            "analyzer": "english_analyzer"
+          },
+          "level": {
+            "type": "integer"
+          },
+          "is_primary": {
+            "type": "boolean"
+          },
+          "confidence_score": {
+            "type": "float"
+          }
+        }
+      },
+      "themes": {
+        "type": "nested",
+        "properties": {
+          "id": {
+            "type": "integer"
+          },
+          "code": {
+            "type": "keyword"
+          },
+          "name": {
+            "type": "text",
+            "analyzer": "indonesian_analyzer"
+          },
+          "name_en": {
+            "type": "text",
+            "analyzer": "english_analyzer"
+          },
+          "relevance_score": {
+            "type": "float"
+          }
+        }
+      },
+      "tags": {
+        "type": "nested",
+        "properties": {
+          "id": {
+            "type": "integer"
+          },
+          "name": {
+            "type": "keyword",
+            "fields": {
+              "text": {
+                "type": "text",
+                "analyzer": "indonesian_analyzer"
+              }
+            }
+          },
+          "name_en": {
+            "type": "keyword",
+            "fields": {
+              "text": {
+                "type": "text",
+                "analyzer": "english_analyzer"
+              }
+            }
+          },
+          "category": {
+            "type": "keyword"
+          },
+          "confidence_score": {
+            "type": "float"
+          },
+          "is_system_generated": {
+            "type": "boolean"
+          }
+        }
+      },
+      "keywords": {
+        "type": "nested",
+        "properties": {
+          "keyword": {
+            "type": "text",
+            "analyzer": "indonesian_analyzer"
+          },
+          "normalized_form": {
+            "type": "keyword"
+          },
+          "language": {
+            "type": "keyword"
+          },
+          "tf_idf_score": {
+            "type": "float"
+          },
+          "importance_score": {
+            "type": "float"
+          }
+        }
+      },
+      "relationships": {
+        "type": "nested",
+        "properties": {
+          "type": {
+            "type": "keyword"
+          },
+          "target_regulation_id": {
+            "type": "long"
+          },
+          "target_regulation_number": {
+            "type": "keyword"
+          },
+          "target_regulation_title": {
+            "type": "text",
+            "analyzer": "indonesian_analyzer"
+          },
+          "description": {
+            "type": "text",
+            "analyzer": "indonesian_analyzer"
+          }
+        }
+      },
+      "analytics": {
+        "properties": {
+          "total_views": {
+            "type": "long"
+          },
+          "views_last_30_days": {
+            "type": "integer"
+          },
+          "views_last_7_days": {
+            "type": "integer"
+          },
+          "popularity_rank": {
+            "type": "integer"
+          },
+          "trending_score": {
+            "type": "float"
+          },
+          "download_count": {
+            "type": "integer"
+          },
+          "avg_time_spent_seconds": {
+            "type": "integer"
+          }
+        }
+      },
+      "embedding_vector": {
+        "type": "dense_vector",
+        "dims": 768,
+        "index": true,
+        "similarity": "cosine"
+      },
+      "created_at": {
+        "type": "date"
+      },
+      "updated_at": {
+        "type": "date"
+      },
+      "indexed_at": {
+        "type": "date"
+      },
+      "full_text": {
+        "type": "text",
+        "analyzer": "indonesian_analyzer",
+        "store": false
+      },
+      "suggest": {
+        "type": "completion",
+        "analyzer": "indonesian_analyzer",
+        "search_analyzer": "indonesian_analyzer",
+        "preserve_separators": true,
+        "preserve_position_increments": true,
+        "max_input_length": 50,
+        "contexts": [
+          {
+            "name": "regulation_type",
+            "type": "category"
+          },
+          {
+            "name": "policy_area",
+            "type": "category"
+          },
+          {
+            "name": "directorate",
+            "type": "category"
+          }
+        ]
+      }
+    }
+  },
+  "aliases": {
+    "regulations": {},
+    "regulations_search": {}
+  }
+}
