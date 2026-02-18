@@ -1,0 +1,317 @@
+{
+  "schema": "indonesian_legal_hierarchy_v1.0",
+  "last_updated": "2026-02-17",
+  "hierarchy": {
+    "levels": [
+      {
+        "level": 1,
+        "name": "UUD 1945",
+        "full_name": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+        "type": "constitution",
+        "authority": "MPR (historical), Constitutional amendment process",
+        "legal_basis": "Constitutional foundation",
+        "binding_scope": "All levels of government and society",
+        "status": "active",
+        "characteristics": [
+          "Supreme law",
+          "Constitutional foundation",
+          "Amended 4 times (1999-2002)",
+          "Binding on all other regulations"
+        ],
+        "key_articles": {
+          "article_1": "State form and sovereignty",
+          "article_18": "Regional government",
+          "article_23": "State finances",
+          "article_28": "Human rights"
+        }
+      },
+      {
+        "level": 2, 
+        "name": "TAP MPR",
+        "full_name": "Ketetapan Majelis Permusyawaratan Rakyat",
+        "type": "state_decree",
+        "authority": "MPR",
+        "legal_basis": "UUD 1945 Article 3",
+        "binding_scope": "All state institutions and society",
+        "status": "limited_active",
+        "active_taps": [
+          {
+            "number": "XXV/MPRS/1966",
+            "subject": "Pembubaran PKI",
+            "status": "active"
+          },
+          {
+            "number": "XVI/MPR/1998", 
+            "subject": "Politik Ekonomi",
+            "status": "active"
+          },
+          {
+            "number": "V/MPR/1999",
+            "subject": "Hak Asasi Manusia",
+            "status": "active"
+          },
+          {
+            "number": "VI/MPR/2001",
+            "subject": "Etika Kehidupan Berbangsa", 
+            "status": "active"
+          },
+          {
+            "number": "VIII/MPR/2001",
+            "subject": "Rekomendasi Arah Kebijakan",
+            "status": "active"
+          }
+        ],
+        "characteristics": [
+          "Second highest in hierarchy",
+          "Most TAP MPR have been revoked", 
+          "Only 5 TAP MPR still active",
+          "Binding on all lower regulations"
+        ]
+      },
+      {
+        "level": 3,
+        "name": "UU/Perppu",
+        "full_name": "Undang-Undang atau Peraturan Pemerintah Pengganti Undang-Undang",
+        "type": "law",
+        "authority": {
+          "uu": "DPR and President (joint approval)",
+          "perppu": "President (emergency circumstances)"
+        },
+        "legal_basis": "UUD 1945 Articles 5, 20, 22",
+        "binding_scope": "National level, all lower regulations",
+        "status": "active",
+        "statistics": {
+          "total_uu_active": "600+",
+          "annual_production": "15-30 UU",
+          "perppu_pending": "3-5 (rotating)",
+          "constitutional_challenges": "15-20 annually"
+        },
+        "characteristics": [
+          "Primary legislation",
+          "Requires joint DPR-President approval",
+          "Perppu for emergency circumstances",
+          "Subject to constitutional review"
+        ],
+        "subcategories": {
+          "uu_organik": "Direct constitutional mandate",
+          "uu_biasa": "General legislation",
+          "uu_ratifikasi": "International treaty ratification"
+        }
+      },
+      {
+        "level": 4,
+        "name": "PP",
+        "full_name": "Peraturan Pemerintah",
+        "type": "government_regulation", 
+        "authority": "President",
+        "legal_basis": "UUD 1945 Article 5(2)",
+        "binding_scope": "National implementation",
+        "status": "active",
+        "statistics": {
+          "total_active": "2000+",
+          "annual_production": "60-80",
+          "implementation_gap": "25% of UU lack required PP"
+        },
+        "characteristics": [
+          "Implements laws (UU)",
+          "Presidential authority",
+          "General and abstract provisions",
+          "Binding on all lower regulations"
+        ],
+        "types": {
+          "pp_pelaksana": "Implementing existing laws",
+          "pp_organisasi": "Government structure",
+          "pp_prosedural": "Procedural implementation"
+        }
+      },
+      {
+        "level": 5,
+        "name": "Perpres", 
+        "full_name": "Peraturan Presiden",
+        "type": "presidential_regulation",
+        "authority": "President",
+        "legal_basis": "UUD 1945 Article 4(1)",
+        "binding_scope": "Government administration",
+        "status": "active",
+        "statistics": {
+          "total_active": "1500+",
+          "annual_production": "80-120"
+        },
+        "characteristics": [
+          "Presidential administrative authority",
+          "Implements higher regulations",
+          "Government organization and procedures",
+          "Lower than PP in hierarchy"
+        ],
+        "main_areas": {
+          "government_organization": "35%",
+          "economic_policy": "30%", 
+          "social_programs": "20%",
+          "administrative_procedures": "15%"
+        }
+      },
+      {
+        "level": 6,
+        "name": "Perda Provinsi",
+        "full_name": "Peraturan Daerah Provinsi",
+        "type": "provincial_regulation",
+        "authority": "Provincial DPRD and Governor",
+        "legal_basis": "UUD 1945 Article 18(6)",
+        "binding_scope": "Provincial territory",
+        "status": "active",
+        "statistics": {
+          "total_provinces": 38,
+          "average_perda_per_province": "50-80",
+          "compliance_rate": "60% (Kemendagri evaluation)"
+        },
+        "characteristics": [
+          "Regional autonomy implementation",
+          "Provincial scope authority",
+          "Subject to central government evaluation",
+          "Cross-regency coordination"
+        ],
+        "authority_areas": {
+          "mandatory_basic": ["education", "health", "public_works", "housing", "public_order", "social_services"],
+          "mandatory_non_basic": ["labor", "women_protection", "food_security", "environment", "population", "communication"],
+          "optional": ["marine_fisheries", "tourism", "agriculture", "forestry", "energy_mining", "trade", "industry", "transmigration"]
+        }
+      },
+      {
+        "level": 7,
+        "name": "Perda Kabupaten/Kota", 
+        "full_name": "Peraturan Daerah Kabupaten/Kota",
+        "type": "district_city_regulation",
+        "authority": "District/City DPRD and Regent/Mayor",
+        "legal_basis": "UUD 1945 Article 18(6)",
+        "binding_scope": "District/City territory", 
+        "status": "active",
+        "statistics": {
+          "total_jurisdictions": 514,
+          "kabupaten": 416,
+          "kota": 98,
+          "estimated_total_perda": "25000+",
+          "compliance_rate": "55%"
+        },
+        "characteristics": [
+          "Lowest level in main hierarchy",
+          "Direct public service delivery",
+          "Local community regulation",
+          "Most operational level"
+        ],
+        "common_issues": [
+          "Authority overreach",
+          "Conflicting provisions",
+          "Implementation challenges", 
+          "Quality control issues"
+        ]
+      }
+    ],
+    "special_position": {
+      "name": "Permen",
+      "full_name": "Peraturan Menteri", 
+      "type": "ministerial_regulation",
+      "hierarchy_position": "special",
+      "authority": "Ministers",
+      "legal_basis": "UU No. 12 Tahun 2011 Article 8",
+      "binding_scope": "Sectoral implementation",
+      "status": "conditional_active",
+      "validity_conditions": [
+        "Mandated by higher regulation (UU/PP/Perpres)",
+        "Based on ministerial authority"
+      ],
+      "characteristics": [
+        "Not in main 7-level hierarchy", 
+        "Binding only if properly delegated",
+        "Technical implementation focus",
+        "Sectoral scope limitation"
+      ],
+      "relative_position": "Depends on delegation source",
+      "position_matrix": {
+        "if_delegated_by_uu": "Below UU, may be same level as PP",
+        "if_delegated_by_pp": "Below PP",
+        "if_delegated_by_perpres": "Below Perpres",
+        "if_inherent_authority": "Administrative scope only"
+      }
+    }
+  },
+  "compliance_framework": {
+    "hierarchy_principles": [
+      "Higher law supersedes lower law (lex superior)",
+      "Specific law supersedes general law (lex specialis)", 
+      "Newer law supersedes older law (lex posterior)",
+      "No lower regulation can contradict higher regulation"
+    ],
+    "validity_tests": {
+      "formal_validity": "Proper formation procedure",
+      "material_validity": "Content compliance with higher laws",
+      "authority_validity": "Issuer has proper authority"
+    },
+    "review_mechanisms": {
+      "constitutional_review": {
+        "authority": "Constitutional Court (MK)",
+        "scope": "Laws against Constitution"
+      },
+      "administrative_review": {
+        "authority": "Supreme Court (MA)",
+        "scope": "Regulations below law level"
+      },
+      "executive_review": {
+        "authority": "Higher executive authority",
+        "scope": "Administrative supervision"
+      }
+    }
+  },
+  "implementation_status": {
+    "overall_compliance_rate": 0.78,
+    "implementation_gap": 0.30,
+    "regulatory_conflicts": 0.15,
+    "last_assessment": "2026-02-17",
+    "key_challenges": [
+      "Implementation delays",
+      "Authority confusion", 
+      "Regulatory overlaps",
+      "Quality inconsistency",
+      "Coordination failures"
+    ],
+    "improvement_initiatives": [
+      "Regulatory Reform 2024-2029",
+      "Digital transformation",
+      "Capacity building programs",
+      "One Map Initiative", 
+      "Investment climate reform"
+    ]
+  },
+  "ai_analysis_metadata": {
+    "classification_labels": {
+      "1": "UUD_1945",
+      "2": "TAP_MPR", 
+      "3": "UU_PERPPU",
+      "4": "PP",
+      "5": "PERPRES",
+      "6": "PERDA_PROVINSI",
+      "7": "PERDA_KABUPATEN_KOTA",
+      "8": "PERMEN_SPECIAL"
+    },
+    "analysis_dimensions": [
+      "hierarchy_compliance",
+      "authority_validity", 
+      "procedural_compliance",
+      "content_quality",
+      "implementation_feasibility"
+    ],
+    "risk_indicators": [
+      "constitutional_violation",
+      "authority_excess",
+      "procedural_defect",
+      "conflict_with_higher_law", 
+      "implementation_impossibility"
+    ],
+    "quality_metrics": [
+      "legal_certainty",
+      "public_participation",
+      "transparency",
+      "effectiveness",
+      "efficiency"
+    ]
+  }
+}
