@@ -1,5 +1,0 @@
-https://peraturan.go.id/id/perda-kabupaten-mojokerto-no-2-tahun-2022	PDF validation failed: Invalid PDF header
-https://peraturan.go.id/id/perda-provinsi-jawa-tengah-no-11-tahun-2022	PDF validation failed: Invalid PDF header
-https://peraturan.go.id/id/perda-provinsi-jawa-tengah-no-3-tahun-2022	PDF validation failed: Invalid PDF header
-https://peraturan.go.id/id/perda-kabupaten-mojokerto-no-3-tahun-2024	PDF validation failed: Invalid PDF header
-https://peraturan.go.id/id/perda-provinsi-jawa-tengah-no-1-tahun-2018	PDF validation failed: Invalid PDF header
