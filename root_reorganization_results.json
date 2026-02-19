@@ -1,0 +1,1031 @@
+{
+  "total_files": 146,
+  "renamed_files": 72,
+  "errors": 0,
+  "timestamp": "2026-02-19T03:34:03.562431",
+  "results": [
+    {
+      "original": "permenhub-009-2025.pdf",
+      "new": "permen-hub-009-2025.pdf",
+      "category": "permen-hub",
+      "target": "04-ministerial/by-ministry/kemenhub",
+      "renamed": true
+    },
+    {
+      "original": "pmk-014-2024.pdf",
+      "new": "pmk-014-2024.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "pmk-119-2025.pdf",
+      "new": "pmk-119-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "pmk-005-2025.pdf",
+      "new": "pmk-005-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "permenhub-002-2025.pdf",
+      "new": "permen-hub-002-2025.pdf",
+      "category": "permen-hub",
+      "target": "04-ministerial/by-ministry/kemenhub",
+      "renamed": true
+    },
+    {
+      "original": "2025rpmperinsertifikasitkdn.pdf",
+      "new": "2025rpmperinsertifikasitkdn.pdf",
+      "category": "other",
+      "target": "07-specialized/other-institutions",
+      "renamed": false
+    },
+    {
+      "original": "permenhub-023-2023.pdf",
+      "new": "permen-hub-023-2023.pdf",
+      "category": "permen-hub",
+      "target": "04-ministerial/by-ministry/kemenhub",
+      "renamed": true
+    },
+    {
+      "original": "pmk-113-2025.pdf",
+      "new": "pmk-113-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "2018pp29.pdf",
+      "new": "pp-029-2018.pdf",
+      "category": "pp",
+      "target": "03-government-regulations/pp",
+      "renamed": true
+    },
+    {
+      "original": "permenhub-026-2023.pdf",
+      "new": "permen-hub-026-2023.pdf",
+      "category": "permen-hub",
+      "target": "04-ministerial/by-ministry/kemenhub",
+      "renamed": true
+    },
+    {
+      "original": "pmk-112-2025.pdf",
+      "new": "pmk-112-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "2025pmkemenhub001.pdf",
+      "new": "pmk-001-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": true
+    },
+    {
+      "original": "permenhub-012-2025.pdf",
+      "new": "permen-hub-012-2025.pdf",
+      "category": "permen-hub",
+      "target": "04-ministerial/by-ministry/kemenhub",
+      "renamed": true
+    },
+    {
+      "original": "2025pmperin038.pdf",
+      "new": "2025pmperin038.pdf",
+      "category": "other",
+      "target": "07-specialized/other-institutions",
+      "renamed": false
+    },
+    {
+      "original": "pmk-098-2025.pdf",
+      "new": "pmk-098-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "2024pp020.pdf",
+      "new": "pp-020-2024.pdf",
+      "category": "pp",
+      "target": "03-government-regulations/pp",
+      "renamed": true
+    },
+    {
+      "original": "2025pmkemenhub010.pdf",
+      "new": "pmk-010-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": true
+    },
+    {
+      "original": "2009pp024.pdf",
+      "new": "pp-024-2009.pdf",
+      "category": "pp",
+      "target": "03-government-regulations/pp",
+      "renamed": true
+    },
+    {
+      "original": "permenhub-020-2024.pdf",
+      "new": "permen-hub-020-2024.pdf",
+      "category": "permen-hub",
+      "target": "04-ministerial/by-ministry/kemenhub",
+      "renamed": true
+    },
+    {
+      "original": "permenhub-027-2023.pdf",
+      "new": "permen-hub-027-2023.pdf",
+      "category": "permen-hub",
+      "target": "04-ministerial/by-ministry/kemenhub",
+      "renamed": true
+    },
+    {
+      "original": "permenhub-008-2025.pdf",
+      "new": "permen-hub-008-2025.pdf",
+      "category": "permen-hub",
+      "target": "04-ministerial/by-ministry/kemenhub",
+      "renamed": true
+    },
+    {
+      "original": "permenhub-030-2023.pdf",
+      "new": "permen-hub-030-2023.pdf",
+      "category": "permen-hub",
+      "target": "04-ministerial/by-ministry/kemenhub",
+      "renamed": true
+    },
+    {
+      "original": "permenhub-015-2024.pdf",
+      "new": "permen-hub-015-2024.pdf",
+      "category": "permen-hub",
+      "target": "04-ministerial/by-ministry/kemenhub",
+      "renamed": true
+    },
+    {
+      "original": "pmk-117-2025.pdf",
+      "new": "pmk-117-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "2022perpres074.pdf",
+      "new": "perpres-074-2022.pdf",
+      "category": "perpres",
+      "target": "03-government-regulations/perpres",
+      "renamed": true
+    },
+    {
+      "original": "2025pp028.pdf",
+      "new": "pp-028-2025.pdf",
+      "category": "pp",
+      "target": "03-government-regulations/pp",
+      "renamed": true
+    },
+    {
+      "original": "pmk-001-2025.pdf",
+      "new": "pmk-001-2025-01.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": true
+    },
+    {
+      "original": "pmk-010-2025.pdf",
+      "new": "pmk-010-2025-01.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": true
+    },
+    {
+      "original": "permenhub-021-2024.pdf",
+      "new": "permen-hub-021-2024.pdf",
+      "category": "permen-hub",
+      "target": "04-ministerial/by-ministry/kemenhub",
+      "renamed": true
+    },
+    {
+      "original": "pmk-099-2025.pdf",
+      "new": "pmk-099-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "pmk-009-2025.pdf",
+      "new": "pmk-009-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "pmk-006-2025.pdf",
+      "new": "pmk-006-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "2026pmperin001.pdf",
+      "new": "2026pmperin001.pdf",
+      "category": "other",
+      "target": "07-specialized/other-institutions",
+      "renamed": false
+    },
+    {
+      "original": "2025pmkemenhub012.pdf",
+      "new": "pmk-012-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": true
+    },
+    {
+      "original": "2025kmperin3189.pdf",
+      "new": "2025kmperin3189.pdf",
+      "category": "other",
+      "target": "07-specialized/other-institutions",
+      "renamed": false
+    },
+    {
+      "original": "permenhub-013-2024.pdf",
+      "new": "permen-hub-013-2024.pdf",
+      "category": "permen-hub",
+      "target": "04-ministerial/by-ministry/kemenhub",
+      "renamed": true
+    },
+    {
+      "original": "2025pmkemenhub005.pdf",
+      "new": "pmk-005-2025-01.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": true
+    },
+    {
+      "original": "permenhub-005-2025.pdf",
+      "new": "permen-hub-005-2025.pdf",
+      "category": "permen-hub",
+      "target": "04-ministerial/by-ministry/kemenhub",
+      "renamed": true
+    },
+    {
+      "original": "2023pp46.pdf",
+      "new": "pp-046-2023.pdf",
+      "category": "pp",
+      "target": "03-government-regulations/pp",
+      "renamed": true
+    },
+    {
+      "original": "2025abspmperin037.pdf",
+      "new": "2025abspmperin037.pdf",
+      "category": "other",
+      "target": "07-specialized/other-institutions",
+      "renamed": false
+    },
+    {
+      "original": "pmk-096-2025.pdf",
+      "new": "pmk-096-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "2025abspmperin011.pdf",
+      "new": "2025abspmperin011.pdf",
+      "category": "other",
+      "target": "07-specialized/other-institutions",
+      "renamed": false
+    },
+    {
+      "original": "kepmen-esdm-407-2025.pdf",
+      "new": "permen-esdm-407-2025.pdf",
+      "category": "permen-esdm",
+      "target": "04-ministerial/by-ministry/kemen-esdm",
+      "renamed": true
+    },
+    {
+      "original": "pmk-007-2026.pdf",
+      "new": "pmk-007-2026.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "pmk-014-2025.pdf",
+      "new": "pmk-014-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "permenhub-032-2023.pdf",
+      "new": "permen-hub-032-2023.pdf",
+      "category": "permen-hub",
+      "target": "04-ministerial/by-ministry/kemenhub",
+      "renamed": true
+    },
+    {
+      "original": "permenhub-001-2025.pdf",
+      "new": "permen-hub-001-2025.pdf",
+      "category": "permen-hub",
+      "target": "04-ministerial/by-ministry/kemenhub",
+      "renamed": true
+    },
+    {
+      "original": "2026kmperin294.pdf",
+      "new": "2026kmperin294.pdf",
+      "category": "other",
+      "target": "07-specialized/other-institutions",
+      "renamed": false
+    },
+    {
+      "original": "2025kmperin3190.pdf",
+      "new": "2025kmperin3190.pdf",
+      "category": "other",
+      "target": "07-specialized/other-institutions",
+      "renamed": false
+    },
+    {
+      "original": "pmk-111-2025.pdf",
+      "new": "pmk-111-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "test_download.pdf",
+      "new": "test-download.pdf",
+      "category": "other",
+      "target": "07-specialized/other-institutions",
+      "renamed": true
+    },
+    {
+      "original": "2025pmkemenhub009.pdf",
+      "new": "pmk-009-2025-01.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": true
+    },
+    {
+      "original": "2025kmperin3188.pdf",
+      "new": "2025kmperin3188.pdf",
+      "category": "other",
+      "target": "07-specialized/other-institutions",
+      "renamed": false
+    },
+    {
+      "original": "permenhub-007-2025.pdf",
+      "new": "permen-hub-007-2025.pdf",
+      "category": "permen-hub",
+      "target": "04-ministerial/by-ministry/kemenhub",
+      "renamed": true
+    },
+    {
+      "original": "2023uu006.pdf",
+      "new": "uu-006-2023.pdf",
+      "category": "uu-laws",
+      "target": "02-national-laws/uu-laws",
+      "renamed": true
+    },
+    {
+      "original": "pmk-101-2025.pdf",
+      "new": "pmk-101-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "pmk-012-2025.pdf",
+      "new": "pmk-012-2025-01.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": true
+    },
+    {
+      "original": "permenhub-036-2022.pdf",
+      "new": "permen-hub-036-2022.pdf",
+      "category": "permen-hub",
+      "target": "04-ministerial/by-ministry/kemenhub",
+      "renamed": true
+    },
+    {
+      "original": "2025pmperin041.pdf",
+      "new": "2025pmperin041.pdf",
+      "category": "other",
+      "target": "07-specialized/other-institutions",
+      "renamed": false
+    },
+    {
+      "original": "2012perpres033.pdf",
+      "new": "perpres-033-2012.pdf",
+      "category": "perpres",
+      "target": "03-government-regulations/perpres",
+      "renamed": true
+    },
+    {
+      "original": "permenhub-039-2022.pdf",
+      "new": "permen-hub-039-2022.pdf",
+      "category": "permen-hub",
+      "target": "04-ministerial/by-ministry/kemenhub",
+      "renamed": true
+    },
+    {
+      "original": "pmk-012-2024.pdf",
+      "new": "pmk-012-2024.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "pmk-097-2025.pdf",
+      "new": "pmk-097-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "2024pmperin0322_compressed.pdf",
+      "new": "2024pmperin0322-compressed.pdf",
+      "category": "other",
+      "target": "07-specialized/other-institutions",
+      "renamed": true
+    },
+    {
+      "original": "2026kmperin293.pdf",
+      "new": "2026kmperin293.pdf",
+      "category": "other",
+      "target": "07-specialized/other-institutions",
+      "renamed": false
+    },
+    {
+      "original": "2025rpmperinstandarkegiatanusaha.pdf",
+      "new": "2025rpmperinstandarkegiatanusaha.pdf",
+      "category": "other",
+      "target": "07-specialized/other-institutions",
+      "renamed": false
+    },
+    {
+      "original": "pmk-106-2025.pdf",
+      "new": "pmk-106-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "2025kmperin4607.pdf",
+      "new": "2025kmperin4607.pdf",
+      "category": "other",
+      "target": "07-specialized/other-institutions",
+      "renamed": false
+    },
+    {
+      "original": "2017pp002.pdf",
+      "new": "pp-002-2017.pdf",
+      "category": "pp",
+      "target": "03-government-regulations/pp",
+      "renamed": true
+    },
+    {
+      "original": "pmk-013-2024.pdf",
+      "new": "pmk-013-2024.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "pmk-092-2025.pdf",
+      "new": "pmk-092-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "kepmen-esdm-408-2025.pdf",
+      "new": "permen-esdm-408-2025.pdf",
+      "category": "permen-esdm",
+      "target": "04-ministerial/by-ministry/kemen-esdm",
+      "renamed": true
+    },
+    {
+      "original": "2025kmperin3194.pdf",
+      "new": "2025kmperin3194.pdf",
+      "category": "other",
+      "target": "07-specialized/other-institutions",
+      "renamed": false
+    },
+    {
+      "original": "permenhub-016-2024.pdf",
+      "new": "permen-hub-016-2024.pdf",
+      "category": "permen-hub",
+      "target": "04-ministerial/by-ministry/kemenhub",
+      "renamed": true
+    },
+    {
+      "original": "permenhub-035-2022.pdf",
+      "new": "permen-hub-035-2022.pdf",
+      "category": "permen-hub",
+      "target": "04-ministerial/by-ministry/kemenhub",
+      "renamed": true
+    },
+    {
+      "original": "pmk-108-2025.pdf",
+      "new": "pmk-108-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "2025pmkemenhub004.pdf",
+      "new": "pmk-004-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": true
+    },
+    {
+      "original": "pmk-115-2025.pdf",
+      "new": "pmk-115-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "test_monitoring_1771420404.pdf",
+      "new": "test-monitoring-1771420404.pdf",
+      "category": "other",
+      "target": "07-specialized/other-institutions",
+      "renamed": true
+    },
+    {
+      "original": "pmk-107-2025.pdf",
+      "new": "pmk-107-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "permenhub-022-2024.pdf",
+      "new": "permen-hub-022-2024.pdf",
+      "category": "permen-hub",
+      "target": "04-ministerial/by-ministry/kemenhub",
+      "renamed": true
+    },
+    {
+      "original": "pmk-004-2026.pdf",
+      "new": "pmk-004-2026.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "2025pmperin040.pdf",
+      "new": "2025pmperin040.pdf",
+      "category": "other",
+      "target": "07-specialized/other-institutions",
+      "renamed": false
+    },
+    {
+      "original": "permenhub-019-2024.pdf",
+      "new": "permen-hub-019-2024.pdf",
+      "category": "permen-hub",
+      "target": "04-ministerial/by-ministry/kemenhub",
+      "renamed": true
+    },
+    {
+      "original": "permenhub-003-2025.pdf",
+      "new": "permen-hub-003-2025.pdf",
+      "category": "permen-hub",
+      "target": "04-ministerial/by-ministry/kemenhub",
+      "renamed": true
+    },
+    {
+      "original": "1984uu005.pdf",
+      "new": "uu-005-1984.pdf",
+      "category": "uu-laws",
+      "target": "02-national-laws/uu-laws",
+      "renamed": true
+    },
+    {
+      "original": "pmk-102-2025.pdf",
+      "new": "pmk-102-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "2025pmperin039.pdf",
+      "new": "2025pmperin039.pdf",
+      "category": "other",
+      "target": "07-specialized/other-institutions",
+      "renamed": false
+    },
+    {
+      "original": "pmk-109-2025.pdf",
+      "new": "pmk-109-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "2018pp24.pdf",
+      "new": "pp-024-2018.pdf",
+      "category": "pp",
+      "target": "03-government-regulations/pp",
+      "renamed": true
+    },
+    {
+      "original": "pmk-003-2026.pdf",
+      "new": "pmk-003-2026.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "pmk-120-2025.pdf",
+      "new": "pmk-120-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "permenhub-037-2022.pdf",
+      "new": "permen-hub-037-2022.pdf",
+      "category": "permen-hub",
+      "target": "04-ministerial/by-ministry/kemenhub",
+      "renamed": true
+    },
+    {
+      "original": "pmk-095-2025.pdf",
+      "new": "pmk-095-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "2009pmperin105.pdf",
+      "new": "2009pmperin105.pdf",
+      "category": "other",
+      "target": "07-specialized/other-institutions",
+      "renamed": false
+    },
+    {
+      "original": "2026kmperin292.pdf",
+      "new": "2026kmperin292.pdf",
+      "category": "other",
+      "target": "07-specialized/other-institutions",
+      "renamed": false
+    },
+    {
+      "original": "pmk-116-2025.pdf",
+      "new": "pmk-116-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "pmk-094-2025.pdf",
+      "new": "pmk-094-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "permenhub-034-2022.pdf",
+      "new": "permen-hub-034-2022.pdf",
+      "category": "permen-hub",
+      "target": "04-ministerial/by-ministry/kemenhub",
+      "renamed": true
+    },
+    {
+      "original": "2013pmperin042.pdf",
+      "new": "2013pmperin042.pdf",
+      "category": "other",
+      "target": "07-specialized/other-institutions",
+      "renamed": false
+    },
+    {
+      "original": "pmk-013-2025.pdf",
+      "new": "pmk-013-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "2020uu011.pdf",
+      "new": "uu-011-2020.pdf",
+      "category": "uu-laws",
+      "target": "02-national-laws/uu-laws",
+      "renamed": true
+    },
+    {
+      "original": "2025pmkemenhub007.pdf",
+      "new": "pmk-007-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": true
+    },
+    {
+      "original": "permenhub-010-2025.pdf",
+      "new": "permen-hub-010-2025.pdf",
+      "category": "permen-hub",
+      "target": "04-ministerial/by-ministry/kemenhub",
+      "renamed": true
+    },
+    {
+      "original": "permen-esdm-03-2026.pdf",
+      "new": "permen-esdm-003-2026.pdf",
+      "category": "permen-esdm",
+      "target": "04-ministerial/by-ministry/kemen-esdm",
+      "renamed": true
+    },
+    {
+      "original": "2025pmkemenhub008.pdf",
+      "new": "pmk-008-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": true
+    },
+    {
+      "original": "permenhub-006-2025.pdf",
+      "new": "permen-hub-006-2025.pdf",
+      "category": "permen-hub",
+      "target": "04-ministerial/by-ministry/kemenhub",
+      "renamed": true
+    },
+    {
+      "original": "pmk-093-2025.pdf",
+      "new": "pmk-093-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "2026kmperin302.pdf",
+      "new": "2026kmperin302.pdf",
+      "category": "other",
+      "target": "07-specialized/other-institutions",
+      "renamed": false
+    },
+    {
+      "original": "2025kmperin3187.pdf",
+      "new": "2025kmperin3187.pdf",
+      "category": "other",
+      "target": "07-specialized/other-institutions",
+      "renamed": false
+    },
+    {
+      "original": "2024perpres167.pdf",
+      "new": "perpres-167-2024.pdf",
+      "category": "perpres",
+      "target": "03-government-regulations/perpres",
+      "renamed": true
+    },
+    {
+      "original": "pmk-008-2025.pdf",
+      "new": "pmk-008-2025-01.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": true
+    },
+    {
+      "original": "permenhub-029-2023.pdf",
+      "new": "permen-hub-029-2023.pdf",
+      "category": "permen-hub",
+      "target": "04-ministerial/by-ministry/kemenhub",
+      "renamed": true
+    },
+    {
+      "original": "permenhub-025-2023.pdf",
+      "new": "permen-hub-025-2023.pdf",
+      "category": "permen-hub",
+      "target": "04-ministerial/by-ministry/kemenhub",
+      "renamed": true
+    },
+    {
+      "original": "2025pmperin011.pdf",
+      "new": "2025pmperin011.pdf",
+      "category": "other",
+      "target": "07-specialized/other-institutions",
+      "renamed": false
+    },
+    {
+      "original": "2025kmperin3186.pdf",
+      "new": "2025kmperin3186.pdf",
+      "category": "other",
+      "target": "07-specialized/other-institutions",
+      "renamed": false
+    },
+    {
+      "original": "2025pmkemenhub002.pdf",
+      "new": "pmk-002-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": true
+    },
+    {
+      "original": "2025pmkemenhub003.pdf",
+      "new": "pmk-003-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": true
+    },
+    {
+      "original": "permenhub-031-2023.pdf",
+      "new": "permen-hub-031-2023.pdf",
+      "category": "permen-hub",
+      "target": "04-ministerial/by-ministry/kemenhub",
+      "renamed": true
+    },
+    {
+      "original": "2025abspmperin038.pdf",
+      "new": "2025abspmperin038.pdf",
+      "category": "other",
+      "target": "07-specialized/other-institutions",
+      "renamed": false
+    },
+    {
+      "original": "pmk-015-2024.pdf",
+      "new": "pmk-015-2024.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "2025kmperin3195.pdf",
+      "new": "2025kmperin3195.pdf",
+      "category": "other",
+      "target": "07-specialized/other-institutions",
+      "renamed": false
+    },
+    {
+      "original": "2026kmperin105.pdf",
+      "new": "2026kmperin105.pdf",
+      "category": "other",
+      "target": "07-specialized/other-institutions",
+      "renamed": false
+    },
+    {
+      "original": "pmk-104-2025.pdf",
+      "new": "pmk-104-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "permenhub-038-2022.pdf",
+      "new": "permen-hub-038-2022.pdf",
+      "category": "permen-hub",
+      "target": "04-ministerial/by-ministry/kemenhub",
+      "renamed": true
+    },
+    {
+      "original": "permenhan-no-1-tahun-2025.pdf",
+      "new": "permenhan-no-1-tahun-2025.pdf",
+      "category": "permen-other",
+      "target": "04-ministerial/by-ministry/other-ministries",
+      "renamed": false
+    },
+    {
+      "original": "permenhub-004-2025.pdf",
+      "new": "permen-hub-004-2025.pdf",
+      "category": "permen-hub",
+      "target": "04-ministerial/by-ministry/kemenhub",
+      "renamed": true
+    },
+    {
+      "original": "permen-esdm-04-2026.pdf",
+      "new": "permen-esdm-004-2026.pdf",
+      "category": "permen-esdm",
+      "target": "04-ministerial/by-ministry/kemen-esdm",
+      "renamed": true
+    },
+    {
+      "original": "pmk-001-2026.pdf",
+      "new": "pmk-001-2026.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "2025rpmperinpetajalanindustrihalal.pdf",
+      "new": "2025rpmperinpetajalanindustrihalal.pdf",
+      "category": "other",
+      "target": "07-specialized/other-institutions",
+      "renamed": false
+    },
+    {
+      "original": "permenhub-017-2024.pdf",
+      "new": "permen-hub-017-2024.pdf",
+      "category": "permen-hub",
+      "target": "04-ministerial/by-ministry/kemenhub",
+      "renamed": true
+    },
+    {
+      "original": "pmk-100-2025.pdf",
+      "new": "pmk-100-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "2025kmperin5099.pdf",
+      "new": "2025kmperin5099.pdf",
+      "category": "other",
+      "target": "07-specialized/other-institutions",
+      "renamed": false
+    },
+    {
+      "original": "pmk-002-2026.pdf",
+      "new": "pmk-002-2026.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "2026kmperin104.pdf",
+      "new": "2026kmperin104.pdf",
+      "category": "other",
+      "target": "07-specialized/other-institutions",
+      "renamed": false
+    },
+    {
+      "original": "pmk-011-2024.pdf",
+      "new": "pmk-011-2024.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "pmk-110-2025.pdf",
+      "new": "pmk-110-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "2025kmperin1438.pdf",
+      "new": "2025kmperin1438.pdf",
+      "category": "other",
+      "target": "07-specialized/other-institutions",
+      "renamed": false
+    },
+    {
+      "original": "kepmendesa-esdm-97-2026.pdf",
+      "new": "permen-esdm-097-2026.pdf",
+      "category": "permen-esdm",
+      "target": "04-ministerial/by-ministry/kemen-esdm",
+      "renamed": true
+    },
+    {
+      "original": "permenhub-033-2022.pdf",
+      "new": "permen-hub-033-2022.pdf",
+      "category": "permen-hub",
+      "target": "04-ministerial/by-ministry/kemenhub",
+      "renamed": true
+    },
+    {
+      "original": "2025pmkemenhub006.pdf",
+      "new": "pmk-006-2025-01.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": true
+    },
+    {
+      "original": "2021pp005.pdf",
+      "new": "pp-005-2021.pdf",
+      "category": "pp",
+      "target": "03-government-regulations/pp",
+      "renamed": true
+    },
+    {
+      "original": "permenhub-018-2024.pdf",
+      "new": "permen-hub-018-2024.pdf",
+      "category": "permen-hub",
+      "target": "04-ministerial/by-ministry/kemenhub",
+      "renamed": true
+    },
+    {
+      "original": "pmk-118-2025.pdf",
+      "new": "pmk-118-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "pmk-114-2025.pdf",
+      "new": "pmk-114-2025.pdf",
+      "category": "pmk",
+      "target": "04-ministerial/by-ministry/kemenkeu",
+      "renamed": false
+    },
+    {
+      "original": "2025kmperin5121.pdf",
+      "new": "2025kmperin5121.pdf",
+      "category": "other",
+      "target": "07-specialized/other-institutions",
+      "renamed": false
+    }
+  ],
+  "error_log": []
+}

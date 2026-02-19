@@ -1,0 +1,876 @@
+[2026-02-18 13:11:07] INFO: Starting download of 19702 regional regulations
+[2026-02-18 13:11:07] INFO: Progress: 1/19702 (0.0%)
+[2026-02-18 13:11:07] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-sulawesi-selatan-no-2-tahun-2019
+[2026-02-18 13:11:08] ERROR: Failed: https://peraturan.go.id/id/perda-provinsi-sulawesi-selatan-no-2-tahun-2019 - No PDF URL found
+[2026-02-18 13:11:09] INFO: Progress: 2/19702 (0.0%)
+[2026-02-18 13:11:09] INFO: Processing: https://peraturan.go.id/id/perda-kota-malang-no-2-tahun-2004
+[2026-02-18 13:11:09] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA+NOMOR+2+TAHUN+2004+TENTANG+RENCANA+STRATEGIS.pdf
+[2026-02-18 13:11:10] INFO: Successfully downloaded: perda-kota-malang-2-2004.pdf
+[2026-02-18 13:11:11] INFO: Progress: 3/19702 (0.0%)
+[2026-02-18 13:11:11] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-musi-rawas-no-1-tahun-2008
+[2026-02-18 13:11:11] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA_Kabupaten_Musi_Rawas_Nomor_1_Tahun_2008_11e57942abc78f5ab92e313135383136.pdf
+[2026-02-18 13:11:12] INFO: Successfully downloaded: perda-kabupaten-musi-rawas-1-2008.pdf
+[2026-02-18 13:11:13] INFO: Progress: 4/19702 (0.0%)
+[2026-02-18 13:11:13] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-kudus-no-19-tahun-2020
+[2026-02-18 13:11:13] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kabupaten-kudus-no-19-tahun-2020.pdf
+[2026-02-18 13:11:15] INFO: Successfully downloaded: perda-kabupaten-kudus-19-2020.pdf
+[2026-02-18 13:11:17] INFO: Progress: 5/19702 (0.0%)
+[2026-02-18 13:11:17] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-palu-no-77-tahun-2016
+[2026-02-18 13:11:17] INFO: Found PDF URL: https://peraturan.go.id/files/Perda+7+tahun+2016_+Perubahan+APBD+TA+2016.pdf
+[2026-02-18 13:11:17] INFO: Successfully downloaded: perda-kabupaten-palu-77-2016.pdf
+[2026-02-18 13:11:19] INFO: Progress: 6/19702 (0.0%)
+[2026-02-18 13:11:19] INFO: Processing: https://peraturan.go.id/id/perda-kota-tebing-tinggi-no-15-tahun-2011
+[2026-02-18 13:11:19] ERROR: Failed: https://peraturan.go.id/id/perda-kota-tebing-tinggi-no-15-tahun-2011 - No PDF URL found
+[2026-02-18 13:11:21] INFO: Progress: 7/19702 (0.0%)
+[2026-02-18 13:11:21] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-blora-no-1-tahun-2021
+[2026-02-18 13:11:21] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA-1-2021-PERUB-PERDA-1-2011-PENGELOLAAN-SAMPAH.pdf
+[2026-02-18 13:11:21] INFO: Successfully downloaded: perda-kabupaten-blora-1-2021.pdf
+[2026-02-18 13:11:23] INFO: Progress: 8/19702 (0.0%)
+[2026-02-18 13:11:23] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-sragen-no-14-tahun-2008
+[2026-02-18 13:11:23] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA+NO+14+TAHUN+2008+TENTANG+ORGANISASI+DAN+TATA+KERJA+DINAS+DAERAH+KAB+SRAGEN.pdf
+[2026-02-18 13:11:24] INFO: Successfully downloaded: perda-kabupaten-sragen-14-2008.pdf
+[2026-02-18 13:11:25] INFO: Progress: 9/19702 (0.0%)
+[2026-02-18 13:11:25] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-kepulauan-sangihe-no-1-tahun-2019
+[2026-02-18 13:11:26] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA_NO_1_TAHUN_2019.pdf
+[2026-02-18 13:11:30] INFO: Successfully downloaded: perda-kabupaten-kepulauan-sangihe-1-2019.pdf
+[2026-02-18 13:11:32] INFO: Progress: 10/19702 (0.1%)
+[2026-02-18 13:11:32] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-kalimantan-utara-no-3-tahun-2021
+[2026-02-18 13:11:32] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA-3-2021_SALINAN.pdf
+[2026-02-18 13:11:33] INFO: Successfully downloaded: perda-provinsi-kalimantan-utara-3-2021.pdf
+[2026-02-18 13:11:34] INFO: Progress: 11/19702 (0.1%)
+[2026-02-18 13:11:34] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-magetan-no-11-tahun-2013
+[2026-02-18 13:11:34] INFO: Found PDF URL: https://peraturan.go.id/files/perda+11+tahun+2013.pdf
+[2026-02-18 13:11:37] INFO: Successfully downloaded: perda-kabupaten-magetan-11-2013.pdf
+[2026-02-18 13:11:38] INFO: Progress: 12/19702 (0.1%)
+[2026-02-18 13:11:38] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-pemalang-no-9-tahun-2022
+[2026-02-18 13:11:39] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kabupaten-pemalang-no-9-tahun-2022.pdf
+[2026-02-18 13:11:59] INFO: Successfully downloaded: perda-kabupaten-pemalang-9-2022.pdf
+[2026-02-18 13:12:00] INFO: Progress: 13/19702 (0.1%)
+[2026-02-18 13:12:00] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-sragen-no-3-tahun-2021
+[2026-02-18 13:12:00] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA+NO+3+TH+2021.pdf
+[2026-02-18 13:12:01] INFO: Successfully downloaded: perda-kabupaten-sragen-3-2021.pdf
+[2026-02-18 13:12:03] INFO: Progress: 14/19702 (0.1%)
+[2026-02-18 13:12:03] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-sumba-barat-no-7-tahun-2017
+[2026-02-18 13:12:03] INFO: Found PDF URL: https://peraturan.go.id/files/perdanomor7tahun2017tentangapbdta2018.pdf
+[2026-02-18 13:12:18] INFO: Successfully downloaded: perda-kabupaten-sumba-barat-7-2017.pdf
+[2026-02-18 13:12:19] INFO: Progress: 15/19702 (0.1%)
+[2026-02-18 13:12:19] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-kalimantan-utara-no-19-tahun-2019
+[2026-02-18 13:12:20] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA-19-2019_SALINAN.pdf
+[2026-02-18 13:12:21] INFO: Successfully downloaded: perda-provinsi-kalimantan-utara-19-2019.pdf
+[2026-02-18 13:12:22] INFO: Progress: 16/19702 (0.1%)
+[2026-02-18 13:12:22] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-bandung-no-3-tahun-2018
+[2026-02-18 13:12:23] INFO: Found PDF URL: https://peraturan.go.id/files/1640711083.pdf
+[2026-02-18 13:12:23] INFO: Successfully downloaded: perda-kabupaten-bandung-3-2018.pdf
+[2026-02-18 13:12:25] INFO: Progress: 17/19702 (0.1%)
+[2026-02-18 13:12:25] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-toli-toli-no-11-tahun-2019
+[2026-02-18 13:12:25] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA+NOMOR+11+TAHUN+2019.pdf
+[2026-02-18 13:12:25] INFO: Successfully downloaded: perda-kabupaten-toli-toli-11-2019.pdf
+[2026-02-18 13:12:27] INFO: Progress: 18/19702 (0.1%)
+[2026-02-18 13:12:27] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-pekalongan-no-6-tahun-2022
+[2026-02-18 13:12:27] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kabupaten-pekalongan-no-6-tahun-2022.pdf
+[2026-02-18 13:12:38] INFO: Successfully downloaded: perda-kabupaten-pekalongan-6-2022.pdf
+[2026-02-18 13:12:39] INFO: Progress: 19/19702 (0.1%)
+[2026-02-18 13:12:39] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-jawa-barat-no-3-tahun-2021
+[2026-02-18 13:12:39] INFO: Found PDF URL: https://peraturan.go.id/files/perda-provinsi-jawa-barat-no-3-tahun-2021.pdf
+[2026-02-18 13:12:40] INFO: Successfully downloaded: perda-provinsi-jawa-barat-3-2021.pdf
+[2026-02-18 13:12:41] INFO: Progress: 20/19702 (0.1%)
+[2026-02-18 13:12:41] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-blora-no-21-tahun-2018
+[2026-02-18 13:12:42] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA-21-2018-BANKUM.pdf
+[2026-02-18 13:12:42] INFO: Successfully downloaded: perda-kabupaten-blora-21-2018.pdf
+[2026-02-18 13:12:44] INFO: Progress: 21/19702 (0.1%)
+[2026-02-18 13:12:44] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-gianyar-no-3-tahun-2024
+[2026-02-18 13:12:44] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kabupaten-gianyar-no-3-tahun-2024.pdf
+[2026-02-18 13:12:44] INFO: Successfully downloaded: perda-kabupaten-gianyar-3-2024.pdf
+[2026-02-18 13:12:46] INFO: Progress: 22/19702 (0.1%)
+[2026-02-18 13:12:46] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-bone-no-9-tahun-2009
+[2026-02-18 13:12:46] INFO: Found PDF URL: https://peraturan.go.id/files/Perda-09-Tahun-2009.pdf
+[2026-02-18 13:12:47] INFO: Successfully downloaded: perda-kabupaten-bone-9-2009.pdf
+[2026-02-18 13:12:49] INFO: Progress: 23/19702 (0.1%)
+[2026-02-18 13:12:49] INFO: Processing: https://peraturan.go.id/id/perda-kota-malang-no-6-tahun-2010
+[2026-02-18 13:12:49] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA+NOMOR+6+TAHUN+2010+TENTANG+RPJMD+2009-2013.pdf
+[2026-02-18 13:12:49] INFO: Successfully downloaded: perda-kota-malang-6-2010.pdf
+[2026-02-18 13:12:51] INFO: Progress: 24/19702 (0.1%)
+[2026-02-18 13:12:51] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-sulawesi-selatan-no-5-tahun-2011
+[2026-02-18 13:12:51] INFO: Found PDF URL: https://peraturan.go.id/files/2011pd0073005.pdf
+[2026-02-18 13:12:51] INFO: Successfully downloaded: perda-provinsi-sulawesi-selatan-5-2011.pdf
+[2026-02-18 13:12:53] INFO: Progress: 25/19702 (0.1%)
+[2026-02-18 13:12:53] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-manokwari-no-9-tahun-2020
+[2026-02-18 13:12:53] ERROR: Failed: https://peraturan.go.id/id/perda-kabupaten-manokwari-no-9-tahun-2020 - No PDF URL found
+[2026-02-18 13:12:55] INFO: Progress: 26/19702 (0.1%)
+[2026-02-18 13:12:55] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-tanah-datar-no-2-tahun-2020
+[2026-02-18 13:12:55] INFO: Found PDF URL: https://peraturan.go.id/files/077b5c6a090889aacb8fd9d5aa1631ad.pdf
+[2026-02-18 13:12:56] INFO: Successfully downloaded: perda-kabupaten-tanah-datar-2-2020.pdf
+[2026-02-18 13:12:57] INFO: Progress: 27/19702 (0.1%)
+[2026-02-18 13:12:57] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-sragen-no-12-tahun-2007
+[2026-02-18 13:12:57] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA+NO+12+TAHUN+2007+TENTANG+PENDIRIAN+PERSEROAN+TERBATAS+JASA+KONSULTAN.pdf
+[2026-02-18 13:12:58] INFO: Successfully downloaded: perda-kabupaten-sragen-12-2007.pdf
+[2026-02-18 13:12:59] INFO: Progress: 28/19702 (0.1%)
+[2026-02-18 13:12:59] INFO: Processing: https://peraturan.go.id/id/perda-kota-tasikmalaya-no-1-tahun-2017
+[2026-02-18 13:12:59] INFO: Found PDF URL: https://peraturan.go.id/files/HAK+KEUANGAN+DAN+ADMINISTRATIF+PIMPINAN+DAN+ANGGOTA+DPRD+KOTA+TASIKMALAYA.pdf
+[2026-02-18 13:13:00] INFO: Successfully downloaded: perda-kota-tasikmalaya-1-2017.pdf
+[2026-02-18 13:13:01] INFO: Progress: 29/19702 (0.1%)
+[2026-02-18 13:13:01] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-sragen-no-11-tahun-2017
+[2026-02-18 13:13:01] INFO: Found PDF URL: https://peraturan.go.id/files/11+BMD+2017+.pdf
+[2026-02-18 13:13:02] INFO: Successfully downloaded: perda-kabupaten-sragen-11-2017.pdf
+[2026-02-18 13:13:03] INFO: Progress: 30/19702 (0.2%)
+[2026-02-18 13:13:03] INFO: Processing: https://peraturan.go.id/id/perda-kota-malang-no-11-tahun-2001
+[2026-02-18 13:13:03] INFO: Found PDF URL: https://peraturan.go.id/files/Perda+Nomor+11+Tahun+2001+tentang+Terminal.pdf
+[2026-02-18 13:13:04] INFO: Successfully downloaded: perda-kota-malang-11-2001.pdf
+[2026-02-18 13:13:05] INFO: Progress: 31/19702 (0.2%)
+[2026-02-18 13:13:05] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-sarolangun-no-9-tahun-2016
+[2026-02-18 13:13:05] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA+NO+9+TAHUN+2016.pdf
+[2026-02-18 13:13:07] INFO: Successfully downloaded: perda-kabupaten-sarolangun-9-2016.pdf
+[2026-02-18 13:13:09] INFO: Progress: 32/19702 (0.2%)
+[2026-02-18 13:13:09] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-purworejo-no-3-tahun-2012
+[2026-02-18 13:13:09] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA_Kabupaten_Purworejo_Nomor_3_Tahun_2012_11e540a0e2a5bd7eac92313031393034.pdf
+[2026-02-18 13:13:09] INFO: Successfully downloaded: perda-kabupaten-purworejo-3-2012.pdf
+[2026-02-18 13:13:11] INFO: Progress: 33/19702 (0.2%)
+[2026-02-18 13:13:11] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-pohuwato-no-11-tahun-2020
+[2026-02-18 13:13:11] INFO: Found PDF URL: https://peraturan.go.id/files/2020pdpohuwatokab011.pdf
+[2026-02-18 13:13:11] INFO: Successfully downloaded: perda-kabupaten-pohuwato-11-2020.pdf
+[2026-02-18 13:13:13] INFO: Progress: 34/19702 (0.2%)
+[2026-02-18 13:13:13] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-bondowoso-no-1-tahun-2020
+[2026-02-18 13:13:13] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kabupaten-bondowoso-no-1-tahun-2020.pdf
+[2026-02-18 13:13:17] INFO: Successfully downloaded: perda-kabupaten-bondowoso-1-2020.pdf
+[2026-02-18 13:13:18] INFO: Progress: 35/19702 (0.2%)
+[2026-02-18 13:13:18] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-bojonegoro-no-8-tahun-2020
+[2026-02-18 13:13:19] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kabupaten-bojonegoro-no-8-tahun-2020.pdf
+[2026-02-18 13:13:20] INFO: Successfully downloaded: perda-kabupaten-bojonegoro-8-2020.pdf
+[2026-02-18 13:13:22] INFO: Progress: 36/19702 (0.2%)
+[2026-02-18 13:13:22] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-bone-no-22-tahun-2009
+[2026-02-18 13:13:22] INFO: Found PDF URL: https://peraturan.go.id/files/Perda-22-Tahun-2009.pdf
+[2026-02-18 13:13:22] INFO: Successfully downloaded: perda-kabupaten-bone-22-2009.pdf
+[2026-02-18 13:13:24] INFO: Progress: 37/19702 (0.2%)
+[2026-02-18 13:13:24] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-banyuwangi-no-9-tahun-2011
+[2026-02-18 13:13:25] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA_Kabupaten_Banyuwangi_Nomor_9_Tahun_2011.pdf
+[2026-02-18 13:13:26] INFO: Successfully downloaded: perda-kabupaten-banyuwangi-9-2011.pdf
+[2026-02-18 13:13:27] INFO: Progress: 38/19702 (0.2%)
+[2026-02-18 13:13:27] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-subang-no-2-tahun-2021
+[2026-02-18 13:13:27] INFO: Found PDF URL: https://peraturan.go.id/files/4_TAHUN_2020.pdf
+[2026-02-18 13:13:29] INFO: Successfully downloaded: perda-kabupaten-subang-2-2021.pdf
+[2026-02-18 13:13:30] INFO: Progress: 39/19702 (0.2%)
+[2026-02-18 13:13:30] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-sleman-no-18-tahun-2012
+[2026-02-18 13:13:30] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA_Kabupaten_Sleman_Nomor_18_Tahun_2012_11e557625d5bdf08985b303931393238.pdf
+[2026-02-18 13:13:31] INFO: Successfully downloaded: perda-kabupaten-sleman-18-2012.pdf
+[2026-02-18 13:13:32] INFO: Progress: 40/19702 (0.2%)
+[2026-02-18 13:13:32] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-musi-rawas-no-6-tahun-2013
+[2026-02-18 13:13:32] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA_Kabupaten_Musi_Rawas_Nomor_6_Tahun_2013_11e598c91dcd9b9e9384313434383436.pdf
+[2026-02-18 13:13:33] INFO: Successfully downloaded: perda-kabupaten-musi-rawas-6-2013.pdf
+[2026-02-18 13:13:34] INFO: Progress: 41/19702 (0.2%)
+[2026-02-18 13:13:34] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-magetan-no-3-tahun-2013
+[2026-02-18 13:13:34] INFO: Found PDF URL: https://peraturan.go.id/files/perda+3+tahun+2013.pdf
+[2026-02-18 13:13:36] INFO: Successfully downloaded: perda-kabupaten-magetan-3-2013.pdf
+[2026-02-18 13:13:38] INFO: Progress: 42/19702 (0.2%)
+[2026-02-18 13:13:38] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-purworejo-no-5-tahun-2012
+[2026-02-18 13:13:38] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA_Kabupaten_Purworejo_Nomor_5_Tahun_2012_11e53ff3b29755289811313333393231.pdf
+[2026-02-18 13:13:39] INFO: Successfully downloaded: perda-kabupaten-purworejo-5-2012.pdf
+[2026-02-18 13:13:40] INFO: Progress: 43/19702 (0.2%)
+[2026-02-18 13:13:40] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-sulawesi-selatan-no-4-tahun-2019
+[2026-02-18 13:13:41] INFO: Found PDF URL: https://peraturan.go.id/files/2019pd0073004.pdf
+[2026-02-18 13:13:41] INFO: Successfully downloaded: perda-provinsi-sulawesi-selatan-4-2019.pdf
+[2026-02-18 13:13:42] INFO: Progress: 44/19702 (0.2%)
+[2026-02-18 13:13:42] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-blitar-no-10-tahun-2019
+[2026-02-18 13:13:43] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA_NOMOR_10_TAHUN_2019.pdf
+[2026-02-18 13:13:43] INFO: Successfully downloaded: perda-kabupaten-blitar-10-2019.pdf
+[2026-02-18 13:13:44] INFO: Progress: 45/19702 (0.2%)
+[2026-02-18 13:13:44] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-sulawesi-selatan-no-6-tahun-2016
+[2026-02-18 13:13:45] INFO: Found PDF URL: https://peraturan.go.id/files/2016pd0073008.pdf
+[2026-02-18 13:13:45] INFO: Retrying https://peraturan.go.id/id/perda-provinsi-sulawesi-selatan-no-6-tahun-2016 (attempt 1/3)
+[2026-02-18 13:13:48] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-sulawesi-selatan-no-6-tahun-2016
+[2026-02-18 13:13:48] INFO: Found PDF URL: https://peraturan.go.id/files/2016pd0073008.pdf
+[2026-02-18 13:13:49] INFO: Successfully downloaded: perda-provinsi-sulawesi-selatan-6-2016.pdf
+[2026-02-18 13:13:50] INFO: Progress: 46/19702 (0.2%)
+[2026-02-18 13:13:50] INFO: Processing: https://peraturan.go.id/id/perda-kota-depok-no-9-tahun-2023
+[2026-02-18 13:13:50] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kota-depok-no-9-tahun-2023.pdf
+[2026-02-18 13:13:51] INFO: Successfully downloaded: perda-kota-depok-9-2023.pdf
+[2026-02-18 13:13:52] INFO: Progress: 47/19702 (0.2%)
+[2026-02-18 13:13:52] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-sleman-no-12-tahun-2012
+[2026-02-18 13:13:53] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA_Kabupaten_Sleman_Nomor_12_Tahun_2012_11e56ca231be16fe985e313031393137.pdf
+[2026-02-18 13:13:53] INFO: Successfully downloaded: perda-kabupaten-sleman-12-2012.pdf
+[2026-02-18 13:13:54] INFO: Progress: 48/19702 (0.2%)
+[2026-02-18 13:13:54] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-sulawesi-selatan-no-12-tahun-2015
+[2026-02-18 13:13:55] INFO: Found PDF URL: https://peraturan.go.id/files/2015pd0073012.pdf
+[2026-02-18 13:13:55] INFO: Successfully downloaded: perda-provinsi-sulawesi-selatan-12-2015.pdf
+[2026-02-18 13:13:57] INFO: Progress: 49/19702 (0.2%)
+[2026-02-18 13:13:57] INFO: Processing: https://peraturan.go.id/id/perda-kota-malang-no-2-tahun-2005
+[2026-02-18 13:13:57] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA+NOMOR+2+TAHUN+2005+TENTANG+APBD+TA+2005.pdf
+[2026-02-18 13:13:57] INFO: Successfully downloaded: perda-kota-malang-2-2005.pdf
+[2026-02-18 13:13:59] INFO: Progress: 50/19702 (0.3%)
+[2026-02-18 13:13:59] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-bone-no-13-tahun-2009
+[2026-02-18 13:13:59] INFO: Found PDF URL: https://peraturan.go.id/files/Perda-13-Tahun-2009.pdf
+[2026-02-18 13:13:59] INFO: Successfully downloaded: perda-kabupaten-bone-13-2009.pdf
+[2026-02-18 13:14:01] INFO: Progress: 51/19702 (0.3%)
+[2026-02-18 13:14:01] INFO: Processing: https://peraturan.go.id/id/perda-kota-bitung-no-2-tahun-2016
+[2026-02-18 13:14:01] ERROR: Failed: https://peraturan.go.id/id/perda-kota-bitung-no-2-tahun-2016 - No PDF URL found
+[2026-02-18 13:14:03] INFO: Progress: 52/19702 (0.3%)
+[2026-02-18 13:14:03] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-banyuwangi-no-11-tahun-2014
+[2026-02-18 13:14:03] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kabupaten-banyuwangi-no-11-tahun-2014.pdf
+[2026-02-18 13:14:03] INFO: Successfully downloaded: perda-kabupaten-banyuwangi-11-2014.pdf
+[2026-02-18 13:14:05] INFO: Progress: 53/19702 (0.3%)
+[2026-02-18 13:14:05] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-purworejo-no-4-tahun-2012
+[2026-02-18 13:14:05] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA_Kabupaten_Purworejo_Nomor_4_Tahun_2012_11e5409583a79604bdca303835373430.pdf
+[2026-02-18 13:14:05] INFO: Successfully downloaded: perda-kabupaten-purworejo-4-2012.pdf
+[2026-02-18 13:14:07] INFO: Progress: 54/19702 (0.3%)
+[2026-02-18 13:14:07] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-sragen-no-9-tahun-2008
+[2026-02-18 13:14:07] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA+NO+9+TAHUN+2008+TENTANG+PERUBAHAN+APBD+TAHUN+ANGGARAN+2008.pdf
+[2026-02-18 13:14:07] INFO: Successfully downloaded: perda-kabupaten-sragen-9-2008.pdf
+[2026-02-18 13:14:09] INFO: Progress: 55/19702 (0.3%)
+[2026-02-18 13:14:09] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-sulawesi-selatan-no-2-tahun-2020
+[2026-02-18 13:14:09] INFO: Found PDF URL: https://peraturan.go.id/files/2020pd0073002.pdf
+[2026-02-18 13:14:09] INFO: Successfully downloaded: perda-provinsi-sulawesi-selatan-2-2020.pdf
+[2026-02-18 13:14:11] INFO: Progress: 56/19702 (0.3%)
+[2026-02-18 13:14:11] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-kalimantan-utara-no-6-tahun-2020
+[2026-02-18 13:14:11] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA-6-2020_SALINAN.pdf
+[2026-02-18 13:14:11] INFO: Successfully downloaded: perda-provinsi-kalimantan-utara-6-2020.pdf
+[2026-02-18 13:14:13] INFO: Progress: 57/19702 (0.3%)
+[2026-02-18 13:14:13] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-lumajang-no-6-tahun-2020
+[2026-02-18 13:14:13] INFO: Found PDF URL: https://peraturan.go.id/files/Perbup_No__6_2020_tentang_Perubahan_Kedua_atas_Peraturan_Bupati_Lumajang_Nomor_7_Tahun_2020_tentang_Penjabaran_Anggaran_Pendapatan_dan_Belanja_Daerah_Tahun_Anggaran_2019.pdf
+[2026-02-18 13:14:13] INFO: Successfully downloaded: perda-kabupaten-lumajang-6-2020.pdf
+[2026-02-18 13:14:15] INFO: Progress: 58/19702 (0.3%)
+[2026-02-18 13:14:15] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-kendal-no-10-tahun-2025
+[2026-02-18 13:14:15] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kabupaten-kendal-no-10-tahun-2025.pdf
+[2026-02-18 13:14:16] INFO: Successfully downloaded: perda-kabupaten-kendal-10-2025.pdf
+[2026-02-18 13:14:17] INFO: Progress: 59/19702 (0.3%)
+[2026-02-18 13:14:17] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-sumba-barat-no-10-tahun-2015
+[2026-02-18 13:14:17] INFO: Found PDF URL: https://peraturan.go.id/files/perda10tahun2015.pdf
+[2026-02-18 13:14:20] INFO: Successfully downloaded: perda-kabupaten-sumba-barat-10-2015.pdf
+[2026-02-18 13:14:21] INFO: Progress: 60/19702 (0.3%)
+[2026-02-18 13:14:21] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-sulawesi-barat-no-6-tahun-2022
+[2026-02-18 13:14:21] INFO: Found PDF URL: https://peraturan.go.id/files/perda-provinsi-sulawesi-barat-no-6-tahun-2022.pdf
+[2026-02-18 13:14:22] INFO: Successfully downloaded: perda-provinsi-sulawesi-barat-6-2022.pdf
+[2026-02-18 13:14:23] INFO: Progress: 61/19702 (0.3%)
+[2026-02-18 13:14:23] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-di-yogyakarta-no-1-tahun-2015
+[2026-02-18 13:14:23] INFO: Found PDF URL: https://peraturan.go.id/files/perda-provinsi-di-yogyakarta-no-1-tahun-2015.pdf
+[2026-02-18 13:14:24] INFO: Successfully downloaded: perda-provinsi-di-yogyakarta-1-2015.pdf
+[2026-02-18 13:14:25] INFO: Progress: 62/19702 (0.3%)
+[2026-02-18 13:14:25] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-bojonegoro-no-1-tahun-2022
+[2026-02-18 13:14:25] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kabupaten-bojonegoro-no-1-tahun-2022.pdf
+[2026-02-18 13:14:26] INFO: Successfully downloaded: perda-kabupaten-bojonegoro-1-2022.pdf
+[2026-02-18 13:14:27] INFO: Progress: 63/19702 (0.3%)
+[2026-02-18 13:14:27] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-kubu-raya-no-3-tahun-2019
+[2026-02-18 13:14:28] INFO: Found PDF URL: https://peraturan.go.id/files/Perda+nomor+3+tahun+2019.pdf
+[2026-02-18 13:14:28] INFO: Successfully downloaded: perda-kabupaten-kubu-raya-3-2019.pdf
+[2026-02-18 13:14:29] INFO: Progress: 64/19702 (0.3%)
+[2026-02-18 13:14:29] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-karawang-no-16-tahun-2023
+[2026-02-18 13:14:30] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kabupaten-karawang-no-16-tahun-2023.pdf
+[2026-02-18 13:14:31] INFO: Successfully downloaded: perda-kabupaten-karawang-16-2023.pdf
+[2026-02-18 13:14:32] INFO: Progress: 65/19702 (0.3%)
+[2026-02-18 13:14:32] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-purworejo-no-7-tahun-2011
+[2026-02-18 13:14:33] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA_Kabupaten_Purworejo_Nomor_7_Tahun_2011_11e576e427ef3972be2d313133363339.pdf
+[2026-02-18 13:14:33] INFO: Successfully downloaded: perda-kabupaten-purworejo-7-2011.pdf
+[2026-02-18 13:14:34] INFO: Progress: 66/19702 (0.3%)
+[2026-02-18 13:14:34] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-bangkalan-no-1-tahun-2022
+[2026-02-18 13:14:35] ERROR: Unexpected error processing https://peraturan.go.id/id/perda-kabupaten-bangkalan-no-1-tahun-2022: [Errno 32] Broken pipe
+[2026-02-18 13:14:35] ERROR: Failed: https://peraturan.go.id/id/perda-kabupaten-bangkalan-no-1-tahun-2022 - Unexpected error: [Errno 32] Broken pipe
+[2026-02-18 13:14:36] INFO: Progress: 67/19702 (0.3%)
+[2026-02-18 13:14:36] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-teluk-bintuni-no-2-tahun-2016
+[2026-02-18 13:14:36] INFO: Found PDF URL: https://peraturan.go.id/files/2016perdatelukbintunikab2.pdf
+[2026-02-18 13:14:37] INFO: Successfully downloaded: perda-kabupaten-teluk-bintuni-2-2016.pdf
+[2026-02-18 13:14:38] INFO: Progress: 68/19702 (0.3%)
+[2026-02-18 13:14:38] INFO: Processing: https://peraturan.go.id/id/perda-kota-madiun-no-46-tahun-2018
+[2026-02-18 13:14:39] INFO: Found PDF URL: https://peraturan.go.id/files/perda_46_2018.pdf
+[2026-02-18 13:14:39] INFO: Successfully downloaded: perda-kota-madiun-46-2018.pdf
+[2026-02-18 13:14:40] INFO: Progress: 69/19702 (0.4%)
+[2026-02-18 13:14:40] INFO: Processing: https://peraturan.go.id/id/perda-kota-depok-no-2-tahun-2018
+[2026-02-18 13:14:41] INFO: Found PDF URL: https://peraturan.go.id/files/perda+no+02+tahun+2018+perubahan+atas+peraturan+daerah+nomor+3+tahun+2011+tentang+penyelenggaraan+perizinan+dan+pendaftaran+usaha+bidang+perindustrian+dan+perdagangan.pdf
+[2026-02-18 13:14:41] INFO: Successfully downloaded: perda-kota-depok-2-2018.pdf
+[2026-02-18 13:14:43] INFO: Progress: 70/19702 (0.4%)
+[2026-02-18 13:14:43] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-gowa-no-5-tahun-2014
+[2026-02-18 13:14:43] INFO: Found PDF URL: https://peraturan.go.id/files/Perda-Nomor-5-Tahun-2014-Ttg-Penyelenggaraan-Perlindungan-Anak.pdf
+[2026-02-18 13:14:45] INFO: Successfully downloaded: perda-kabupaten-gowa-5-2014.pdf
+[2026-02-18 13:14:47] INFO: Progress: 71/19702 (0.4%)
+[2026-02-18 13:14:47] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-sulawesi-selatan-no-3-tahun-2017
+[2026-02-18 13:14:47] INFO: Found PDF URL: https://peraturan.go.id/files/2017pd0073005.pdf
+[2026-02-18 13:14:47] INFO: Successfully downloaded: perda-provinsi-sulawesi-selatan-3-2017.pdf
+[2026-02-18 13:14:49] INFO: Progress: 72/19702 (0.4%)
+[2026-02-18 13:14:49] INFO: Processing: https://peraturan.go.id/id/perda-kota-kediri-no-5-tahun-2020
+[2026-02-18 13:14:49] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kota-kediri-no-5-tahun-2020.pdf
+[2026-02-18 13:14:49] INFO: Successfully downloaded: perda-kota-kediri-5-2020.pdf
+[2026-02-18 13:14:51] INFO: Progress: 73/19702 (0.4%)
+[2026-02-18 13:14:51] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-purworejo-no-11-tahun-2010
+[2026-02-18 13:14:51] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA_Kabupaten_Purworejo_Nomor_11_Tahun_2010_11e452bd9cd8cbb0bd2f313634353036+%282%29.pdf
+[2026-02-18 13:14:51] INFO: Successfully downloaded: perda-kabupaten-purworejo-11-2010.pdf
+[2026-02-18 13:14:53] INFO: Progress: 74/19702 (0.4%)
+[2026-02-18 13:14:53] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-sulawesi-selatan-no-10-tahun-2011
+[2026-02-18 13:14:53] INFO: Found PDF URL: https://peraturan.go.id/files/2011pd0073010.pdf
+[2026-02-18 13:14:54] INFO: Successfully downloaded: perda-provinsi-sulawesi-selatan-10-2011.pdf
+[2026-02-18 13:14:55] INFO: Progress: 75/19702 (0.4%)
+[2026-02-18 13:14:55] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-mojokerto-no-2-tahun-2022
+[2026-02-18 13:14:55] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kabupaten-mojokerto-no-2-tahun-2022.pdf
+[2026-02-18 13:14:56] INFO: Retrying https://peraturan.go.id/id/perda-kabupaten-mojokerto-no-2-tahun-2022 (attempt 1/3)
+[2026-02-18 13:14:59] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-mojokerto-no-2-tahun-2022
+[2026-02-18 13:14:59] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kabupaten-mojokerto-no-2-tahun-2022.pdf
+[2026-02-18 13:14:59] INFO: Retrying https://peraturan.go.id/id/perda-kabupaten-mojokerto-no-2-tahun-2022 (attempt 2/3)
+[2026-02-18 13:15:02] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-mojokerto-no-2-tahun-2022
+[2026-02-18 13:15:03] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kabupaten-mojokerto-no-2-tahun-2022.pdf
+[2026-02-18 13:15:03] INFO: Retrying https://peraturan.go.id/id/perda-kabupaten-mojokerto-no-2-tahun-2022 (attempt 3/3)
+[2026-02-18 13:15:06] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-mojokerto-no-2-tahun-2022
+[2026-02-18 13:15:06] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kabupaten-mojokerto-no-2-tahun-2022.pdf
+[2026-02-18 13:15:07] ERROR: Failed: https://peraturan.go.id/id/perda-kabupaten-mojokerto-no-2-tahun-2022 - PDF validation failed: Invalid PDF header
+[2026-02-18 13:15:08] INFO: Progress: 76/19702 (0.4%)
+[2026-02-18 13:15:08] INFO: Processing: https://peraturan.go.id/id/perda-kota-bogor-no-15-tahun-2018
+[2026-02-18 13:15:09] INFO: Found PDF URL: https://peraturan.go.id/files/2018-15.pdf
+[2026-02-18 13:15:09] INFO: Successfully downloaded: perda-kota-bogor-15-2018.pdf
+[2026-02-18 13:15:10] INFO: Progress: 77/19702 (0.4%)
+[2026-02-18 13:15:10] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-majalengka-no-4-tahun-2020
+[2026-02-18 13:15:11] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA+2020_4+Penyertaan+Modal+PDAM.pdf
+[2026-02-18 13:15:11] INFO: Successfully downloaded: perda-kabupaten-majalengka-4-2020.pdf
+[2026-02-18 13:15:13] INFO: Progress: 78/19702 (0.4%)
+[2026-02-18 13:15:13] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-kalimantan-utara-no-11-tahun-2018
+[2026-02-18 13:15:13] INFO: Found PDF URL: https://peraturan.go.id/files/Perda+Nomor+11+Tahun+2018.pdf
+[2026-02-18 13:15:13] INFO: Successfully downloaded: perda-provinsi-kalimantan-utara-11-2018.pdf
+[2026-02-18 13:15:15] INFO: Progress: 79/19702 (0.4%)
+[2026-02-18 13:15:15] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-indramayu-no-1-tahun-2023
+[2026-02-18 13:15:15] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kabupaten-indramayu-no-1-tahun-2023.pdf
+[2026-02-18 13:15:15] INFO: Successfully downloaded: perda-kabupaten-indramayu-1-2023.pdf
+[2026-02-18 13:15:17] INFO: Progress: 80/19702 (0.4%)
+[2026-02-18 13:15:17] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-sukoharjo-no-2-tahun-2021
+[2026-02-18 13:15:17] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kabupaten-sukoharjo-no-2-tahun-2021.pdf
+[2026-02-18 13:15:17] INFO: Successfully downloaded: perda-kabupaten-sukoharjo-2-2021.pdf
+[2026-02-18 13:15:19] INFO: Progress: 81/19702 (0.4%)
+[2026-02-18 13:15:19] INFO: Processing: https://peraturan.go.id/id/perda-kota-cirebon-no-25-tahun-2019
+[2026-02-18 13:15:19] INFO: Found PDF URL: https://peraturan.go.id/files/PERWAL252019.pdf
+[2026-02-18 13:15:20] INFO: Successfully downloaded: perda-kota-cirebon-25-2019.pdf
+[2026-02-18 13:15:21] INFO: Progress: 82/19702 (0.4%)
+[2026-02-18 13:15:21] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-purbalingga-no-14-tahun-2024
+[2026-02-18 13:15:21] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kabupaten-purbalingga-no-14-tahun-2024.pdf
+[2026-02-18 13:15:22] INFO: Successfully downloaded: perda-kabupaten-purbalingga-14-2024.pdf
+[2026-02-18 13:15:23] INFO: Progress: 83/19702 (0.4%)
+[2026-02-18 13:15:23] INFO: Processing: https://peraturan.go.id/id/perda-kota-tomohon-no-2-tahun-2019
+[2026-02-18 13:15:23] INFO: Found PDF URL: https://peraturan.go.id/files/perdanomor2tahun2019.pdf
+[2026-02-18 13:15:24] INFO: Successfully downloaded: perda-kota-tomohon-2-2019.pdf
+[2026-02-18 13:15:25] INFO: Progress: 84/19702 (0.4%)
+[2026-02-18 13:15:25] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-sarolangun-no-6-tahun-2015
+[2026-02-18 13:15:26] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA+NO+6+TAHUN+2015-dikompresi.pdf
+[2026-02-18 13:15:28] INFO: Successfully downloaded: perda-kabupaten-sarolangun-6-2015.pdf
+[2026-02-18 13:15:30] INFO: Progress: 85/19702 (0.4%)
+[2026-02-18 13:15:30] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-mimika-no-3-tahun-2024
+[2026-02-18 13:15:30] ERROR: Unexpected error processing https://peraturan.go.id/id/perda-kabupaten-mimika-no-3-tahun-2024: [Errno 32] Broken pipe
+[2026-02-18 13:15:30] ERROR: Failed: https://peraturan.go.id/id/perda-kabupaten-mimika-no-3-tahun-2024 - Unexpected error: [Errno 32] Broken pipe
+[2026-02-18 13:15:32] INFO: Progress: 86/19702 (0.4%)
+[2026-02-18 13:15:32] INFO: Processing: https://peraturan.go.id/id/perda-kota-malang-no-14-tahun-2010
+[2026-02-18 13:15:32] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA+NOMOR+14+TAHUN+2010+TENTANG++APBD+2011.pdf
+[2026-02-18 13:15:32] INFO: Successfully downloaded: perda-kota-malang-14-2010.pdf
+[2026-02-18 13:15:34] INFO: Progress: 87/19702 (0.4%)
+[2026-02-18 13:15:34] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-purwakarta-no-5-tahun-2020
+[2026-02-18 13:15:34] INFO: Found PDF URL: https://peraturan.go.id/files/8c715631f619184336159680dd0b54b1.pdf
+[2026-02-18 13:15:34] INFO: Successfully downloaded: perda-kabupaten-purwakarta-5-2020.pdf
+[2026-02-18 13:15:36] INFO: Progress: 88/19702 (0.4%)
+[2026-02-18 13:15:36] INFO: Processing: https://peraturan.go.id/id/perda-kota-blitar-no-1-tahun-2020
+[2026-02-18 13:15:36] INFO: Found PDF URL: https://peraturan.go.id/files/3_1582616054_ypDjIl_1_2019.pdf
+[2026-02-18 13:15:36] INFO: Successfully downloaded: perda-kota-blitar-1-2020.pdf
+[2026-02-18 13:15:38] INFO: Progress: 89/19702 (0.5%)
+[2026-02-18 13:15:38] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-banjarnegara-no-3-tahun-2019
+[2026-02-18 13:15:38] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kabupaten-banjarnegara-no-3-tahun-2019.pdf
+[2026-02-18 13:15:39] INFO: Successfully downloaded: perda-kabupaten-banjarnegara-3-2019.pdf
+[2026-02-18 13:15:40] INFO: Progress: 90/19702 (0.5%)
+[2026-02-18 13:15:40] INFO: Processing: https://peraturan.go.id/id/perda-kota-semarang-no-2-tahun-2022
+[2026-02-18 13:15:40] INFO: Found PDF URL: https://peraturan.go.id/files/perda2_2022%28ketik%29.pdf
+[2026-02-18 13:15:41] INFO: Successfully downloaded: perda-kota-semarang-2-2022.pdf
+[2026-02-18 13:15:42] INFO: Progress: 91/19702 (0.5%)
+[2026-02-18 13:15:42] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-bone-no-2-tahun-2006
+[2026-02-18 13:15:42] INFO: Found PDF URL: https://peraturan.go.id/files/Perda-02-Tahun-2006.pdf
+[2026-02-18 13:15:43] INFO: Successfully downloaded: perda-kabupaten-bone-2-2006.pdf
+[2026-02-18 13:15:44] INFO: Progress: 92/19702 (0.5%)
+[2026-02-18 13:15:44] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-sukabumi-no-2-tahun-2017
+[2026-02-18 13:15:44] INFO: Found PDF URL: https://peraturan.go.id/files/1perda-nomor-2-ttg-pencabutan-perda-nomor-14-tahun-2010-tentang-.pdf
+[2026-02-18 13:15:45] INFO: Successfully downloaded: perda-kabupaten-sukabumi-2-2017.pdf
+[2026-02-18 13:15:46] INFO: Progress: 93/19702 (0.5%)
+[2026-02-18 13:15:46] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-demak-no-10-tahun-2020
+[2026-02-18 13:15:46] INFO: Found PDF URL: https://peraturan.go.id/files/perda-no-10-tahun-2020.pdf
+[2026-02-18 13:15:47] INFO: Successfully downloaded: perda-kabupaten-demak-10-2020.pdf
+[2026-02-18 13:15:48] INFO: Progress: 94/19702 (0.5%)
+[2026-02-18 13:15:48] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-banyumas-no-2-tahun-2023
+[2026-02-18 13:15:48] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kabupaten-banyumas-no-2-tahun-2023.pdf
+[2026-02-18 13:15:49] INFO: Successfully downloaded: perda-kabupaten-banyumas-2-2023.pdf
+[2026-02-18 13:15:50] INFO: Progress: 95/19702 (0.5%)
+[2026-02-18 13:15:50] INFO: Processing: https://peraturan.go.id/id/perda-kota-tangerang-no-40-tahun-2018
+[2026-02-18 13:15:51] INFO: Found PDF URL: https://peraturan.go.id/files/Perwal_No__40_Tahun_2018.pdf
+[2026-02-18 13:15:51] INFO: Successfully downloaded: perda-kota-tangerang-40-2018.pdf
+[2026-02-18 13:15:52] INFO: Progress: 96/19702 (0.5%)
+[2026-02-18 13:15:52] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-bangkalan-no-11-tahun-2019
+[2026-02-18 13:15:53] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA_11_2019.pdf
+[2026-02-18 13:15:54] INFO: Successfully downloaded: perda-kabupaten-bangkalan-11-2019.pdf
+[2026-02-18 13:15:56] INFO: Progress: 97/19702 (0.5%)
+[2026-02-18 13:15:56] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-bone-no-20-tahun-2009
+[2026-02-18 13:15:56] INFO: Found PDF URL: https://peraturan.go.id/files/Perda-20-Tahun-2009.pdf
+[2026-02-18 13:15:56] INFO: Successfully downloaded: perda-kabupaten-bone-20-2009.pdf
+[2026-02-18 13:15:58] INFO: Progress: 98/19702 (0.5%)
+[2026-02-18 13:15:58] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-tulung-agung-no-5-tahun-2016
+[2026-02-18 13:15:58] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kabupaten-tulung-agung-no-5-tahun-2016.pdf
+[2026-02-18 13:15:58] INFO: Successfully downloaded: perda-kabupaten-tulung-agung-5-2016.pdf
+[2026-02-18 13:16:00] INFO: Progress: 99/19702 (0.5%)
+[2026-02-18 13:16:00] INFO: Processing: https://peraturan.go.id/id/perda-kota-cirebon-no-14-tahun-2015
+[2026-02-18 13:16:00] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA142015.pdf
+[2026-02-18 13:16:00] INFO: Successfully downloaded: perda-kota-cirebon-14-2015.pdf
+[2026-02-18 13:16:02] INFO: Progress: 100/19702 (0.5%)
+[2026-02-18 13:16:02] INFO: Processing: https://peraturan.go.id/id/perda-kota-semarang-no-6-tahun-2024
+[2026-02-18 13:16:02] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kota-semarang-no-6-tahun-2024.pdf
+[2026-02-18 13:16:03] INFO: Successfully downloaded: perda-kota-semarang-6-2024.pdf
+[2026-02-18 13:16:04] INFO: Progress Report: 93 successful, 7 failed, 0 skipped
+[2026-02-18 13:16:04] INFO: Progress: 101/19702 (0.5%)
+[2026-02-18 13:16:04] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-purworejo-no-2-tahun-2009
+[2026-02-18 13:16:04] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA_Kabupaten_Purworejo_Nomor_2_Tahun_2009_11e452bd8044ba608cfa313634343138.pdf
+[2026-02-18 13:16:05] INFO: Successfully downloaded: perda-kabupaten-purworejo-2-2009.pdf
+[2026-02-18 13:16:06] INFO: Progress: 102/19702 (0.5%)
+[2026-02-18 13:16:06] INFO: Processing: https://peraturan.go.id/id/perda-kota-bekasi-no-1-tahun-2023
+[2026-02-18 13:16:06] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kota-bekasi-no-1-tahun-2023.pdf
+[2026-02-18 13:16:07] INFO: Successfully downloaded: perda-kota-bekasi-1-2023.pdf
+[2026-02-18 13:16:08] INFO: Progress: 103/19702 (0.5%)
+[2026-02-18 13:16:08] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-kudus-no-7-tahun-2021
+[2026-02-18 13:16:09] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kabupaten-kudus-no-7-tahun-2021.pdf
+[2026-02-18 13:16:09] INFO: Successfully downloaded: perda-kabupaten-kudus-7-2021.pdf
+[2026-02-18 13:16:11] INFO: Progress: 104/19702 (0.5%)
+[2026-02-18 13:16:11] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-sulawesi-barat-no-5-tahun-2024
+[2026-02-18 13:16:11] INFO: Found PDF URL: https://peraturan.go.id/files/perda-provinsi-sulawesi-barat-no-5-tahun-2024.pdf
+[2026-02-18 13:16:11] INFO: Successfully downloaded: perda-provinsi-sulawesi-barat-5-2024.pdf
+[2026-02-18 13:16:13] INFO: Progress: 105/19702 (0.5%)
+[2026-02-18 13:16:13] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-riau-no-2-tahun-2023
+[2026-02-18 13:16:13] INFO: Found PDF URL: https://peraturan.go.id/files/perda-provinsi-riau-no-2-tahun-2023.pdf
+[2026-02-18 13:16:13] INFO: Successfully downloaded: perda-provinsi-riau-2-2023.pdf
+[2026-02-18 13:16:15] INFO: Progress: 106/19702 (0.5%)
+[2026-02-18 13:16:15] INFO: Processing: https://peraturan.go.id/id/perda-kota-kediri-no-7-tahun-2012
+[2026-02-18 13:16:15] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kota-kediri-no-7-tahun-2012.pdf
+[2026-02-18 13:16:16] INFO: Successfully downloaded: perda-kota-kediri-7-2012.pdf
+[2026-02-18 13:16:17] INFO: Progress: 107/19702 (0.5%)
+[2026-02-18 13:16:17] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-kebumen-no-8-tahun-2022
+[2026-02-18 13:16:17] ERROR: Unexpected error processing https://peraturan.go.id/id/perda-kabupaten-kebumen-no-8-tahun-2022: [Errno 32] Broken pipe
+[2026-02-18 13:16:17] ERROR: Failed: https://peraturan.go.id/id/perda-kabupaten-kebumen-no-8-tahun-2022 - Unexpected error: [Errno 32] Broken pipe
+[2026-02-18 13:16:19] INFO: Progress: 108/19702 (0.5%)
+[2026-02-18 13:16:19] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-jawa-tengah-no-11-tahun-2022
+[2026-02-18 13:16:19] INFO: Found PDF URL: https://peraturan.go.id/files/perda-provinsi-jawa-tengah-no-11-tahun-2022.pdf
+[2026-02-18 13:16:20] INFO: Retrying https://peraturan.go.id/id/perda-provinsi-jawa-tengah-no-11-tahun-2022 (attempt 1/3)
+[2026-02-18 13:16:23] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-jawa-tengah-no-11-tahun-2022
+[2026-02-18 13:16:23] INFO: Found PDF URL: https://peraturan.go.id/files/perda-provinsi-jawa-tengah-no-11-tahun-2022.pdf
+[2026-02-18 13:16:23] INFO: Retrying https://peraturan.go.id/id/perda-provinsi-jawa-tengah-no-11-tahun-2022 (attempt 2/3)
+[2026-02-18 13:16:26] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-jawa-tengah-no-11-tahun-2022
+[2026-02-18 13:16:26] INFO: Found PDF URL: https://peraturan.go.id/files/perda-provinsi-jawa-tengah-no-11-tahun-2022.pdf
+[2026-02-18 13:16:27] INFO: Retrying https://peraturan.go.id/id/perda-provinsi-jawa-tengah-no-11-tahun-2022 (attempt 3/3)
+[2026-02-18 13:16:30] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-jawa-tengah-no-11-tahun-2022
+[2026-02-18 13:16:30] INFO: Found PDF URL: https://peraturan.go.id/files/perda-provinsi-jawa-tengah-no-11-tahun-2022.pdf
+[2026-02-18 13:16:30] ERROR: Failed: https://peraturan.go.id/id/perda-provinsi-jawa-tengah-no-11-tahun-2022 - PDF validation failed: Invalid PDF header
+[2026-02-18 13:16:32] INFO: Progress: 109/19702 (0.6%)
+[2026-02-18 13:16:32] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-bangkalan-no-13-tahun-2017
+[2026-02-18 13:16:32] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA+13_2017.pdf
+[2026-02-18 13:16:33] INFO: Successfully downloaded: perda-kabupaten-bangkalan-13-2017.pdf
+[2026-02-18 13:16:34] INFO: Progress: 110/19702 (0.6%)
+[2026-02-18 13:16:34] INFO: Processing: https://peraturan.go.id/id/perda-kota-cirebon-no-27-tahun-2019
+[2026-02-18 13:16:35] INFO: Found PDF URL: https://peraturan.go.id/files/PERWAL272019.pdf
+[2026-02-18 13:16:35] INFO: Successfully downloaded: perda-kota-cirebon-27-2019.pdf
+[2026-02-18 13:16:37] INFO: Progress: 111/19702 (0.6%)
+[2026-02-18 13:16:37] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-demak-no-5-tahun-2018
+[2026-02-18 13:16:37] INFO: Found PDF URL: https://peraturan.go.id/files/perda-no-5-tahun-2018.pdf
+[2026-02-18 13:16:37] INFO: Successfully downloaded: perda-kabupaten-demak-5-2018.pdf
+[2026-02-18 13:16:39] INFO: Progress: 112/19702 (0.6%)
+[2026-02-18 13:16:39] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-bondowoso-no-8-tahun-2020
+[2026-02-18 13:16:39] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kabupaten-bondowoso-no-8-tahun-2020.pdf
+[2026-02-18 13:16:43] INFO: Successfully downloaded: perda-kabupaten-bondowoso-8-2020.pdf
+[2026-02-18 13:16:44] INFO: Progress: 113/19702 (0.6%)
+[2026-02-18 13:16:44] INFO: Processing: https://peraturan.go.id/id/perda-kota-surabaya-no-1-tahun-2014
+[2026-02-18 13:16:44] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA_721.pdf
+[2026-02-18 13:16:45] INFO: Successfully downloaded: perda-kota-surabaya-1-2014.pdf
+[2026-02-18 13:16:46] INFO: Progress: 114/19702 (0.6%)
+[2026-02-18 13:16:46] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-di-yogyakarta-no-2-tahun-2022
+[2026-02-18 13:16:46] INFO: Found PDF URL: https://peraturan.go.id/files/perda-provinsi-di-yogyakarta-no-2-tahun-2022.pdf
+[2026-02-18 13:16:47] INFO: Successfully downloaded: perda-provinsi-di-yogyakarta-2-2022.pdf
+[2026-02-18 13:16:48] INFO: Progress: 115/19702 (0.6%)
+[2026-02-18 13:16:48] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-kudus-no-6-tahun-2021
+[2026-02-18 13:16:48] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kabupaten-kudus-no-6-tahun-2021.pdf
+[2026-02-18 13:16:49] INFO: Successfully downloaded: perda-kabupaten-kudus-6-2021.pdf
+[2026-02-18 13:16:50] INFO: Progress: 116/19702 (0.6%)
+[2026-02-18 13:16:50] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-purwakarta-no-1-tahun-2021
+[2026-02-18 13:16:51] INFO: Found PDF URL: https://peraturan.go.id/files/c2f6756cbb1903067168793bb91626c4.pdf
+[2026-02-18 13:16:51] INFO: Successfully downloaded: perda-kabupaten-purwakarta-1-2021.pdf
+[2026-02-18 13:16:53] INFO: Progress: 117/19702 (0.6%)
+[2026-02-18 13:16:53] INFO: Processing: https://peraturan.go.id/id/perda-kota-surakarta-no-5-tahun-2015
+[2026-02-18 13:16:53] INFO: Found PDF URL: https://peraturan.go.id/files/5840_PERDA_NO_5_TAHUN_2015+%281%29.pdf
+[2026-02-18 13:16:54] INFO: Successfully downloaded: perda-kota-surakarta-5-2015.pdf
+[2026-02-18 13:16:55] INFO: Progress: 118/19702 (0.6%)
+[2026-02-18 13:16:55] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-kubu-raya-no-41-tahun-2017
+[2026-02-18 13:16:55] INFO: Found PDF URL: https://peraturan.go.id/files/Perbup+nomor+41+tahun+2017.pdf
+[2026-02-18 13:16:56] INFO: Successfully downloaded: perda-kabupaten-kubu-raya-41-2017.pdf
+[2026-02-18 13:16:58] INFO: Progress: 119/19702 (0.6%)
+[2026-02-18 13:16:58] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-sragen-no-14-tahun-2011
+[2026-02-18 13:16:58] INFO: Found PDF URL: https://peraturan.go.id/files/pajak+daerah+Sragen+SALINAN.pdf
+[2026-02-18 13:17:00] INFO: Successfully downloaded: perda-kabupaten-sragen-14-2011.pdf
+[2026-02-18 13:17:01] INFO: Progress: 120/19702 (0.6%)
+[2026-02-18 13:17:01] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-lumajang-no-119-tahun-2020
+[2026-02-18 13:17:02] INFO: Found PDF URL: https://peraturan.go.id/files/SK__No__119_2020_tentang_Status_Tanggap_Darurat_Corona_Virus_Disease_2019_%28Covid_19%29.pdf
+[2026-02-18 13:17:02] INFO: Successfully downloaded: perda-kabupaten-lumajang-119-2020.pdf
+[2026-02-18 13:17:03] INFO: Progress: 121/19702 (0.6%)
+[2026-02-18 13:17:03] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-ngawi-no-6-tahun-2011
+[2026-02-18 13:17:04] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA_Kabupaten_Ngawi_Nomor_6_Tahun_2011_11e5789040f0acc8bb8e313434313036.pdf
+[2026-02-18 13:17:04] INFO: Successfully downloaded: perda-kabupaten-ngawi-6-2011.pdf
+[2026-02-18 13:17:05] INFO: Progress: 122/19702 (0.6%)
+[2026-02-18 13:17:05] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-dki-jakarta-no-12-tahun-2014
+[2026-02-18 13:17:06] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA_NO_12_TAHUN_2014-Resize.pdf
+[2026-02-18 13:17:07] INFO: Successfully downloaded: perda-provinsi-dki-jakarta-12-2014.pdf
+[2026-02-18 13:17:08] INFO: Progress: 123/19702 (0.6%)
+[2026-02-18 13:17:08] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-asahan-no-12-tahun-2014
+[2026-02-18 13:17:08] INFO: Found PDF URL: https://peraturan.go.id/files/LD.-2-Tahun-2014-Pembentukan-LPPL-Pemerintah-Daerah-Kab.-Asahan+%283%29.pdf
+[2026-02-18 13:17:09] INFO: Successfully downloaded: perda-kabupaten-asahan-12-2014.pdf
+[2026-02-18 13:17:10] INFO: Progress: 124/19702 (0.6%)
+[2026-02-18 13:17:10] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-bangli-no-1-tahun-2023
+[2026-02-18 13:17:10] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kabupaten-bangli-no-1-tahun-2023.pdf
+[2026-02-18 13:17:11] INFO: Successfully downloaded: perda-kabupaten-bangli-1-2023.pdf
+[2026-02-18 13:17:13] INFO: Progress: 125/19702 (0.6%)
+[2026-02-18 13:17:13] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-bandung-barat-no-7-tahun-2019
+[2026-02-18 13:17:13] INFO: Found PDF URL: https://peraturan.go.id/files/1640711807.pdf
+[2026-02-18 13:17:13] INFO: Successfully downloaded: perda-kabupaten-bandung-barat-7-2019.pdf
+[2026-02-18 13:17:15] INFO: Progress: 126/19702 (0.6%)
+[2026-02-18 13:17:15] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-demak-no-15-tahun-2019
+[2026-02-18 13:17:15] ERROR: Unexpected error processing https://peraturan.go.id/id/perda-kabupaten-demak-no-15-tahun-2019: [Errno 32] Broken pipe
+[2026-02-18 13:17:15] ERROR: Failed: https://peraturan.go.id/id/perda-kabupaten-demak-no-15-tahun-2019 - Unexpected error: [Errno 32] Broken pipe
+[2026-02-18 13:17:16] INFO: Progress: 127/19702 (0.6%)
+[2026-02-18 13:17:16] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-gayo-lues-no-6-tahun-2016
+[2026-02-18 13:17:17] INFO: Found PDF URL: https://peraturan.go.id/files/_uploads_3gy1_dokumen_uu_2019_07_QANUN_NOMOR_6_TAHUN_2015_TENTANG_ANGGARAN_PENDAPATAN_DAN_BELANJA_KABUPATEN_GAYO_LUES_TAHUN_ANGGARAN_2016.pdf
+[2026-02-18 13:17:17] INFO: Successfully downloaded: perda-kabupaten-gayo-lues-6-2016.pdf
+[2026-02-18 13:17:19] INFO: Progress: 128/19702 (0.6%)
+[2026-02-18 13:17:19] INFO: Processing: https://peraturan.go.id/id/perda-kota-surakarta-no-11-tahun-2015
+[2026-02-18 13:17:19] INFO: Found PDF URL: https://peraturan.go.id/files/5994_PERDA_NO_10_TAHUN_2015.pdf
+[2026-02-18 13:17:20] INFO: Successfully downloaded: perda-kota-surakarta-11-2015.pdf
+[2026-02-18 13:17:21] INFO: Progress: 129/19702 (0.7%)
+[2026-02-18 13:17:21] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-sragen-no-15-tahun-2017
+[2026-02-18 13:17:21] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA+NO+15+TH+2017.pdf
+[2026-02-18 13:17:22] INFO: Successfully downloaded: perda-kabupaten-sragen-15-2017.pdf
+[2026-02-18 13:17:23] INFO: Progress: 130/19702 (0.7%)
+[2026-02-18 13:17:23] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-sumatera-utara-no-1-tahun-2023
+[2026-02-18 13:17:24] INFO: Found PDF URL: https://peraturan.go.id/files/perda-provinsi-sumatera-utara-no-1-tahun-2023.pdf
+[2026-02-18 13:17:24] INFO: Successfully downloaded: perda-provinsi-sumatera-utara-1-2023.pdf
+[2026-02-18 13:17:26] INFO: Progress: 131/19702 (0.7%)
+[2026-02-18 13:17:26] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-sulawesi-selatan-no-4-tahun-2016
+[2026-02-18 13:17:26] INFO: Found PDF URL: https://peraturan.go.id/files/2016pd0073008.pdf
+[2026-02-18 13:17:26] INFO: Successfully downloaded: perda-provinsi-sulawesi-selatan-4-2016.pdf
+[2026-02-18 13:17:28] INFO: Progress: 132/19702 (0.7%)
+[2026-02-18 13:17:28] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-purworejo-no-7-tahun-2012
+[2026-02-18 13:17:28] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA_Kabupaten_Purworejo_Nomor_7_Tahun_2012_11e53cd5fd55cc148956313432393038+%281%29.pdf
+[2026-02-18 13:17:28] INFO: Successfully downloaded: perda-kabupaten-purworejo-7-2012.pdf
+[2026-02-18 13:17:30] INFO: Progress: 133/19702 (0.7%)
+[2026-02-18 13:17:30] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-magetan-no-4-tahun-2014
+[2026-02-18 13:17:30] INFO: Found PDF URL: https://peraturan.go.id/files/Perda+No.4+Tahun+2014+tentang+Perubahan+Perda+No.+8+Th+2008+tentang+Pokok-Pokok+Pengelolaan+Keuangan+Daerah.pdf
+[2026-02-18 13:17:31] INFO: Successfully downloaded: perda-kabupaten-magetan-4-2014.pdf
+[2026-02-18 13:17:33] INFO: Progress: 134/19702 (0.7%)
+[2026-02-18 13:17:33] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-sulawesi-selatan-no-7-tahun-2018
+[2026-02-18 13:17:33] INFO: Found PDF URL: https://peraturan.go.id/files/2018pd0073007.pdf
+[2026-02-18 13:17:33] INFO: Successfully downloaded: perda-provinsi-sulawesi-selatan-7-2018.pdf
+[2026-02-18 13:17:35] INFO: Progress: 135/19702 (0.7%)
+[2026-02-18 13:17:35] INFO: Processing: https://peraturan.go.id/id/perda-kota-surakarta-no-3-tahun-2021
+[2026-02-18 13:17:35] INFO: Found PDF URL: https://peraturan.go.id/files/10106_perda_nomor_3_tahun_2021.pdf
+[2026-02-18 13:17:36] INFO: Successfully downloaded: perda-kota-surakarta-3-2021.pdf
+[2026-02-18 13:17:37] INFO: Progress: 136/19702 (0.7%)
+[2026-02-18 13:17:37] INFO: Processing: https://peraturan.go.id/id/perda-kota-bitung-no-7-tahun-2016
+[2026-02-18 13:17:37] ERROR: Failed: https://peraturan.go.id/id/perda-kota-bitung-no-7-tahun-2016 - No PDF URL found
+[2026-02-18 13:17:39] INFO: Progress: 137/19702 (0.7%)
+[2026-02-18 13:17:39] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-bojonegoro-no-10-tahun-2021
+[2026-02-18 13:17:39] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kabupaten-bojonegoro-no-10-tahun-2021.pdf
+[2026-02-18 13:17:40] INFO: Successfully downloaded: perda-kabupaten-bojonegoro-10-2021.pdf
+[2026-02-18 13:17:41] INFO: Progress: 138/19702 (0.7%)
+[2026-02-18 13:17:41] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-lumajang-no-141-tahun-2020
+[2026-02-18 13:17:41] INFO: Found PDF URL: https://peraturan.go.id/files/SK__No__141_2020_tentang_Gugus_Tugas_Percepatan_Penanganan_Corona_Virus_Disease_2019_%28COVID-19%291.pdf
+[2026-02-18 13:17:42] INFO: Successfully downloaded: perda-kabupaten-lumajang-141-2020.pdf
+[2026-02-18 13:17:43] INFO: Progress: 139/19702 (0.7%)
+[2026-02-18 13:17:43] INFO: Processing: https://peraturan.go.id/id/perda-kota-tebing-tinggi-no-8-tahun-2011
+[2026-02-18 13:17:43] INFO: Found PDF URL: https://peraturan.go.id/files/af38d-perda-no.-08-tahun-2011.pdf
+[2026-02-18 13:17:45] INFO: Successfully downloaded: perda-kota-tebing-tinggi-8-2011.pdf
+[2026-02-18 13:17:46] INFO: Progress: 140/19702 (0.7%)
+[2026-02-18 13:17:46] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-gayo-lues-no-3-tahun-2016
+[2026-02-18 13:17:47] INFO: Found PDF URL: https://peraturan.go.id/files/_uploads_3gy1_dokumen_uu_2019_07_QANUN_NOMOR_3_TAHUN_2016_TENTANG_PERIZINAN_DAN_NON_PERIZINAN+%281%29.pdf
+[2026-02-18 13:17:47] INFO: Successfully downloaded: perda-kabupaten-gayo-lues-3-2016.pdf
+[2026-02-18 13:17:49] INFO: Progress: 141/19702 (0.7%)
+[2026-02-18 13:17:49] INFO: Processing: https://peraturan.go.id/id/perda-kota-bogor-no-30-tahun-2018
+[2026-02-18 13:17:49] INFO: Found PDF URL: https://peraturan.go.id/files/2018-30.pdf
+[2026-02-18 13:17:49] INFO: Successfully downloaded: perda-kota-bogor-30-2018.pdf
+[2026-02-18 13:17:51] INFO: Progress: 142/19702 (0.7%)
+[2026-02-18 13:17:51] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-blora-no-18-tahun-2018
+[2026-02-18 13:17:51] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA-18-2018-HAJI.pdf
+[2026-02-18 13:17:51] INFO: Successfully downloaded: perda-kabupaten-blora-18-2018.pdf
+[2026-02-18 13:17:53] INFO: Progress: 143/19702 (0.7%)
+[2026-02-18 13:17:53] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-luwu-timur-no-2-tahun-2019
+[2026-02-18 13:17:53] INFO: Found PDF URL: https://peraturan.go.id/files/perdakabluwunomor2tahun2019.pdf
+[2026-02-18 13:17:55] INFO: Successfully downloaded: perda-kabupaten-luwu-timur-2-2019.pdf
+[2026-02-18 13:17:56] INFO: Progress: 144/19702 (0.7%)
+[2026-02-18 13:17:56] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-sumatera-utara-no-2-tahun-2021
+[2026-02-18 13:17:56] INFO: Found PDF URL: https://peraturan.go.id/files/perda-provinsi-sumatera-utara-no-2-tahun-2021.pdf
+[2026-02-18 13:17:58] INFO: Successfully downloaded: perda-provinsi-sumatera-utara-2-2021.pdf
+[2026-02-18 13:18:00] INFO: Progress: 145/19702 (0.7%)
+[2026-02-18 13:18:00] INFO: Processing: https://peraturan.go.id/id/perda-kota-semarang-no-2-tahun-2023
+[2026-02-18 13:18:00] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kota-semarang-no-2-tahun-2023.pdf
+[2026-02-18 13:18:00] INFO: Successfully downloaded: perda-kota-semarang-2-2023.pdf
+[2026-02-18 13:18:02] INFO: Progress: 146/19702 (0.7%)
+[2026-02-18 13:18:02] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-tegal-no-1-tahun-2021
+[2026-02-18 13:18:02] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kabupaten-tegal-no-1-tahun-2021.pdf
+[2026-02-18 13:18:07] INFO: Successfully downloaded: perda-kabupaten-tegal-1-2021.pdf
+[2026-02-18 13:18:08] INFO: Progress: 147/19702 (0.7%)
+[2026-02-18 13:18:08] INFO: Processing: https://peraturan.go.id/id/perda-kota-bekasi-no-14-tahun-2016
+[2026-02-18 13:18:08] INFO: Found PDF URL: https://peraturan.go.id/files/LD+Perda+Nomor+14+Tahun+2016.pdf
+[2026-02-18 13:18:09] INFO: Successfully downloaded: perda-kota-bekasi-14-2016.pdf
+[2026-02-18 13:18:10] INFO: Progress: 148/19702 (0.8%)
+[2026-02-18 13:18:10] ERROR: Unexpected error processing https://peraturan.go.id/id/perda-kabupaten-mojokerto-no-10-tahun-2022: [Errno 32] Broken pipe
+[2026-02-18 13:18:10] ERROR: Failed: https://peraturan.go.id/id/perda-kabupaten-mojokerto-no-10-tahun-2022 - Unexpected error: [Errno 32] Broken pipe
+[2026-02-18 13:18:12] INFO: Progress: 149/19702 (0.8%)
+[2026-02-18 13:18:12] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-gowa-no-1-tahun-2018
+[2026-02-18 13:18:12] INFO: Found PDF URL: https://peraturan.go.id/files/Perda.-Kab.-Gowa-Nomor-01-Tahun-2019-tentang-Penyelenggaraan-Kepemudaan.pdf
+[2026-02-18 13:18:19] INFO: Successfully downloaded: perda-kabupaten-gowa-1-2018.pdf
+[2026-02-18 13:18:21] INFO: Progress: 150/19702 (0.8%)
+[2026-02-18 13:18:21] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-banyumas-no-2-tahun-2013
+[2026-02-18 13:18:21] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kabupaten-banyumas-no-2-tahun-2013.pdf
+[2026-02-18 13:18:21] INFO: Successfully downloaded: perda-kabupaten-banyumas-2-2013.pdf
+[2026-02-18 13:18:23] INFO: Progress: 151/19702 (0.8%)
+[2026-02-18 13:18:23] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-blora-no-9-tahun-2022
+[2026-02-18 13:18:23] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kabupaten-blora-no-9-tahun-2022.pdf
+[2026-02-18 13:18:24] INFO: Successfully downloaded: perda-kabupaten-blora-9-2022.pdf
+[2026-02-18 13:18:25] INFO: Progress: 152/19702 (0.8%)
+[2026-02-18 13:18:25] INFO: Processing: https://peraturan.go.id/id/perda-kota-surakarta-no-9-tahun-2018
+[2026-02-18 13:18:26] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA_NO_9_TAHUN_2018.pdf
+[2026-02-18 13:18:27] INFO: Successfully downloaded: perda-kota-surakarta-9-2018.pdf
+[2026-02-18 13:18:28] INFO: Progress: 153/19702 (0.8%)
+[2026-02-18 13:18:28] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-sragen-no-6-tahun-2011
+[2026-02-18 13:18:28] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA+BPHTB+No.+6%28SALINAN%29.pdf
+[2026-02-18 13:18:29] INFO: Successfully downloaded: perda-kabupaten-sragen-6-2011.pdf
+[2026-02-18 13:18:31] INFO: Progress: 154/19702 (0.8%)
+[2026-02-18 13:18:31] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-kalimantan-utara-no-8-tahun-2019
+[2026-02-18 13:18:31] INFO: Found PDF URL: https://peraturan.go.id/files/Peraturan+Daerah+Kalimantan+Utara+Nomor+8+Tahun+2019.pdf
+[2026-02-18 13:18:33] INFO: Successfully downloaded: perda-provinsi-kalimantan-utara-8-2019.pdf
+[2026-02-18 13:18:34] INFO: Progress: 155/19702 (0.8%)
+[2026-02-18 13:18:34] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-blora-no-3-tahun-2018
+[2026-02-18 13:18:35] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA+3+2018+-+PERLINDUNGAN+PETANI.pdf
+[2026-02-18 13:18:35] INFO: Successfully downloaded: perda-kabupaten-blora-3-2018.pdf
+[2026-02-18 13:18:36] INFO: Progress: 156/19702 (0.8%)
+[2026-02-18 13:18:36] INFO: Processing: https://peraturan.go.id/id/perda-kota-ponorogo-no-3-tahun-2014
+[2026-02-18 13:18:37] INFO: Found PDF URL: https://peraturan.go.id/files/Salinan_PERDA_No_3_Tahun_2014+%281%29.PDF
+[2026-02-18 13:18:37] INFO: Successfully downloaded: perda-kota-ponorogo-3-2014.pdf
+[2026-02-18 13:18:39] INFO: Progress: 157/19702 (0.8%)
+[2026-02-18 13:18:39] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-pekalongan-no-9-tahun-2023
+[2026-02-18 13:18:39] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kabupaten-pekalongan-no-9-tahun-2023.pdf
+[2026-02-18 13:18:39] INFO: Successfully downloaded: perda-kabupaten-pekalongan-9-2023.pdf
+[2026-02-18 13:18:41] INFO: Progress: 158/19702 (0.8%)
+[2026-02-18 13:18:41] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-trenggalek-no-10-tahun-2012
+[2026-02-18 13:18:41] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA_Kabupaten_Trenggalek_Nomor_10_Tahun_2012_11e576399f19e296abbd313531353535.pdf
+[2026-02-18 13:18:42] INFO: Successfully downloaded: perda-kabupaten-trenggalek-10-2012.pdf
+[2026-02-18 13:18:43] INFO: Progress: 159/19702 (0.8%)
+[2026-02-18 13:18:43] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-sumba-barat-no-2-tahun-2016
+[2026-02-18 13:18:43] INFO: Found PDF URL: https://peraturan.go.id/files/nomor2perdano2thn2016opd-blok.pdf
+[2026-02-18 13:18:44] INFO: Successfully downloaded: perda-kabupaten-sumba-barat-2-2016.pdf
+[2026-02-18 13:18:45] INFO: Progress: 160/19702 (0.8%)
+[2026-02-18 13:18:45] INFO: Processing: https://peraturan.go.id/id/perda-kota-depok-no-15-tahun-2022
+[2026-02-18 13:18:45] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kota-depok-no-15-tahun-2022.pdf
+[2026-02-18 13:18:46] INFO: Successfully downloaded: perda-kota-depok-15-2022.pdf
+[2026-02-18 13:18:47] INFO: Progress: 161/19702 (0.8%)
+[2026-02-18 13:18:47] INFO: Processing: https://peraturan.go.id/id/perda-kota-surabaya-no-10-tahun-2014
+[2026-02-18 13:18:47] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA_724.pdf
+[2026-02-18 13:18:48] INFO: Successfully downloaded: perda-kota-surabaya-10-2014.pdf
+[2026-02-18 13:18:49] INFO: Progress: 162/19702 (0.8%)
+[2026-02-18 13:18:49] INFO: Processing: https://peraturan.go.id/id/perda-kota-banjarbaru-no-9-tahun-2016
+[2026-02-18 13:18:49] INFO: Found PDF URL: https://peraturan.go.id/files/08-2016.pdf
+[2026-02-18 13:18:50] INFO: Successfully downloaded: perda-kota-banjarbaru-9-2016.pdf
+[2026-02-18 13:18:51] INFO: Progress: 163/19702 (0.8%)
+[2026-02-18 13:18:51] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-jawa-tengah-no-3-tahun-2022
+[2026-02-18 13:18:52] INFO: Found PDF URL: https://peraturan.go.id/files/perda-provinsi-jawa-tengah-no-3-tahun-2022.pdf
+[2026-02-18 13:18:53] INFO: Retrying https://peraturan.go.id/id/perda-provinsi-jawa-tengah-no-3-tahun-2022 (attempt 1/3)
+[2026-02-18 13:18:56] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-jawa-tengah-no-3-tahun-2022
+[2026-02-18 13:18:56] INFO: Found PDF URL: https://peraturan.go.id/files/perda-provinsi-jawa-tengah-no-3-tahun-2022.pdf
+[2026-02-18 13:18:57] INFO: Retrying https://peraturan.go.id/id/perda-provinsi-jawa-tengah-no-3-tahun-2022 (attempt 2/3)
+[2026-02-18 13:19:00] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-jawa-tengah-no-3-tahun-2022
+[2026-02-18 13:19:00] INFO: Found PDF URL: https://peraturan.go.id/files/perda-provinsi-jawa-tengah-no-3-tahun-2022.pdf
+[2026-02-18 13:19:00] INFO: Retrying https://peraturan.go.id/id/perda-provinsi-jawa-tengah-no-3-tahun-2022 (attempt 3/3)
+[2026-02-18 13:19:03] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-jawa-tengah-no-3-tahun-2022
+[2026-02-18 13:19:03] INFO: Found PDF URL: https://peraturan.go.id/files/perda-provinsi-jawa-tengah-no-3-tahun-2022.pdf
+[2026-02-18 13:19:04] ERROR: Failed: https://peraturan.go.id/id/perda-provinsi-jawa-tengah-no-3-tahun-2022 - PDF validation failed: Invalid PDF header
+[2026-02-18 13:19:05] INFO: Progress: 164/19702 (0.8%)
+[2026-02-18 13:19:05] INFO: Processing: https://peraturan.go.id/id/perda-kota-bandung-no-1-tahun-2016
+[2026-02-18 13:19:05] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kota-bandung-no-1-tahun-2016.pdf
+[2026-02-18 13:19:06] INFO: Successfully downloaded: perda-kota-bandung-1-2016.pdf
+[2026-02-18 13:19:07] INFO: Progress: 165/19702 (0.8%)
+[2026-02-18 13:19:07] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-lumajang-no-63-tahun-2020
+[2026-02-18 13:19:08] INFO: Found PDF URL: https://peraturan.go.id/files/Perbup-No-63_2020-tentang-Pedoman-Pelaksanaan-Pengarusutamaan-Gender.pdf
+[2026-02-18 13:19:08] INFO: Successfully downloaded: perda-kabupaten-lumajang-63-2020.pdf
+[2026-02-18 13:19:09] INFO: Progress: 166/19702 (0.8%)
+[2026-02-18 13:19:09] INFO: Processing: https://peraturan.go.id/id/perda-kota-semarang-no-1-tahun-2024
+[2026-02-18 13:19:10] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kota-semarang-no-1-tahun-2024.pdf
+[2026-02-18 13:19:10] INFO: Successfully downloaded: perda-kota-semarang-1-2024.pdf
+[2026-02-18 13:19:12] INFO: Progress: 167/19702 (0.8%)
+[2026-02-18 13:19:12] INFO: Processing: https://peraturan.go.id/id/perda-kota-surabaya-no-5-tahun-2018
+[2026-02-18 13:19:12] ERROR: Unexpected error processing https://peraturan.go.id/id/perda-kota-surabaya-no-5-tahun-2018: [Errno 32] Broken pipe
+[2026-02-18 13:19:12] ERROR: Failed: https://peraturan.go.id/id/perda-kota-surabaya-no-5-tahun-2018 - Unexpected error: [Errno 32] Broken pipe
+[2026-02-18 13:19:13] INFO: Progress: 168/19702 (0.9%)
+[2026-02-18 13:19:13] INFO: Processing: https://peraturan.go.id/id/perda-kota-bekasi-no-9-tahun-2024
+[2026-02-18 13:19:14] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kota-bekasi-no-9-tahun-2024.pdf
+[2026-02-18 13:19:14] INFO: Successfully downloaded: perda-kota-bekasi-9-2024.pdf
+[2026-02-18 13:19:16] INFO: Progress: 169/19702 (0.9%)
+[2026-02-18 13:19:16] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-di-yogyakarta-no-6-tahun-2022
+[2026-02-18 13:19:16] INFO: Found PDF URL: https://peraturan.go.id/files/perda-provinsi-di-yogyakarta-no-6-tahun-2022.pdf
+[2026-02-18 13:19:16] INFO: Successfully downloaded: perda-provinsi-di-yogyakarta-6-2022.pdf
+[2026-02-18 13:19:18] INFO: Progress: 170/19702 (0.9%)
+[2026-02-18 13:19:18] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-bangkalan-no-1-tahun-2024
+[2026-02-18 13:19:18] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kabupaten-bangkalan-no-1-tahun-2024.pdf
+[2026-02-18 13:19:23] INFO: Successfully downloaded: perda-kabupaten-bangkalan-1-2024.pdf
+[2026-02-18 13:19:25] INFO: Progress: 171/19702 (0.9%)
+[2026-02-18 13:19:25] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-kalimantan-barat-no-9-tahun-2019
+[2026-02-18 13:19:25] INFO: Found PDF URL: https://peraturan.go.id/files/pengelolaan-pertambangan-mineral-dan-batubara.pdf
+[2026-02-18 13:19:25] INFO: Successfully downloaded: perda-provinsi-kalimantan-barat-9-2019.pdf
+[2026-02-18 13:19:27] INFO: Progress: 172/19702 (0.9%)
+[2026-02-18 13:19:27] INFO: Processing: https://peraturan.go.id/id/perda-kota-surabaya-no-5-tahun-2021
+[2026-02-18 13:19:27] INFO: Found PDF URL: https://peraturan.go.id/files/3918_PERDA_03-2021.pdf
+[2026-02-18 13:19:27] INFO: Successfully downloaded: perda-kota-surabaya-5-2021.pdf
+[2026-02-18 13:19:29] INFO: Progress: 173/19702 (0.9%)
+[2026-02-18 13:19:29] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-blitar-no-7-tahun-2014
+[2026-02-18 13:19:29] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA_NO_7_TH_2014.pdf
+[2026-02-18 13:19:29] INFO: Successfully downloaded: perda-kabupaten-blitar-7-2014.pdf
+[2026-02-18 13:19:31] INFO: Progress: 174/19702 (0.9%)
+[2026-02-18 13:19:31] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-kalimantan-barat-no-1-tahun-2023
+[2026-02-18 13:19:31] INFO: Found PDF URL: https://peraturan.go.id/files/perda-provinsi-kalimantan-barat-no-1-tahun-2023.pdf
+[2026-02-18 13:19:33] INFO: Successfully downloaded: perda-provinsi-kalimantan-barat-1-2023.pdf
+[2026-02-18 13:19:34] INFO: Progress: 175/19702 (0.9%)
+[2026-02-18 13:19:34] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-mojokerto-no-3-tahun-2024
+[2026-02-18 13:19:34] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kabupaten-mojokerto-no-3-tahun-2024.pdf
+[2026-02-18 13:19:35] INFO: Retrying https://peraturan.go.id/id/perda-kabupaten-mojokerto-no-3-tahun-2024 (attempt 1/3)
+[2026-02-18 13:19:38] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-mojokerto-no-3-tahun-2024
+[2026-02-18 13:19:38] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kabupaten-mojokerto-no-3-tahun-2024.pdf
+[2026-02-18 13:19:38] INFO: Retrying https://peraturan.go.id/id/perda-kabupaten-mojokerto-no-3-tahun-2024 (attempt 2/3)
+[2026-02-18 13:19:41] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-mojokerto-no-3-tahun-2024
+[2026-02-18 13:19:42] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kabupaten-mojokerto-no-3-tahun-2024.pdf
+[2026-02-18 13:19:42] INFO: Retrying https://peraturan.go.id/id/perda-kabupaten-mojokerto-no-3-tahun-2024 (attempt 3/3)
+[2026-02-18 13:19:45] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-mojokerto-no-3-tahun-2024
+[2026-02-18 13:19:45] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kabupaten-mojokerto-no-3-tahun-2024.pdf
+[2026-02-18 13:19:45] ERROR: Failed: https://peraturan.go.id/id/perda-kabupaten-mojokerto-no-3-tahun-2024 - PDF validation failed: Invalid PDF header
+[2026-02-18 13:19:47] INFO: Progress: 176/19702 (0.9%)
+[2026-02-18 13:19:47] INFO: Processing: https://peraturan.go.id/id/perda-kota-tangerang-no-2-tahun-2022
+[2026-02-18 13:19:47] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kota-tangerang-no-2-tahun-2022.pdf
+[2026-02-18 13:19:47] INFO: Successfully downloaded: perda-kota-tangerang-2-2022.pdf
+[2026-02-18 13:19:49] INFO: Progress: 177/19702 (0.9%)
+[2026-02-18 13:19:49] INFO: Processing: https://peraturan.go.id/id/perda-kota-tebing-tinggi-no-4-tahun-2007
+[2026-02-18 13:19:49] ERROR: Failed: https://peraturan.go.id/id/perda-kota-tebing-tinggi-no-4-tahun-2007 - No PDF URL found
+[2026-02-18 13:19:51] INFO: Progress: 178/19702 (0.9%)
+[2026-02-18 13:19:51] INFO: Processing: https://peraturan.go.id/id/perda-kota-manado-no-2-tahun-2012
+[2026-02-18 13:19:51] INFO: Found PDF URL: https://peraturan.go.id/files/perda-2-2012.pdf
+[2026-02-18 13:19:52] INFO: Successfully downloaded: perda-kota-manado-2-2012.pdf
+[2026-02-18 13:19:53] INFO: Progress: 179/19702 (0.9%)
+[2026-02-18 13:19:53] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-sumatera-barat-no-7-tahun-2020
+[2026-02-18 13:19:53] INFO: Found PDF URL: https://peraturan.go.id/files/perda-provinsi-sumatera-barat-no-7-tahun-2020.pdf
+[2026-02-18 13:19:54] INFO: Successfully downloaded: perda-provinsi-sumatera-barat-7-2020.pdf
+[2026-02-18 13:19:55] INFO: Progress: 180/19702 (0.9%)
+[2026-02-18 13:19:55] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-serang-no-10-tahun-2018
+[2026-02-18 13:19:56] INFO: Found PDF URL: https://peraturan.go.id/files/Perda+Nomor+10+Tahun+2018+tentang+Perubahan+OPD.pdf
+[2026-02-18 13:19:56] INFO: Successfully downloaded: perda-kabupaten-serang-10-2018.pdf
+[2026-02-18 13:19:57] INFO: Progress: 181/19702 (0.9%)
+[2026-02-18 13:19:57] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-sanggau-no-3-tahun-2021
+[2026-02-18 13:19:58] INFO: Found PDF URL: https://peraturan.go.id/files/jdihsgu-tjtshk8r2-3-perubahan-kedua-atas-peraturan-daerah-nomor-6-tahun-2010-tentang-penyelenggaraan-administrasi-kependudukan.pdf
+[2026-02-18 13:19:58] INFO: Successfully downloaded: perda-kabupaten-sanggau-3-2021.pdf
+[2026-02-18 13:19:59] INFO: Progress: 182/19702 (0.9%)
+[2026-02-18 13:19:59] INFO: Processing: https://peraturan.go.id/id/perda-kota-bogor-no-57-tahun-2018
+[2026-02-18 13:20:00] INFO: Found PDF URL: https://peraturan.go.id/files/2018-57.pdf
+[2026-02-18 13:20:00] INFO: Successfully downloaded: perda-kota-bogor-57-2018.pdf
+[2026-02-18 13:20:01] INFO: Progress: 183/19702 (0.9%)
+[2026-02-18 13:20:01] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-sulawesi-selatan-no-2-tahun-2015
+[2026-02-18 13:20:02] INFO: Found PDF URL: https://peraturan.go.id/files/2015pd0073002.pdf
+[2026-02-18 13:20:02] INFO: Successfully downloaded: perda-provinsi-sulawesi-selatan-2-2015.pdf
+[2026-02-18 13:20:04] INFO: Progress: 184/19702 (0.9%)
+[2026-02-18 13:20:04] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-pesawaran-no-6-tahun-2017
+[2026-02-18 13:20:04] INFO: Found PDF URL: https://peraturan.go.id/files/420-Peraturan+Daerah+Kabupaten+Pesawaran+Nomor++6+Tahun+2017.pdf
+[2026-02-18 13:20:04] INFO: Successfully downloaded: perda-kabupaten-pesawaran-6-2017.pdf
+[2026-02-18 13:20:06] INFO: Progress: 185/19702 (0.9%)
+[2026-02-18 13:20:06] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-sragen-no-10-tahun-2011
+[2026-02-18 13:20:06] INFO: Found PDF URL: https://peraturan.go.id/files/Perda+Adminduk+No.+10.pdf
+[2026-02-18 13:20:07] INFO: Successfully downloaded: perda-kabupaten-sragen-10-2011.pdf
+[2026-02-18 13:20:08] INFO: Progress: 186/19702 (0.9%)
+[2026-02-18 13:20:08] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-toli-toli-no-4-tahun-2019
+[2026-02-18 13:20:09] ERROR: Unexpected error processing https://peraturan.go.id/id/perda-kabupaten-toli-toli-no-4-tahun-2019: [Errno 32] Broken pipe
+[2026-02-18 13:20:09] ERROR: Failed: https://peraturan.go.id/id/perda-kabupaten-toli-toli-no-4-tahun-2019 - Unexpected error: [Errno 32] Broken pipe
+[2026-02-18 13:20:10] INFO: Progress: 187/19702 (0.9%)
+[2026-02-18 13:20:10] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-bangkalan-no-4-tahun-2017
+[2026-02-18 13:20:11] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA+4_2017.pdf
+[2026-02-18 13:20:15] INFO: Successfully downloaded: perda-kabupaten-bangkalan-4-2017.pdf
+[2026-02-18 13:20:16] INFO: Progress: 188/19702 (1.0%)
+[2026-02-18 13:20:16] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-sragen-no-3-tahun-2017
+[2026-02-18 13:20:17] INFO: Found PDF URL: https://peraturan.go.id/files/3.Perda+Kerjasama+Desa+Fasilitasi.pdf
+[2026-02-18 13:20:17] INFO: Successfully downloaded: perda-kabupaten-sragen-3-2017.pdf
+[2026-02-18 13:20:18] INFO: Progress: 189/19702 (1.0%)
+[2026-02-18 13:20:18] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-bali-no-1-tahun-2020
+[2026-02-18 13:20:19] INFO: Found PDF URL: https://peraturan.go.id/files/perda-provinsi-bali-no-1-tahun-2020.pdf
+[2026-02-18 13:20:20] INFO: Successfully downloaded: perda-provinsi-bali-1-2020.pdf
+[2026-02-18 13:20:21] INFO: Progress: 190/19702 (1.0%)
+[2026-02-18 13:20:21] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-sragen-no-6-tahun-2023
+[2026-02-18 13:20:22] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kabupaten-sragen-no-6-tahun-2023.pdf
+[2026-02-18 13:20:22] INFO: Successfully downloaded: perda-kabupaten-sragen-6-2023.pdf
+[2026-02-18 13:20:23] INFO: Progress: 191/19702 (1.0%)
+[2026-02-18 13:20:23] INFO: Processing: https://peraturan.go.id/id/perda-kota-manado-no-6-tahun-2012
+[2026-02-18 13:20:24] INFO: Found PDF URL: https://peraturan.go.id/files/perda-6-2012.pdf
+[2026-02-18 13:20:32] INFO: Successfully downloaded: perda-kota-manado-6-2012.pdf
+[2026-02-18 13:20:33] INFO: Progress: 192/19702 (1.0%)
+[2026-02-18 13:20:33] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-kebumen-no-25-tahun-2023
+[2026-02-18 13:20:34] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kabupaten-kebumen-no-25-tahun-2023.pdf
+[2026-02-18 13:20:34] INFO: Successfully downloaded: perda-kabupaten-kebumen-25-2023.pdf
+[2026-02-18 13:20:36] INFO: Progress: 193/19702 (1.0%)
+[2026-02-18 13:20:36] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-pasaman-no-2-tahun-2020
+[2026-02-18 13:20:36] INFO: Found PDF URL: https://peraturan.go.id/files/2020pd1312002.pdf
+[2026-02-18 13:20:37] INFO: Successfully downloaded: perda-kabupaten-pasaman-2-2020.pdf
+[2026-02-18 13:20:38] INFO: Progress: 194/19702 (1.0%)
+[2026-02-18 13:20:38] INFO: Processing: https://peraturan.go.id/id/perda-kota-depok-no-6-tahun-2023
+[2026-02-18 13:20:38] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kota-depok-no-6-tahun-2023.pdf
+[2026-02-18 13:20:39] INFO: Successfully downloaded: perda-kota-depok-6-2023.pdf
+[2026-02-18 13:20:40] INFO: Progress: 195/19702 (1.0%)
+[2026-02-18 13:20:40] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-indramayu-no-1-tahun-2015
+[2026-02-18 13:20:41] INFO: Found PDF URL: https://peraturan.go.id/files/3159-Perda+No+1+Tahun+2015+%281%29.pdf
+[2026-02-18 13:20:41] INFO: Successfully downloaded: perda-kabupaten-indramayu-1-2015.pdf
+[2026-02-18 13:20:42] INFO: Progress: 196/19702 (1.0%)
+[2026-02-18 13:20:42] INFO: Processing: https://peraturan.go.id/id/perda-kota-bandung-no-4-tahun-2022
+[2026-02-18 13:20:43] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kota-bandung-no-4-tahun-2022.pdf
+[2026-02-18 13:20:43] INFO: Successfully downloaded: perda-kota-bandung-4-2022.pdf
+[2026-02-18 13:20:44] INFO: Progress: 197/19702 (1.0%)
+[2026-02-18 13:20:44] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-bone-no-13-tahun-2014
+[2026-02-18 13:20:45] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA+NOMOR+13+TAHUN+2014.pdf
+[2026-02-18 13:20:46] INFO: Successfully downloaded: perda-kabupaten-bone-13-2014.pdf
+[2026-02-18 13:20:47] INFO: Progress: 198/19702 (1.0%)
+[2026-02-18 13:20:47] INFO: Processing: https://peraturan.go.id/id/perda-kota-cirebon-no-15-tahun-2015
+[2026-02-18 13:20:48] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA152015.pdf
+[2026-02-18 13:20:48] INFO: Successfully downloaded: perda-kota-cirebon-15-2015.pdf
+[2026-02-18 13:20:49] INFO: Progress: 199/19702 (1.0%)
+[2026-02-18 13:20:49] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-luwu-timur-no-10-tahun-2015
+[2026-02-18 13:20:50] INFO: Found PDF URL: https://peraturan.go.id/files/2015pd7317001.pdf
+[2026-02-18 13:20:51] INFO: Successfully downloaded: perda-kabupaten-luwu-timur-10-2015.pdf
+[2026-02-18 13:20:52] INFO: Progress: 200/19702 (1.0%)
+[2026-02-18 13:20:52] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-jawa-tengah-no-1-tahun-2018
+[2026-02-18 13:20:52] INFO: Found PDF URL: https://peraturan.go.id/files/perda-provinsi-jawa-tengah-no-1-tahun-2018.pdf
+[2026-02-18 13:20:53] INFO: Retrying https://peraturan.go.id/id/perda-provinsi-jawa-tengah-no-1-tahun-2018 (attempt 1/3)
+[2026-02-18 13:20:56] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-jawa-tengah-no-1-tahun-2018
+[2026-02-18 13:20:56] INFO: Found PDF URL: https://peraturan.go.id/files/perda-provinsi-jawa-tengah-no-1-tahun-2018.pdf
+[2026-02-18 13:20:56] INFO: Retrying https://peraturan.go.id/id/perda-provinsi-jawa-tengah-no-1-tahun-2018 (attempt 2/3)
+[2026-02-18 13:20:59] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-jawa-tengah-no-1-tahun-2018
+[2026-02-18 13:21:00] INFO: Found PDF URL: https://peraturan.go.id/files/perda-provinsi-jawa-tengah-no-1-tahun-2018.pdf
+[2026-02-18 13:21:00] INFO: Retrying https://peraturan.go.id/id/perda-provinsi-jawa-tengah-no-1-tahun-2018 (attempt 3/3)
+[2026-02-18 13:21:03] INFO: Processing: https://peraturan.go.id/id/perda-provinsi-jawa-tengah-no-1-tahun-2018
+[2026-02-18 13:21:03] INFO: Found PDF URL: https://peraturan.go.id/files/perda-provinsi-jawa-tengah-no-1-tahun-2018.pdf
+[2026-02-18 13:21:03] ERROR: Failed: https://peraturan.go.id/id/perda-provinsi-jawa-tengah-no-1-tahun-2018 - PDF validation failed: Invalid PDF header
+[2026-02-18 13:21:05] INFO: Progress Report: 182 successful, 18 failed, 0 skipped
+[2026-02-18 13:21:05] INFO: Progress: 201/19702 (1.0%)
+[2026-02-18 13:21:05] INFO: Processing: https://peraturan.go.id/id/perda-kota-surakarta-no-3-tahun-2015
+[2026-02-18 13:21:05] INFO: Found PDF URL: https://peraturan.go.id/files/5987_PERDA_NO_3_TAHUN_2015.pdf
+[2026-02-18 13:21:06] INFO: Successfully downloaded: perda-kota-surakarta-3-2015.pdf
+[2026-02-18 13:21:07] INFO: Progress: 202/19702 (1.0%)
+[2026-02-18 13:21:07] INFO: Processing: https://peraturan.go.id/id/perda-kota-surakarta-no-7-tahun-2021
+[2026-02-18 13:21:07] INFO: Found PDF URL: https://peraturan.go.id/files/10896_perda_no_7_tahun_2021.pdf
+[2026-02-18 13:21:08] INFO: Successfully downloaded: perda-kota-surakarta-7-2021.pdf
+[2026-02-18 13:21:10] INFO: Progress: 203/19702 (1.0%)
+[2026-02-18 13:21:10] INFO: Processing: https://peraturan.go.id/id/perda-kota-surakarta-no-3-tahun-2021
+[2026-02-18 13:21:10] INFO: Skipping existing valid PDF: perda-kota-surakarta-3-2021.pdf
+[2026-02-18 13:21:11] INFO: Progress: 204/19702 (1.0%)
+[2026-02-18 13:21:11] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-pasuruan-no-4-tahun-2020
+[2026-02-18 13:21:12] INFO: Found PDF URL: https://peraturan.go.id/files/perda-kabupaten-pasuruan-no-4-tahun-2020.pdf
+[2026-02-18 13:21:12] INFO: Successfully downloaded: perda-kabupaten-pasuruan-4-2020.pdf
+[2026-02-18 13:21:13] INFO: Progress: 205/19702 (1.0%)
+[2026-02-18 13:21:13] INFO: Processing: https://peraturan.go.id/id/perda-kota-tebing-tinggi-no-2-tahun-2011
+[2026-02-18 13:21:14] INFO: Found PDF URL: https://peraturan.go.id/files/80fc2-perda-no.-02-tahun-2011.pdf
+[2026-02-18 13:21:15] INFO: Successfully downloaded: perda-kota-tebing-tinggi-2-2011.pdf
+[2026-02-18 13:21:17] INFO: Progress: 206/19702 (1.0%)
+[2026-02-18 13:21:17] ERROR: Unexpected error processing https://peraturan.go.id/id/perda-kabupaten-kerinci-no-3-tahun-2022: [Errno 32] Broken pipe
+[2026-02-18 13:21:17] ERROR: Failed: https://peraturan.go.id/id/perda-kabupaten-kerinci-no-3-tahun-2022 - Unexpected error: [Errno 32] Broken pipe
+[2026-02-18 13:21:18] INFO: Progress: 207/19702 (1.1%)
+[2026-02-18 13:21:18] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-purworejo-no-6-tahun-2010
+[2026-02-18 13:21:18] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA_Kabupaten_Purworejo_Nomor_6_Tahun_2010_11e452bd98ba0290aaab313634343539.pdf
+[2026-02-18 13:21:19] INFO: Successfully downloaded: perda-kabupaten-purworejo-6-2010.pdf
+[2026-02-18 13:21:20] INFO: Progress: 208/19702 (1.1%)
+[2026-02-18 13:21:20] INFO: Processing: https://peraturan.go.id/id/perda-kota-madiun-no-3-tahun-2010
+[2026-02-18 13:21:20] INFO: Found PDF URL: https://peraturan.go.id/files/PERDA_2010_03_BANGUNAN.pdf
+[2026-02-18 13:21:21] INFO: Successfully downloaded: perda-kota-madiun-3-2010.pdf
+[2026-02-18 13:21:22] INFO: Progress: 209/19702 (1.1%)
+[2026-02-18 13:21:22] INFO: Processing: https://peraturan.go.id/id/perda-kabupaten-blora-no-16-tahun-2018
