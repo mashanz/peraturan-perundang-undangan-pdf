@@ -1,0 +1,336 @@
+2026-02-18 13:09:58,565 - INFO - === PERMEN Mass Downloader Initialized ===
+2026-02-18 13:09:58,565 - INFO - Base directory: /root/.openclaw/peraturan-perundang-undangan-pdf
+2026-02-18 13:09:58,565 - INFO - Rate limit: 2.0 seconds per request
+2026-02-18 13:09:58,565 - INFO - Max retries: 5
+2026-02-18 13:09:58,566 - INFO - Processing batch: test_batch.txt
+2026-02-18 13:09:58,566 - INFO - Batch test_batch.txt: 5 URLs, resuming from index 0
+2026-02-18 13:09:58,566 - INFO - Downloading: permenkkp-no-7-tahun-2024.pdf from unknown
+2026-02-18 13:09:58,831 - WARNING - Non-PDF content received: text/html; charset=utf-8
+2026-02-18 13:10:04,110 - WARNING - Non-PDF content received: text/html; charset=utf-8
+2026-02-18 13:10:14,381 - WARNING - Non-PDF content received: text/html; charset=utf-8
+2026-02-18 13:12:11,680 - INFO - === PERMEN Mass Downloader v2 Initialized ===
+2026-02-18 13:12:11,681 - INFO - Base directory: /root/.openclaw/peraturan-perundang-undangan-pdf
+2026-02-18 13:12:11,681 - INFO - Rate limit: 2.0 seconds per request
+2026-02-18 13:12:11,681 - INFO - Max retries: 3
+2026-02-18 13:12:11,681 - INFO - Using direct PDF URL conversion
+2026-02-18 13:12:11,682 - INFO - Processing batch: test_batch.txt
+2026-02-18 13:12:11,682 - INFO - Batch test_batch.txt: 3 URLs, resuming from index 0
+2026-02-18 13:12:11,682 - INFO - Downloading [1/3]: permenkkp-no-7-tahun-2024.pdf -> kkp
+2026-02-18 13:12:12,531 - INFO - ✓ Success: permenkkp-no-7-tahun-2024.pdf
+2026-02-18 13:12:14,532 - INFO - Downloading [2/3]: permenkumham-no-9-tahun-2024.pdf -> kemenkumham
+2026-02-18 13:12:15,204 - INFO - ✓ Success: permenkumham-no-9-tahun-2024.pdf
+2026-02-18 13:12:17,205 - INFO - Downloading [3/3]: permen-esdm-no-4-tahun-2024.pdf -> esdm
+2026-02-18 13:12:17,587 - INFO - ✓ Success: permen-esdm-no-4-tahun-2024.pdf
+2026-02-18 13:12:19,588 - ERROR - Error processing batch test_batch.txt: Object of type datetime is not JSON serializable
+2026-02-18 13:12:43,304 - INFO - === PERMEN Mass Downloader v2 Initialized ===
+2026-02-18 13:12:43,304 - INFO - Base directory: /root/.openclaw/peraturan-perundang-undangan-pdf
+2026-02-18 13:12:43,304 - INFO - Rate limit: 2.0 seconds per request
+2026-02-18 13:12:43,305 - INFO - Max retries: 3
+2026-02-18 13:12:43,305 - INFO - Using direct PDF URL conversion
+2026-02-18 13:12:43,305 - INFO - Starting PERMEN mass download operation
+2026-02-18 13:12:43,305 - INFO - Total batches available: 40
+2026-02-18 13:12:43,305 - INFO - Processing batches: 1 to 1
+2026-02-18 13:12:43,305 - INFO - Estimated total files: ~500
+2026-02-18 13:12:43,305 - INFO - === BATCH 1/40 ===
+2026-02-18 13:12:43,305 - INFO - Processing batch: batch_0001.txt
+2026-02-18 13:12:43,306 - INFO - Batch batch_0001.txt: 500 URLs, resuming from index 0
+2026-02-18 13:12:43,306 - INFO - Downloading [4/500]: permenkumham-no-10-tahun-2024.pdf -> kemenkumham
+2026-02-18 13:12:43,715 - INFO - ✓ Success: permenkumham-no-10-tahun-2024.pdf
+2026-02-18 13:12:45,717 - INFO - Downloading [5/500]: permendag-no-4-tahun-2024.pdf -> kemendag
+2026-02-18 13:12:46,629 - INFO - ✓ Success: permendag-no-4-tahun-2024.pdf
+2026-02-18 13:12:48,630 - INFO - Downloading [6/500]: permenhan-no-11-tahun-2019.pdf -> kemhan
+2026-02-18 13:12:49,321 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenhan-no-11-tahun-2019.pdf
+2026-02-18 13:12:52,943 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenhan-no-11-tahun-2019.pdf
+2026-02-18 13:12:59,496 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenhan-no-11-tahun-2019.pdf
+2026-02-18 13:12:59,501 - ERROR - ✗ Failed: permenhan-no-11-tahun-2019.pdf
+2026-02-18 13:13:01,503 - INFO - Downloading [7/500]: permenag-no-34-tahun-2020.pdf -> kemenag
+2026-02-18 13:13:02,042 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenag-no-34-tahun-2020.pdf
+2026-02-18 13:13:05,586 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenag-no-34-tahun-2020.pdf
+2026-02-18 13:13:12,134 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenag-no-34-tahun-2020.pdf
+2026-02-18 13:13:12,136 - ERROR - ✗ Failed: permenag-no-34-tahun-2020.pdf
+2026-02-18 13:13:14,137 - INFO - Downloading [8/500]: permendag-no-22-tahun-2022.pdf -> kemendag
+2026-02-18 13:13:14,669 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permendag-no-22-tahun-2022.pdf
+2026-02-18 13:13:18,208 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permendag-no-22-tahun-2022.pdf
+2026-02-18 13:13:25,955 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permendag-no-22-tahun-2022.pdf
+2026-02-18 13:13:25,957 - ERROR - ✗ Failed: permendag-no-22-tahun-2022.pdf
+2026-02-18 13:13:27,958 - INFO - Downloading [9/500]: permenhub-no-pm17-tahun-2020.pdf -> kemenhub
+2026-02-18 13:13:28,491 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenhub-no-pm17-tahun-2020.pdf
+2026-02-18 13:13:32,010 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenhub-no-pm17-tahun-2020.pdf
+2026-02-18 13:13:38,972 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenhub-no-pm17-tahun-2020.pdf
+2026-02-18 13:13:38,977 - ERROR - ✗ Failed: permenhub-no-pm17-tahun-2020.pdf
+2026-02-18 13:13:40,978 - INFO - Downloading [10/500]: permentan-no-41-tahun-2019.pdf -> kementan
+2026-02-18 13:13:41,526 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permentan-no-41-tahun-2019.pdf
+2026-02-18 13:13:45,042 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permentan-no-41-tahun-2019.pdf
+2026-02-18 13:13:51,608 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permentan-no-41-tahun-2019.pdf
+2026-02-18 13:13:51,610 - ERROR - ✗ Failed: permentan-no-41-tahun-2019.pdf
+2026-02-18 13:13:53,611 - INFO - Downloading [11/500]: permendag-no-38-tahun-2021.pdf -> kemendag
+2026-02-18 13:13:54,129 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permendag-no-38-tahun-2021.pdf
+2026-02-18 13:13:58,068 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permendag-no-38-tahun-2021.pdf
+2026-02-18 13:14:04,633 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permendag-no-38-tahun-2021.pdf
+2026-02-18 13:14:04,635 - ERROR - ✗ Failed: permendag-no-38-tahun-2021.pdf
+2026-02-18 13:14:06,636 - INFO - Downloading [12/500]: permenkes-no-18-tahun-2020.pdf -> kemkes
+2026-02-18 13:14:07,147 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenkes-no-18-tahun-2020.pdf
+2026-02-18 13:14:10,677 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenkes-no-18-tahun-2020.pdf
+2026-02-18 13:14:17,196 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenkes-no-18-tahun-2020.pdf
+2026-02-18 13:14:17,198 - ERROR - ✗ Failed: permenkes-no-18-tahun-2020.pdf
+2026-02-18 13:14:19,199 - INFO - Downloading [13/500]: permendag-no-13-tahun-2020.pdf -> kemendag
+2026-02-18 13:14:19,768 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permendag-no-13-tahun-2020.pdf
+2026-02-18 13:14:23,500 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permendag-no-13-tahun-2020.pdf
+2026-02-18 13:14:30,015 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permendag-no-13-tahun-2020.pdf
+2026-02-18 13:14:30,016 - ERROR - ✗ Failed: permendag-no-13-tahun-2020.pdf
+2026-02-18 13:14:32,017 - INFO - Downloading [14/500]: permen-kkp-no-11-permen-kp-2019-tahun-2019.pdf -> kkp
+2026-02-18 13:14:32,523 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permen-kkp-no-11-permen-kp-2019-tahun-2019.pdf
+2026-02-18 13:14:36,092 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permen-kkp-no-11-permen-kp-2019-tahun-2019.pdf
+2026-02-18 13:14:42,618 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permen-kkp-no-11-permen-kp-2019-tahun-2019.pdf
+2026-02-18 13:14:42,620 - ERROR - ✗ Failed: permen-kkp-no-11-permen-kp-2019-tahun-2019.pdf
+2026-02-18 13:14:44,621 - INFO - Downloading [15/500]: permen-ppn-bappenas-no-2-tahun-2025.pdf -> ppn
+2026-02-18 13:14:45,255 - INFO - ✓ Success: permen-ppn-bappenas-no-2-tahun-2025.pdf
+2026-02-18 13:14:47,256 - INFO - Downloading [16/500]: permenperin-no-17-tahun-2020.pdf -> unknown
+2026-02-18 13:14:47,780 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenperin-no-17-tahun-2020.pdf
+2026-02-18 13:14:51,305 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenperin-no-17-tahun-2020.pdf
+2026-02-18 13:14:57,857 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenperin-no-17-tahun-2020.pdf
+2026-02-18 13:14:57,860 - ERROR - ✗ Failed: permenperin-no-17-tahun-2020.pdf
+2026-02-18 13:14:59,863 - INFO - Downloading [17/500]: permen-p2mi-no-22-tahun-2025.pdf -> p2mi
+2026-02-18 13:15:00,426 - INFO - ✓ Success: permen-p2mi-no-22-tahun-2025.pdf
+2026-02-18 13:15:02,427 - INFO - Downloading [18/500]: permen-lhk-no-5-tahun-2022.pdf -> lhk
+2026-02-18 13:15:02,931 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permen-lhk-no-5-tahun-2022.pdf
+2026-02-18 13:15:06,523 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permen-lhk-no-5-tahun-2022.pdf
+2026-02-18 13:15:13,040 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permen-lhk-no-5-tahun-2022.pdf
+2026-02-18 13:15:13,042 - ERROR - ✗ Failed: permen-lhk-no-5-tahun-2022.pdf
+2026-02-18 13:15:15,043 - INFO - Downloading [19/500]: permenpora-no-11-tahun-2023.pdf -> unknown
+2026-02-18 13:15:15,510 - INFO - ✓ Success: permenpora-no-11-tahun-2023.pdf
+2026-02-18 13:15:17,511 - INFO - Downloading [20/500]: permenperin-no-45-tahun-2024.pdf -> unknown
+2026-02-18 13:15:17,993 - INFO - ✓ Success: permenperin-no-45-tahun-2024.pdf
+2026-02-18 13:15:19,995 - INFO - Downloading [21/500]: permendikdasmen-no-22-tahun-2025.pdf -> unknown
+2026-02-18 13:15:20,491 - INFO - ✓ Success: permendikdasmen-no-22-tahun-2025.pdf
+2026-02-18 13:15:22,492 - INFO - Downloading [22/500]: permenperin-no-19-tahun-2024.pdf -> unknown
+2026-02-18 13:15:22,922 - INFO - ✓ Success: permenperin-no-19-tahun-2024.pdf
+2026-02-18 13:15:24,923 - INFO - Downloading [23/500]: permenag-no-30-tahun-2022.pdf -> kemenag
+2026-02-18 13:15:25,451 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenag-no-30-tahun-2022.pdf
+2026-02-18 13:15:29,004 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenag-no-30-tahun-2022.pdf
+2026-02-18 13:15:35,590 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenag-no-30-tahun-2022.pdf
+2026-02-18 13:15:35,593 - ERROR - ✗ Failed: permenag-no-30-tahun-2022.pdf
+2026-02-18 13:15:37,595 - INFO - Downloading [24/500]: permenpanrb-no-5-tahun-2024.pdf -> unknown
+2026-02-18 13:15:38,090 - INFO - ✓ Success: permenpanrb-no-5-tahun-2024.pdf
+2026-02-18 13:15:40,091 - INFO - Downloading [25/500]: permendag-no-41-tahun-2025.pdf -> kemendag
+2026-02-18 13:15:40,864 - INFO - ✓ Success: permendag-no-41-tahun-2025.pdf
+2026-02-18 13:15:40,866 - INFO - PROGRESS [batch_0001.txt]: 25/500 | Session: D:10 F:12 S:3 | Rate: 506.9/hr | 14.4MB | ETA: ~56m
+2026-02-18 13:15:42,866 - INFO - Downloading [26/500]: permenperin-no-28-tahun-2020.pdf -> unknown
+2026-02-18 13:15:43,409 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenperin-no-28-tahun-2020.pdf
+2026-02-18 13:15:46,964 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenperin-no-28-tahun-2020.pdf
+2026-02-18 13:15:53,475 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenperin-no-28-tahun-2020.pdf
+2026-02-18 13:15:53,477 - ERROR - ✗ Failed: permenperin-no-28-tahun-2020.pdf
+2026-02-18 13:15:55,478 - INFO - Downloading [27/500]: permen-pupr-no-17-prt-m-2019-tahun-2019.pdf -> pupr
+2026-02-18 13:15:56,031 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permen-pupr-no-17-prt-m-2019-tahun-2019.pdf
+2026-02-18 13:15:59,566 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permen-pupr-no-17-prt-m-2019-tahun-2019.pdf
+2026-02-18 13:16:06,065 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permen-pupr-no-17-prt-m-2019-tahun-2019.pdf
+2026-02-18 13:16:06,067 - ERROR - ✗ Failed: permen-pupr-no-17-prt-m-2019-tahun-2019.pdf
+2026-02-18 13:16:08,070 - INFO - Downloading [28/500]: permen-kkp-no-1-permenkp-2020-tahun-2020.pdf -> kkp
+2026-02-18 13:16:08,617 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permen-kkp-no-1-permenkp-2020-tahun-2020.pdf
+2026-02-18 13:16:12,128 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permen-kkp-no-1-permenkp-2020-tahun-2020.pdf
+2026-02-18 13:16:18,647 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permen-kkp-no-1-permenkp-2020-tahun-2020.pdf
+2026-02-18 13:16:18,651 - ERROR - ✗ Failed: permen-kkp-no-1-permenkp-2020-tahun-2020.pdf
+2026-02-18 13:16:20,652 - INFO - Downloading [29/500]: permenpar-no-4-tahun-2025.pdf -> unknown
+2026-02-18 13:16:21,173 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenpar-no-4-tahun-2025.pdf
+2026-02-18 13:16:24,699 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenpar-no-4-tahun-2025.pdf
+2026-02-18 13:16:31,222 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenpar-no-4-tahun-2025.pdf
+2026-02-18 13:16:31,226 - ERROR - ✗ Failed: permenpar-no-4-tahun-2025.pdf
+2026-02-18 13:16:33,227 - INFO - Downloading [30/500]: permentan-no-08-tahun-2023.pdf -> kementan
+2026-02-18 13:16:33,747 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permentan-no-08-tahun-2023.pdf
+2026-02-18 13:16:37,263 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permentan-no-08-tahun-2023.pdf
+2026-02-18 13:16:43,983 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permentan-no-08-tahun-2023.pdf
+2026-02-18 13:16:43,985 - ERROR - ✗ Failed: permentan-no-08-tahun-2023.pdf
+2026-02-18 13:16:45,986 - INFO - Downloading [31/500]: permenhan-no-23-tahun-2019.pdf -> kemhan
+2026-02-18 13:16:46,516 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenhan-no-23-tahun-2019.pdf
+2026-02-18 13:16:50,033 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenhan-no-23-tahun-2019.pdf
+2026-02-18 13:16:56,551 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenhan-no-23-tahun-2019.pdf
+2026-02-18 13:16:56,553 - ERROR - ✗ Failed: permenhan-no-23-tahun-2019.pdf
+2026-02-18 13:16:58,554 - INFO - Downloading [32/500]: permen-pupr-no-3-tahun-2022.pdf -> pupr
+2026-02-18 13:16:59,061 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permen-pupr-no-3-tahun-2022.pdf
+2026-02-18 13:17:02,577 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permen-pupr-no-3-tahun-2022.pdf
+2026-02-18 13:17:09,128 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permen-pupr-no-3-tahun-2022.pdf
+2026-02-18 13:17:09,131 - ERROR - ✗ Failed: permen-pupr-no-3-tahun-2022.pdf
+2026-02-18 13:17:11,132 - INFO - Downloading [33/500]: permendagri-no-41-tahun-2022.pdf -> kemendag
+2026-02-18 13:17:11,647 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permendagri-no-41-tahun-2022.pdf
+2026-02-18 13:17:15,185 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permendagri-no-41-tahun-2022.pdf
+2026-02-18 13:17:21,744 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permendagri-no-41-tahun-2022.pdf
+2026-02-18 13:17:21,748 - ERROR - ✗ Failed: permendagri-no-41-tahun-2022.pdf
+2026-02-18 13:17:23,749 - INFO - Downloading [34/500]: permenpanrb-no-13-tahun-2025.pdf -> unknown
+2026-02-18 13:17:24,403 - INFO - ✓ Success: permenpanrb-no-13-tahun-2025.pdf
+2026-02-18 13:17:26,404 - INFO - Downloading [35/500]: permenkeu-no-93--tahun-2025.pdf -> kemenkeu
+2026-02-18 13:17:26,903 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenkeu-no-93--tahun-2025.pdf
+2026-02-18 13:17:30,403 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenkeu-no-93--tahun-2025.pdf
+2026-02-18 13:17:36,939 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenkeu-no-93--tahun-2025.pdf
+2026-02-18 13:17:36,941 - ERROR - ✗ Failed: permenkeu-no-93--tahun-2025.pdf
+2026-02-18 13:17:38,942 - INFO - Downloading [36/500]: permen-kkp-no-28-tahun-2022.pdf -> kkp
+2026-02-18 13:17:39,460 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permen-kkp-no-28-tahun-2022.pdf
+2026-02-18 13:17:42,961 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permen-kkp-no-28-tahun-2022.pdf
+2026-02-18 13:17:49,820 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permen-kkp-no-28-tahun-2022.pdf
+2026-02-18 13:17:49,825 - ERROR - ✗ Failed: permen-kkp-no-28-tahun-2022.pdf
+2026-02-18 13:17:51,826 - INFO - Downloading [37/500]: permenkkp-no-31-tahun-2023.pdf -> kkp
+2026-02-18 13:17:52,091 - INFO - ✓ Success: permenkkp-no-31-tahun-2023.pdf
+2026-02-18 13:17:54,092 - INFO - Downloading [38/500]: permen-ppn-bappenas-no-12-tahun-2020.pdf -> ppn
+2026-02-18 13:17:54,602 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permen-ppn-bappenas-no-12-tahun-2020.pdf
+2026-02-18 13:17:58,309 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permen-ppn-bappenas-no-12-tahun-2020.pdf
+2026-02-18 13:18:05,057 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permen-ppn-bappenas-no-12-tahun-2020.pdf
+2026-02-18 13:18:05,059 - ERROR - ✗ Failed: permen-ppn-bappenas-no-12-tahun-2020.pdf
+2026-02-18 13:18:07,060 - INFO - Downloading [39/500]: permendagri-no-64-tahun-2022.pdf -> kemendag
+2026-02-18 13:18:07,585 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permendagri-no-64-tahun-2022.pdf
+2026-02-18 13:18:11,314 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permendagri-no-64-tahun-2022.pdf
+2026-02-18 13:18:17,837 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permendagri-no-64-tahun-2022.pdf
+2026-02-18 13:18:17,839 - ERROR - ✗ Failed: permendagri-no-64-tahun-2022.pdf
+2026-02-18 13:18:19,840 - INFO - Downloading [40/500]: permen-ppn-bappenas-no-1-tahun-2023.pdf -> ppn
+2026-02-18 13:18:21,250 - INFO - ✓ Success: permen-ppn-bappenas-no-1-tahun-2023.pdf
+2026-02-18 13:18:23,251 - INFO - Downloading [41/500]: permendikbudristek-no-45-tahun-2022.pdf -> kemdikbud
+2026-02-18 13:18:24,007 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permendikbudristek-no-45-tahun-2022.pdf
+2026-02-18 13:18:27,513 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permendikbudristek-no-45-tahun-2022.pdf
+2026-02-18 13:18:35,083 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permendikbudristek-no-45-tahun-2022.pdf
+2026-02-18 13:18:35,086 - ERROR - ✗ Failed: permendikbudristek-no-45-tahun-2022.pdf
+2026-02-18 13:18:37,088 - INFO - Downloading [42/500]: permenkes-no-1-tahun-2025.pdf -> kemkes
+2026-02-18 13:18:37,545 - INFO - ✓ Success: permenkes-no-1-tahun-2025.pdf
+2026-02-18 13:18:39,545 - INFO - Downloading [44/500]: permendagri-no-128-tahun-2018.pdf -> kemendag
+2026-02-18 13:18:40,069 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permendagri-no-128-tahun-2018.pdf
+2026-02-18 13:18:43,612 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permendagri-no-128-tahun-2018.pdf
+2026-02-18 13:18:50,172 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permendagri-no-128-tahun-2018.pdf
+2026-02-18 13:18:50,175 - ERROR - ✗ Failed: permendagri-no-128-tahun-2018.pdf
+2026-02-18 13:18:52,176 - INFO - Downloading [45/500]: permenkeu-no-218-pmk-07-2022-tahun-2022.pdf -> kemenkeu
+2026-02-18 13:18:53,748 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenkeu-no-218-pmk-07-2022-tahun-2022.pdf
+2026-02-18 13:18:57,279 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenkeu-no-218-pmk-07-2022-tahun-2022.pdf
+2026-02-18 13:19:03,885 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenkeu-no-218-pmk-07-2022-tahun-2022.pdf
+2026-02-18 13:19:03,889 - ERROR - ✗ Failed: permenkeu-no-218-pmk-07-2022-tahun-2022.pdf
+2026-02-18 13:19:05,890 - INFO - Downloading [46/500]: permen-pppa-no-6-tahun-2024.pdf -> kemenpppa
+2026-02-18 13:19:06,547 - INFO - ✓ Success: permen-pppa-no-6-tahun-2024.pdf
+2026-02-18 13:19:08,548 - INFO - Downloading [47/500]: permendagri-no-107-tahun-2019.pdf -> kemendag
+2026-02-18 13:19:09,067 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permendagri-no-107-tahun-2019.pdf
+2026-02-18 13:19:12,568 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permendagri-no-107-tahun-2019.pdf
+2026-02-18 13:19:19,316 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permendagri-no-107-tahun-2019.pdf
+2026-02-18 13:19:19,319 - ERROR - ✗ Failed: permendagri-no-107-tahun-2019.pdf
+2026-02-18 13:19:21,320 - INFO - Downloading [49/500]: permenpanrb-no-76-tahun-2020.pdf -> unknown
+2026-02-18 13:19:22,056 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenpanrb-no-76-tahun-2020.pdf
+2026-02-18 13:19:25,617 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenpanrb-no-76-tahun-2020.pdf
+2026-02-18 13:19:32,347 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenpanrb-no-76-tahun-2020.pdf
+2026-02-18 13:19:32,349 - ERROR - ✗ Failed: permenpanrb-no-76-tahun-2020.pdf
+2026-02-18 13:19:34,351 - INFO - Downloading [50/500]: permenag-no-3-tahun-2023.pdf -> kemenag
+2026-02-18 13:19:34,877 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenag-no-3-tahun-2023.pdf
+2026-02-18 13:19:38,394 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenag-no-3-tahun-2023.pdf
+2026-02-18 13:19:44,922 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenag-no-3-tahun-2023.pdf
+2026-02-18 13:19:44,924 - ERROR - ✗ Failed: permenag-no-3-tahun-2023.pdf
+2026-02-18 13:19:44,927 - INFO - PROGRESS [batch_0001.txt]: 50/500 | Session: D:15 F:30 S:5 | Rate: 426.9/hr | 21.0MB | ETA: ~1h 3m
+2026-02-18 13:19:46,928 - INFO - Downloading [51/500]: permenpanrb-no-2-tahun-2022.pdf -> unknown
+2026-02-18 13:19:47,472 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenpanrb-no-2-tahun-2022.pdf
+2026-02-18 13:19:50,977 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenpanrb-no-2-tahun-2022.pdf
+2026-02-18 13:19:57,490 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenpanrb-no-2-tahun-2022.pdf
+2026-02-18 13:19:57,493 - ERROR - ✗ Failed: permenpanrb-no-2-tahun-2022.pdf
+2026-02-18 13:19:59,494 - INFO - Downloading [52/500]: permenperin-no-36-tahun-2021.pdf -> unknown
+2026-02-18 13:20:00,017 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenperin-no-36-tahun-2021.pdf
+2026-02-18 13:20:03,531 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenperin-no-36-tahun-2021.pdf
+2026-02-18 13:20:10,054 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenperin-no-36-tahun-2021.pdf
+2026-02-18 13:20:10,058 - ERROR - ✗ Failed: permenperin-no-36-tahun-2021.pdf
+2026-02-18 13:20:12,059 - INFO - Downloading [53/500]: permensos-no-8-tahun-2024.pdf -> kemensos
+2026-02-18 13:20:12,446 - INFO - ✓ Success: permensos-no-8-tahun-2024.pdf
+2026-02-18 13:20:14,447 - INFO - Downloading [54/500]: permenklhbph-no-10-tahun-2025.pdf -> unknown
+2026-02-18 13:20:15,090 - INFO - ✓ Success: permenklhbph-no-10-tahun-2025.pdf
+2026-02-18 13:20:17,091 - INFO - Downloading [55/500]: permenpanrb-no-10-tahun-2025.pdf -> unknown
+2026-02-18 13:20:17,646 - INFO - ✓ Success: permenpanrb-no-10-tahun-2025.pdf
+2026-02-18 13:20:19,647 - INFO - Downloading [56/500]: permenklhbph-no-27-tahun-2025.pdf -> unknown
+2026-02-18 13:20:21,066 - INFO - ✓ Success: permenklhbph-no-27-tahun-2025.pdf
+2026-02-18 13:20:23,068 - INFO - Downloading [57/500]: permendagri-no-63-tahun-2019.pdf -> kemendag
+2026-02-18 13:20:23,567 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permendagri-no-63-tahun-2019.pdf
+2026-02-18 13:20:27,087 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permendagri-no-63-tahun-2019.pdf
+2026-02-18 13:20:33,612 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permendagri-no-63-tahun-2019.pdf
+2026-02-18 13:20:33,614 - ERROR - ✗ Failed: permendagri-no-63-tahun-2019.pdf
+2026-02-18 13:20:35,616 - INFO - Downloading [58/500]: permenkeu-no-111--tahun-2025.pdf -> kemenkeu
+2026-02-18 13:20:36,122 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenkeu-no-111--tahun-2025.pdf
+2026-02-18 13:20:39,625 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenkeu-no-111--tahun-2025.pdf
+2026-02-18 13:20:46,162 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenkeu-no-111--tahun-2025.pdf
+2026-02-18 13:20:46,168 - ERROR - ✗ Failed: permenkeu-no-111--tahun-2025.pdf
+2026-02-18 13:20:48,169 - INFO - Downloading [59/500]: permendagri-no-124-tahun-2018.pdf -> kemendag
+2026-02-18 13:20:48,666 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permendagri-no-124-tahun-2018.pdf
+2026-02-18 13:20:52,222 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permendagri-no-124-tahun-2018.pdf
+2026-02-18 13:20:58,731 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permendagri-no-124-tahun-2018.pdf
+2026-02-18 13:20:58,736 - ERROR - ✗ Failed: permendagri-no-124-tahun-2018.pdf
+2026-02-18 13:21:00,736 - INFO - Downloading [60/500]: permenhub-no-pm-141-tahun-2020.pdf -> kemenhub
+2026-02-18 13:21:01,258 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenhub-no-pm-141-tahun-2020.pdf
+2026-02-18 13:21:04,825 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenhub-no-pm-141-tahun-2020.pdf
+2026-02-18 13:21:11,339 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenhub-no-pm-141-tahun-2020.pdf
+2026-02-18 13:21:11,342 - ERROR - ✗ Failed: permenhub-no-pm-141-tahun-2020.pdf
+2026-02-18 13:21:13,344 - INFO - Downloading [61/500]: permenkeu-no-135-pmk-04-2021-tahun-2021.pdf -> kemenkeu
+2026-02-18 13:21:13,867 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenkeu-no-135-pmk-04-2021-tahun-2021.pdf
+2026-02-18 13:21:17,396 - WARNING - Non-PDF content received: text/html; charset=utf-8 for https://peraturan.go.id/files/permenkeu-no-135-pmk-04-2021-tahun-2021.pdf
+2026-02-18 13:21:22,983 - INFO - Received signal 15, shutting down gracefully...
+2026-02-18 13:21:22,985 - INFO - === FINAL STATISTICS ===
+2026-02-18 13:21:22,985 - INFO - Session time: 0:08:39.681352
+2026-02-18 13:21:22,985 - INFO - Total processed: 60
+2026-02-18 13:21:22,985 - INFO - Downloaded: 19
+2026-02-18 13:21:22,985 - INFO - Failed: 36
+2026-02-18 13:21:22,985 - INFO - Skipped: 5
+2026-02-18 13:21:22,985 - INFO - Data downloaded: 26.6 MB
+2026-02-18 13:21:22,986 - INFO - Average rate: 415.6 files/hour
+2026-02-18 13:21:22,986 - INFO - Failed downloads logged to: /root/.openclaw/peraturan-perundang-undangan-pdf/permen_failed.json
+2026-02-18 13:21:22,987 - INFO - === MINISTRY SUMMARY ===
+2026-02-18 13:21:22,987 - INFO - 2024: 0 files, 0.0 MB
+2026-02-18 13:21:22,987 - INFO - 2025: 0 files, 0.0 MB
+2026-02-18 13:21:22,987 - INFO - atrbpn: 0 files, 0.0 MB
+2026-02-18 13:21:22,987 - INFO - bumn: 0 files, 0.0 MB
+2026-02-18 13:21:22,988 - INFO - by-year: 0 files, 0.0 MB
+2026-02-18 13:21:22,988 - INFO - esdm: 6 files, 24.0 MB
+2026-02-18 13:21:22,988 - INFO - haji: 0 files, 0.0 MB
+2026-02-18 13:21:22,988 - INFO - kemdikbud: 0 files, 0.0 MB
+2026-02-18 13:21:22,988 - INFO - kemenag: 0 files, 0.0 MB
+2026-02-18 13:21:22,988 - INFO - kemendag: 2 files, 3.6 MB
+2026-02-18 13:21:22,988 - INFO - kemenhub: 11 files, 117.8 MB
+2026-02-18 13:21:22,989 - INFO - kemenkeu: 0 files, 0.0 MB
+2026-02-18 13:21:22,989 - INFO - kemenkumham: 2 files, 1.2 MB
+2026-02-18 13:21:22,989 - INFO - kemenpppa: 1 files, 0.8 MB
+2026-02-18 13:21:22,989 - INFO - kemensos: 1 files, 0.7 MB
+2026-02-18 13:21:22,989 - INFO - kementan: 0 files, 0.0 MB
+2026-02-18 13:21:22,989 - INFO - kemhan: 0 files, 0.0 MB
+2026-02-18 13:21:22,989 - INFO - kemkes: 1 files, 0.6 MB
+2026-02-18 13:21:22,989 - INFO - kemkomdigi: 0 files, 0.0 MB
+2026-02-18 13:21:22,989 - INFO - kemkominfo: 0 files, 0.0 MB
+2026-02-18 13:21:22,989 - INFO - kkp: 2 files, 1.1 MB
+2026-02-18 13:21:22,989 - INFO - klhk: 0 files, 0.0 MB
+2026-02-18 13:21:22,989 - INFO - lhk: 0 files, 0.0 MB
+2026-02-18 13:21:22,989 - INFO - p2mi: 1 files, 1.1 MB
+2026-02-18 13:21:22,989 - INFO - pdt: 0 files, 0.0 MB
+2026-02-18 13:21:22,989 - INFO - ppn: 2 files, 8.5 MB
+2026-02-18 13:21:22,989 - INFO - pupr: 0 files, 0.0 MB
+2026-02-18 13:21:22,990 - INFO - unknown: 9 files, 10.6 MB
+2026-02-18 13:21:22,990 - INFO - === FINAL STATISTICS ===
+2026-02-18 13:21:22,991 - INFO - Session time: 0:08:39.686889
+2026-02-18 13:21:22,991 - INFO - Total processed: 60
+2026-02-18 13:21:22,991 - INFO - Downloaded: 19
+2026-02-18 13:21:22,991 - INFO - Failed: 36
+2026-02-18 13:21:22,991 - INFO - Skipped: 5
+2026-02-18 13:21:22,991 - INFO - Data downloaded: 26.6 MB
+2026-02-18 13:21:22,991 - INFO - Average rate: 415.6 files/hour
+2026-02-18 13:21:22,991 - INFO - Failed downloads logged to: /root/.openclaw/peraturan-perundang-undangan-pdf/permen_failed.json
+2026-02-18 13:21:22,992 - INFO - === MINISTRY SUMMARY ===
+2026-02-18 13:21:22,992 - INFO - 2024: 0 files, 0.0 MB
+2026-02-18 13:21:22,992 - INFO - 2025: 0 files, 0.0 MB
+2026-02-18 13:21:22,992 - INFO - atrbpn: 0 files, 0.0 MB
+2026-02-18 13:21:22,992 - INFO - bumn: 0 files, 0.0 MB
+2026-02-18 13:21:22,993 - INFO - by-year: 0 files, 0.0 MB
+2026-02-18 13:21:22,993 - INFO - esdm: 6 files, 24.0 MB
+2026-02-18 13:21:22,993 - INFO - haji: 0 files, 0.0 MB
+2026-02-18 13:21:22,993 - INFO - kemdikbud: 0 files, 0.0 MB
+2026-02-18 13:21:22,993 - INFO - kemenag: 0 files, 0.0 MB
+2026-02-18 13:21:22,993 - INFO - kemendag: 2 files, 3.6 MB
+2026-02-18 13:21:22,993 - INFO - kemenhub: 11 files, 117.8 MB
+2026-02-18 13:21:22,993 - INFO - kemenkeu: 0 files, 0.0 MB
+2026-02-18 13:21:22,993 - INFO - kemenkumham: 2 files, 1.2 MB
+2026-02-18 13:21:22,993 - INFO - kemenpppa: 1 files, 0.8 MB
+2026-02-18 13:21:22,993 - INFO - kemensos: 1 files, 0.7 MB
+2026-02-18 13:21:22,993 - INFO - kementan: 0 files, 0.0 MB
+2026-02-18 13:21:22,993 - INFO - kemhan: 0 files, 0.0 MB
+2026-02-18 13:21:22,993 - INFO - kemkes: 1 files, 0.6 MB
+2026-02-18 13:21:22,993 - INFO - kemkomdigi: 0 files, 0.0 MB
+2026-02-18 13:21:22,993 - INFO - kemkominfo: 0 files, 0.0 MB
+2026-02-18 13:21:22,993 - INFO - kkp: 2 files, 1.1 MB
+2026-02-18 13:21:22,993 - INFO - klhk: 0 files, 0.0 MB
+2026-02-18 13:21:22,994 - INFO - lhk: 0 files, 0.0 MB
+2026-02-18 13:21:22,994 - INFO - p2mi: 1 files, 1.1 MB
+2026-02-18 13:21:22,994 - INFO - pdt: 0 files, 0.0 MB
+2026-02-18 13:21:22,994 - INFO - ppn: 2 files, 8.5 MB
+2026-02-18 13:21:22,994 - INFO - pupr: 0 files, 0.0 MB
+2026-02-18 13:21:22,994 - INFO - unknown: 9 files, 10.6 MB

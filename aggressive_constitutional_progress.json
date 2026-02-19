@@ -1,0 +1,10 @@
+{
+  "total_downloaded": 8,
+  "total_failed": 67,
+  "total_skipped": 0,
+  "current_rps": 10,
+  "current_delay": 0.1,
+  "test_phase": "INITIAL_10RPS",
+  "timestamp": "2026-02-18T13:39:55.595807",
+  "runtime_minutes": 3.86438275
+}

@@ -1,0 +1,14 @@
+2026-02-18 13:40:16,783 - 🚀 FOCUSED AGGRESSIVE DOWNLOADER - Recent Documents Only
+2026-02-18 13:40:16,783 - Starting RPS: 15 (targeting recent documents with PDF versions)
+2026-02-18 13:40:16,783 - 🚀 STARTING FOCUSED AGGRESSIVE DOWNLOAD MISSION
+2026-02-18 13:40:16,783 - STRATEGY: Recent documents (1980+) → Scale 15-100 RPS → Maximum server capacity
+2026-02-18 13:40:16,784 - 🎯 PROCESSING 500 UU URLs
+2026-02-18 13:40:16,784 - Target: Maximum server capacity with UU documents
+2026-02-18 13:40:32,410 - 📊 PERF: RPS=15, Response=0.79s, Success=0, Errors=0.0%
+2026-02-18 13:40:32,411 - 📈 PROGRESS [UU]: 25/500 (5.0%) | Downloaded: 0 | Failed: 17 | Rate: 0.0/sec | RPS: 15
+2026-02-18 13:40:57,290 - 📊 PERF: RPS=15, Response=0.92s, Success=0, Errors=0.0%
+2026-02-18 13:40:57,291 - 📈 PROGRESS [UU]: 50/500 (10.0%) | Downloaded: 0 | Failed: 42 | Rate: 0.0/sec | RPS: 15
+2026-02-18 13:41:30,066 - 📊 PERF: RPS=15, Response=0.83s, Success=0, Errors=0.0%
+2026-02-18 13:41:30,067 - 📈 PROGRESS [UU]: 75/500 (15.0%) | Downloaded: 0 | Failed: 67 | Rate: 0.0/sec | RPS: 15
+2026-02-18 13:42:03,304 - 📊 PERF: RPS=15, Response=0.83s, Success=0, Errors=0.0%
+2026-02-18 13:42:03,306 - 📈 PROGRESS [UU]: 100/500 (20.0%) | Downloaded: 0 | Failed: 92 | Rate: 0.0/sec | RPS: 15

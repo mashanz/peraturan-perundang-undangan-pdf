@@ -1,0 +1,290 @@
+[
+  {
+    "url": "https://peraturan.go.id/id/permenhan-no-11-tahun-2019",
+    "ministry": "unknown",
+    "filename": "permenhan-no-11-tahun-2019.pdf",
+    "batch": "batch_0001.txt",
+    "timestamp": "2026-02-18T13:12:59.501717",
+    "reason": "download_failed"
+  },
+  {
+    "url": "https://peraturan.go.id/id/permenag-no-34-tahun-2020",
+    "ministry": "unknown",
+    "filename": "permenag-no-34-tahun-2020.pdf",
+    "batch": "batch_0001.txt",
+    "timestamp": "2026-02-18T13:13:12.136081",
+    "reason": "download_failed"
+  },
+  {
+    "url": "https://peraturan.go.id/id/permendag-no-22-tahun-2022",
+    "ministry": "kemendag",
+    "filename": "permendag-no-22-tahun-2022.pdf",
+    "batch": "batch_0001.txt",
+    "timestamp": "2026-02-18T13:13:25.957294",
+    "reason": "download_failed"
+  },
+  {
+    "url": "https://peraturan.go.id/id/permenhub-no-pm17-tahun-2020",
+    "ministry": "kemenhub",
+    "filename": "permenhub-no-pm17-tahun-2020.pdf",
+    "batch": "batch_0001.txt",
+    "timestamp": "2026-02-18T13:13:38.977101",
+    "reason": "download_failed"
+  },
+  {
+    "url": "https://peraturan.go.id/id/permentan-no-41-tahun-2019",
+    "ministry": "kementan",
+    "filename": "permentan-no-41-tahun-2019.pdf",
+    "batch": "batch_0001.txt",
+    "timestamp": "2026-02-18T13:13:51.610462",
+    "reason": "download_failed"
+  },
+  {
+    "url": "https://peraturan.go.id/id/permendag-no-38-tahun-2021",
+    "ministry": "kemendag",
+    "filename": "permendag-no-38-tahun-2021.pdf",
+    "batch": "batch_0001.txt",
+    "timestamp": "2026-02-18T13:14:04.635384",
+    "reason": "download_failed"
+  },
+  {
+    "url": "https://peraturan.go.id/id/permenkes-no-18-tahun-2020",
+    "ministry": "kemkes",
+    "filename": "permenkes-no-18-tahun-2020.pdf",
+    "batch": "batch_0001.txt",
+    "timestamp": "2026-02-18T13:14:17.198635",
+    "reason": "download_failed"
+  },
+  {
+    "url": "https://peraturan.go.id/id/permendag-no-13-tahun-2020",
+    "ministry": "kemendag",
+    "filename": "permendag-no-13-tahun-2020.pdf",
+    "batch": "batch_0001.txt",
+    "timestamp": "2026-02-18T13:14:30.016949",
+    "reason": "download_failed"
+  },
+  {
+    "url": "https://peraturan.go.id/id/permen-kkp-no-11-permen-kp-2019-tahun-2019",
+    "ministry": "kkp",
+    "filename": "permen-kkp-no-11-permen-kp-2019-tahun-2019.pdf",
+    "batch": "batch_0001.txt",
+    "timestamp": "2026-02-18T13:14:42.620259",
+    "reason": "download_failed"
+  },
+  {
+    "url": "https://peraturan.go.id/id/permenperin-no-17-tahun-2020",
+    "ministry": "unknown",
+    "filename": "permenperin-no-17-tahun-2020.pdf",
+    "batch": "batch_0001.txt",
+    "timestamp": "2026-02-18T13:14:57.860124",
+    "reason": "download_failed"
+  },
+  {
+    "url": "https://peraturan.go.id/id/permen-lhk-no-5-tahun-2022",
+    "ministry": "lhk",
+    "filename": "permen-lhk-no-5-tahun-2022.pdf",
+    "batch": "batch_0001.txt",
+    "timestamp": "2026-02-18T13:15:13.042543",
+    "reason": "download_failed"
+  },
+  {
+    "url": "https://peraturan.go.id/id/permenag-no-30-tahun-2022",
+    "ministry": "unknown",
+    "filename": "permenag-no-30-tahun-2022.pdf",
+    "batch": "batch_0001.txt",
+    "timestamp": "2026-02-18T13:15:35.593571",
+    "reason": "download_failed"
+  },
+  {
+    "url": "https://peraturan.go.id/id/permenperin-no-28-tahun-2020",
+    "ministry": "unknown",
+    "filename": "permenperin-no-28-tahun-2020.pdf",
+    "batch": "batch_0001.txt",
+    "timestamp": "2026-02-18T13:15:53.477579",
+    "reason": "download_failed"
+  },
+  {
+    "url": "https://peraturan.go.id/id/permen-pupr-no-17-prt-m-2019-tahun-2019",
+    "ministry": "pupr",
+    "filename": "permen-pupr-no-17-prt-m-2019-tahun-2019.pdf",
+    "batch": "batch_0001.txt",
+    "timestamp": "2026-02-18T13:16:06.067246",
+    "reason": "download_failed"
+  },
+  {
+    "url": "https://peraturan.go.id/id/permen-kkp-no-1-permenkp-2020-tahun-2020",
+    "ministry": "kkp",
+    "filename": "permen-kkp-no-1-permenkp-2020-tahun-2020.pdf",
+    "batch": "batch_0001.txt",
+    "timestamp": "2026-02-18T13:16:18.651044",
+    "reason": "download_failed"
+  },
+  {
+    "url": "https://peraturan.go.id/id/permenpar-no-4-tahun-2025",
+    "ministry": "unknown",
+    "filename": "permenpar-no-4-tahun-2025.pdf",
+    "batch": "batch_0001.txt",
+    "timestamp": "2026-02-18T13:16:31.226168",
+    "reason": "download_failed"
+  },
+  {
+    "url": "https://peraturan.go.id/id/permentan-no-08-tahun-2023",
+    "ministry": "kementan",
+    "filename": "permentan-no-08-tahun-2023.pdf",
+    "batch": "batch_0001.txt",
+    "timestamp": "2026-02-18T13:16:43.985290",
+    "reason": "download_failed"
+  },
+  {
+    "url": "https://peraturan.go.id/id/permenhan-no-23-tahun-2019",
+    "ministry": "unknown",
+    "filename": "permenhan-no-23-tahun-2019.pdf",
+    "batch": "batch_0001.txt",
+    "timestamp": "2026-02-18T13:16:56.553594",
+    "reason": "download_failed"
+  },
+  {
+    "url": "https://peraturan.go.id/id/permen-pupr-no-3-tahun-2022",
+    "ministry": "pupr",
+    "filename": "permen-pupr-no-3-tahun-2022.pdf",
+    "batch": "batch_0001.txt",
+    "timestamp": "2026-02-18T13:17:09.131281",
+    "reason": "download_failed"
+  },
+  {
+    "url": "https://peraturan.go.id/id/permendagri-no-41-tahun-2022",
+    "ministry": "kemendag",
+    "filename": "permendagri-no-41-tahun-2022.pdf",
+    "batch": "batch_0001.txt",
+    "timestamp": "2026-02-18T13:17:21.748340",
+    "reason": "download_failed"
+  },
+  {
+    "url": "https://peraturan.go.id/id/permenkeu-no-93--tahun-2025",
+    "ministry": "kemenkeu",
+    "filename": "permenkeu-no-93--tahun-2025.pdf",
+    "batch": "batch_0001.txt",
+    "timestamp": "2026-02-18T13:17:36.941071",
+    "reason": "download_failed"
+  },
+  {
+    "url": "https://peraturan.go.id/id/permen-kkp-no-28-tahun-2022",
+    "ministry": "kkp",
+    "filename": "permen-kkp-no-28-tahun-2022.pdf",
+    "batch": "batch_0001.txt",
+    "timestamp": "2026-02-18T13:17:49.825168",
+    "reason": "download_failed"
+  },
+  {
+    "url": "https://peraturan.go.id/id/permen-ppn-bappenas-no-12-tahun-2020",
+    "ministry": "ppn",
+    "filename": "permen-ppn-bappenas-no-12-tahun-2020.pdf",
+    "batch": "batch_0001.txt",
+    "timestamp": "2026-02-18T13:18:05.059665",
+    "reason": "download_failed"
+  },
+  {
+    "url": "https://peraturan.go.id/id/permendagri-no-64-tahun-2022",
+    "ministry": "kemendag",
+    "filename": "permendagri-no-64-tahun-2022.pdf",
+    "batch": "batch_0001.txt",
+    "timestamp": "2026-02-18T13:18:17.839655",
+    "reason": "download_failed"
+  },
+  {
+    "url": "https://peraturan.go.id/id/permendikbudristek-no-45-tahun-2022",
+    "ministry": "kemdikbud",
+    "filename": "permendikbudristek-no-45-tahun-2022.pdf",
+    "batch": "batch_0001.txt",
+    "timestamp": "2026-02-18T13:18:35.086567",
+    "reason": "download_failed"
+  },
+  {
+    "url": "https://peraturan.go.id/id/permendagri-no-128-tahun-2018",
+    "ministry": "kemendag",
+    "filename": "permendagri-no-128-tahun-2018.pdf",
+    "batch": "batch_0001.txt",
+    "timestamp": "2026-02-18T13:18:50.175112",
+    "reason": "download_failed"
+  },
+  {
+    "url": "https://peraturan.go.id/id/permenkeu-no-218-pmk-07-2022-tahun-2022",
+    "ministry": "kemenkeu",
+    "filename": "permenkeu-no-218-pmk-07-2022-tahun-2022.pdf",
+    "batch": "batch_0001.txt",
+    "timestamp": "2026-02-18T13:19:03.889894",
+    "reason": "download_failed"
+  },
+  {
+    "url": "https://peraturan.go.id/id/permendagri-no-107-tahun-2019",
+    "ministry": "kemendag",
+    "filename": "permendagri-no-107-tahun-2019.pdf",
+    "batch": "batch_0001.txt",
+    "timestamp": "2026-02-18T13:19:19.319092",
+    "reason": "download_failed"
+  },
+  {
+    "url": "https://peraturan.go.id/id/permenpanrb-no-76-tahun-2020",
+    "ministry": "unknown",
+    "filename": "permenpanrb-no-76-tahun-2020.pdf",
+    "batch": "batch_0001.txt",
+    "timestamp": "2026-02-18T13:19:32.349568",
+    "reason": "download_failed"
+  },
+  {
+    "url": "https://peraturan.go.id/id/permenag-no-3-tahun-2023",
+    "ministry": "unknown",
+    "filename": "permenag-no-3-tahun-2023.pdf",
+    "batch": "batch_0001.txt",
+    "timestamp": "2026-02-18T13:19:44.924909",
+    "reason": "download_failed"
+  },
+  {
+    "url": "https://peraturan.go.id/id/permenpanrb-no-2-tahun-2022",
+    "ministry": "unknown",
+    "filename": "permenpanrb-no-2-tahun-2022.pdf",
+    "batch": "batch_0001.txt",
+    "timestamp": "2026-02-18T13:19:57.493179",
+    "reason": "download_failed"
+  },
+  {
+    "url": "https://peraturan.go.id/id/permenperin-no-36-tahun-2021",
+    "ministry": "unknown",
+    "filename": "permenperin-no-36-tahun-2021.pdf",
+    "batch": "batch_0001.txt",
+    "timestamp": "2026-02-18T13:20:10.058075",
+    "reason": "download_failed"
+  },
+  {
+    "url": "https://peraturan.go.id/id/permendagri-no-63-tahun-2019",
+    "ministry": "kemendag",
+    "filename": "permendagri-no-63-tahun-2019.pdf",
+    "batch": "batch_0001.txt",
+    "timestamp": "2026-02-18T13:20:33.614892",
+    "reason": "download_failed"
+  },
+  {
+    "url": "https://peraturan.go.id/id/permenkeu-no-111--tahun-2025",
+    "ministry": "kemenkeu",
+    "filename": "permenkeu-no-111--tahun-2025.pdf",
+    "batch": "batch_0001.txt",
+    "timestamp": "2026-02-18T13:20:46.168857",
+    "reason": "download_failed"
+  },
+  {
+    "url": "https://peraturan.go.id/id/permendagri-no-124-tahun-2018",
+    "ministry": "kemendag",
+    "filename": "permendagri-no-124-tahun-2018.pdf",
+    "batch": "batch_0001.txt",
+    "timestamp": "2026-02-18T13:20:58.736105",
+    "reason": "download_failed"
+  },
+  {
+    "url": "https://peraturan.go.id/id/permenhub-no-pm-141-tahun-2020",
+    "ministry": "kemenhub",
+    "filename": "permenhub-no-pm-141-tahun-2020.pdf",
+    "batch": "batch_0001.txt",
+    "timestamp": "2026-02-18T13:21:11.342711",
+    "reason": "download_failed"
+  }
+]

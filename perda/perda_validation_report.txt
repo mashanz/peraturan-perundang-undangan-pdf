@@ -1,0 +1,17 @@
+PDF VALIDATION REPORT
+==================================================
+Directory: /root/.openclaw/peraturan-perundang-undangan-pdf/perda
+Scan Time: 2026-02-18T13:11:02.998193
+
+SUMMARY:
+  Total Files: 0
+  Valid Files: 0 (0.0%)
+  Invalid Files: 0
+  Empty Files: 0
+  Tiny Files (<1000B): 0
+  Small Files (<10000B): 0
+  Files with Warnings: 0
+  Total Size: 0 bytes (0.0 MB)
+  Average Size: 0 bytes
+
+ISSUES FOUND:

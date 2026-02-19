@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	
+  <link href="https://jdih.kehutanan.go.id/new2/css/style.css" rel="stylesheet">
+  <link rel="icon" type="image/x-icon" href="/image/favicon.ico">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  
+  <link href="https://jdih.kehutanan.go.id/new2/css/bootstrap.css" rel="stylesheet">
+  
+  <!--<link href="https://jdih.kehutanan.go.id/new2/css/bootstrap.min.css" rel="stylesheet">-->
+  
+  
+  
+  <link href="https://jdih.kehutanan.go.id/new2/assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  
+  <link href="https://jdih.kehutanan.go.id/new2/assets/vendor/aos/aos.css" rel="stylesheet">
+  
+  <link href="https://jdih.kehutanan.go.id/new2/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://jdih.kehutanan.go.id/new2/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="https://jdih.kehutanan.go.id/new2/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="https://jdih.kehutanan.go.id/new2/assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="https://jdih.kehutanan.go.id/new2/assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="https://jdih.kehutanan.go.id/new2/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+  
+  <link href="https://jdih.kehutanan.go.id/new2/css/chosen.css" rel="stylesheet" type="text/css">
+  <!-- End of Vendor css -->
+  <!-- Template from css folder -->
+  <!--<link href="https://jdih.kehutanan.go.id/new2/css/style_simplifikasi.css" rel="stylesheet" type="text/css">-->
+  <link href="https://jdih.kehutanan.go.id/new2/css/style.css" rel="stylesheet">
+</head>
+<body>
+<center>
+<button type="button" class="btn btn-primary" style="width: 100%;font-size:20px;" onClick="javascript:window.close();javascript:history.back();" >CLOSE</button>
+</center>
+ <iframe src="https://jdih.kehutanan.go.id/new2/uploads/files/P_56_2015_LB3_FASKES_menlhk_04192021100851.pdf" width="100%" height="1680" scrolling="no" frameborder="0"></iframe>
+ 
+   
+</body>
+</html>

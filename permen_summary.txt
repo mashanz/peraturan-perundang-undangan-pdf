@@ -1,0 +1,70 @@
+PERMEN Mass Download Summary
+Generated: Wed Feb 18 13:08:35 UTC 2026
+Total PERMEN URLs: 19736
+Number of batches: 40
+
+Ministry breakdown:
+  atrbpn: 255 regulations
+  bumn: 70 regulations
+  esdm: 562 regulations
+  haji: 8 regulations
+  kemdikbud: 916 regulations
+  kemendag: 2234 regulations
+  kemenhub: 1247 regulations
+  kemenkeu: 3839 regulations
+  kemenpppa: 192 regulations
+  kementan: 600 regulations
+  kemkes: 871 regulations
+  kemkomdigi: 24 regulations
+  kemkominfo: 307 regulations
+  kkp: 661 regulations
+  kp: 1 regulations
+  lhk: 367 regulations
+  m: 21 regulations
+  p2mi: 35 regulations
+  pdt: 27 regulations
+  ppn: 145 regulations
+  pupr: 222 regulations
+  unknown: 7132 regulations
+
+Batch files created:
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0001.txt
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0002.txt
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0003.txt
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0004.txt
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0005.txt
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0006.txt
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0007.txt
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0008.txt
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0009.txt
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0010.txt
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0011.txt
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0012.txt
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0013.txt
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0014.txt
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0015.txt
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0016.txt
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0017.txt
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0018.txt
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0019.txt
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0020.txt
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0021.txt
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0022.txt
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0023.txt
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0024.txt
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0025.txt
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0026.txt
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0027.txt
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0028.txt
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0029.txt
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0030.txt
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0031.txt
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0032.txt
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0033.txt
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0034.txt
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0035.txt
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0036.txt
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0037.txt
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0038.txt
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0039.txt
+  /root/.openclaw/peraturan-perundang-undangan-pdf/permen_batches/batch_0040.txt
